@@ -1,0 +1,352 @@
+chunk_id: 111
+sentences:
+- author: 当年明月
+  character: null
+  content: 张牙舞爪的人，往往是脆弱的，因为真正强大的人，是自信的，自信就会温和，温和就会坚定。
+  created_at: 2022-04-11 16:37:56
+  source: 明朝那些事儿
+  uuid: 6180be08-80ae-44b0-83ff-c86c17de6b6f
+- author: 伍佰
+  character: null
+  content: 简单爱你心所爱，世界也变得大了起来。
+  created_at: 2026-08-07 16:38:44
+  source: 再度重相逢
+  uuid: 8d3c346a-c2a3-44df-89f5-dc290aca756f
+- author: SquareBlock
+  character: null
+  content: 无为而无不为，以不变应万变。
+  created_at: 2020-12-20 09:56:14
+  source: 原创
+  uuid: ca22ecd0-89f8-43bd-a8fc-ab127236c46f
+- author: 刘慈欣
+  character: null
+  content: 未来的技术进步现在已成为不确定的事情，如果人类在太空中一直是蜗牛的速度，那我们就应该尽早开始爬。
+  created_at: 2021-05-09 15:47:08
+  source: '三体III: 死神永生'
+  uuid: e81a2a82-2b96-402d-a8d1-4d9a49ffce6f
+- author: 日向雏田
+  character: null
+  content: 是鸣人改变了我！是鸣人的笑脸拯救了我！所以，如果是为了保护鸣人，就算死，我也无可畏惧，因为我，最喜欢鸣人了。
+  created_at: 2016-12-07 12:55:47
+  source: ' 火影忍者'
+  uuid: 94022709-2cd7-4240-8c8f-7a2bf97c816f
+- author: 黄泉
+  character: null
+  content: 我为逝者哀悼。
+  created_at: 2025-07-19 14:46:03
+  source: 崩坏：星穹铁道
+  uuid: e484e28d-8dd9-4e1f-92b0-91742347de6f
+- author: 花晶晶
+  character: null
+  content: 洒一地斑驳阳光穿过新叶，心事空流转思念渐渐倾斜。
+  created_at: 2026-07-24 20:26:10
+  source: 咏春
+  uuid: cd02f85c-31d0-40b0-b58c-7e22d1fb186f
+- author: 刘慈欣
+  character: null
+  content: 大多数人，到死都没向尘世之外瞥一眼。
+  created_at: 2022-03-18 14:12:01
+  source: 三体
+  uuid: f13e8fdf-30c8-4a5f-87ee-446099487b6f
+- author: 苣屋骏太郎
+  character: null
+  content: 我的生命，本来就在不假思索地奔向死亡。
+  created_at: 2024-03-01 00:28:59
+  source: 弥留之国的爱丽丝
+  uuid: dd9fbb13-9f22-4b80-9ec9-f0f00b3a676f
+- author: 御坂美琴
+  character: null
+  content: 想打的话就握紧你的拳头，不想打的话就别挡路啊，别用这种半吊子的态度来践踏别人的决心啊！
+  created_at: 2024-02-20 20:15:18
+  source: 某科学的超电磁炮
+  uuid: 6aaeaed5-d64b-4165-8278-f23d5439946f
+- author: null
+  character: null
+  content: 偏我来时不逢春，恰无一人再似我。
+  created_at: 2023-04-27 11:28:00
+  source: 网络
+  uuid: 2cf08347-6c2e-4397-980c-ccaca4de726f
+- author: 加西亚·洛尔迦
+  character: null
+  content: 钟表走着同样的节拍，夜晚缀着同一簇星星。
+  created_at: 2021-01-11 18:20:28
+  source: 情歌
+  uuid: f5deb979-0cde-4641-84ae-a70ce4c8976f
+- author: null
+  character: null
+  content: 我没能说出口，不管是那句「我走了」，还是那句「对不起」，或者那句「谢谢」...
+  created_at: 2019-08-29 12:18:26
+  source: TARI TARI
+  uuid: f2039d3e-8bca-4212-b7ed-3324fa324e6f
+- author: null
+  character: null
+  content: 我…真的…每天都在…尽最大的力气……去演一个正常人......或者说在强迫自己正常……求你放过我吧
+  created_at: 2018-06-26 19:59:01
+  source: 来自网络
+  uuid: b58f52fd-c5de-4f15-a6c6-d548b77e1d6f
+- author: null
+  character: null
+  content: 是啊，总有人会一次又一次地选择奔向希望，无论那份希望有多么渺茫。
+  created_at: 2026-04-24 18:21:19
+  source: 无限暖暖
+  uuid: 3357fa30-4951-46f9-a73d-a3dcc41d246f
+- author: null
+  character: null
+  content: 我本来不想使出这一招的
+  created_at: 2016-11-10 22:19:40
+  source: 少年JUMP
+  uuid: fcfe3b0d-5214-4b33-b330-8201a407a86f
+- author: 春日野穹
+  character: null
+  content: 比起分手还是其他什么的，不得不停止对一个人的喜欢才是最痛苦的。
+  created_at: 2025-06-02 01:29:39
+  source: ヨスガノソラ
+  uuid: 882b91ba-23a5-4517-b6f2-6106aed9a66f
+- author: null
+  character: null
+  content: 参差荇菜，左右芼之。窈窕淑女，钟鼓乐之。
+  created_at: 2018-12-28 13:16:24
+  source: 关雎
+  uuid: 1e0734a1-4869-489b-afd2-d9483cd0806f
+- author: 东野圭吾
+  character: null
+  content: 我讨厌一会充满希望一会变成绝望，我们已经受够了期待落空了。
+  created_at: 2016-12-18 15:49:20
+  source: 流星之绊
+  uuid: e3fb6114-c3a9-4206-9e56-3e3e6cc34c6f
+- author: null
+  character: null
+  content: 自身不先改变的话，一切都不会改变。
+  created_at: 2016-07-16 02:05:10
+  source: 银魂
+  uuid: 29819f1c-c51d-4d8c-8c91-45069434356f
+- author: he
+  character: null
+  content: 趁着年轻，好好犯病。
+  created_at: 2022-04-20 18:14:00
+  source: he
+  uuid: 10c13017-f52c-441e-b505-26bf0165bd6f
+- author: null
+  character: null
+  content: 我知道的，面码…自己已经死掉这点事，还是知道的…
+  created_at: 2016-11-10 22:19:40
+  source: 我们仍未知道那天所看见的花的名字
+  uuid: 7e8e8277-fcb8-417b-82b0-44c4144c0b6f
+- author: null
+  character: null
+  content: 君子不器。
+  created_at: 2020-04-09 09:24:48
+  source: 论语·为政篇
+  uuid: 0c744811-3a9b-4ca0-97d2-5cb9b0f56e6f
+- author: null
+  character: null
+  content: 对不起，还有......谢谢你
+  created_at: 2018-09-20 20:31:10
+  source: 魔道祖师
+  uuid: 4cb253b3-f3aa-417e-b3c7-532392ca456f
+- author: null
+  character: null
+  content: 落日沉溺于橘色的海，晚风沦陷于赤诚的爱。
+  created_at: 2023-07-06 11:10:33
+  source: 人民日报
+  uuid: 535c6a2d-31aa-47ee-ba64-37d9ffba486f
+- author: 乌尔比安
+  character: null
+  content: 海渊会消化你们的骨骸。
+  created_at: 2026-06-27 14:32:02
+  source: 明日方舟
+  uuid: 42f9ba04-95fd-4fff-8397-2dd24c991b6f
+- author: null
+  character: null
+  content: 能轻易离开的人确实谈不上遗憾
+  created_at: 2020-01-14 16:52:32
+  source: 网络
+  uuid: cc3b8794-84c1-4a3b-bdf1-bca37d96cc6f
+- author: null
+  character: null
+  content: 生命是一团欲望，欲望不满足便痛苦，满足便无聊。人生就在痛苦和无聊之间摇摆。
+  created_at: 2020-12-06 22:56:02
+  source: 叔本华 ​​
+  uuid: aca08ba3-cdb1-4283-8f4c-2da7b3ef236f
+- author: John Kell
+  character: null
+  content: I play our nights back frame by frame。
+  created_at: 2026-08-30 08:29:21
+  source: HEAVENLY JUMPSTYLE
+  uuid: ef2fc750-6593-4a89-b54c-7ec2189b6b6f
+- author: null
+  character: null
+  content: Yeah, hey, big up my jeweler, big up my .45, big up my Ruger.
+  created_at: 2026-08-30 03:13:39
+  source: Bum Bum Tam Tam
+  uuid: 5adcad18-e1ea-49bd-b9f7-e152641e686f
+- author: 施人诚
+  character: null
+  content: 我们之间，不过三个字。
+  created_at: 2026-08-29 23:09:39
+  source: 恋人未满
+  uuid: 594d8fac-db44-456f-a788-ee7f9cc8cf6f
+- author: John Kell
+  character: null
+  content: Count the cracks across the floor。
+  created_at: 2026-08-29 22:27:24
+  source: HEAVENLY JUMPSTYLE
+  uuid: 8f6a9951-adc3-4229-a8ac-d43d4a24616f
+- author: 古巨基
+  character: null
+  content: 挤拥得很要和大卫合照吗？
+  created_at: 2026-08-08 16:05:07
+  source: 罗马假期
+  uuid: 78783893-b19c-4c85-a088-4e1ba7647e6f
+- author: 施人诚
+  character: null
+  content: 友达以上，恋人未满。
+  created_at: 2026-08-07 16:22:34
+  source: 恋人未满
+  uuid: f21b8ca6-dc0d-422d-85c1-4866d46fa66f
+- author: null
+  character: null
+  content: 南风知我意，吹梦到西洲。
+  created_at: 2019-04-24 09:43:36
+  source: 西洲曲
+  uuid: 63a1ce47-4ca5-49f9-a43a-7d0a6815326f
+- author: null
+  character: null
+  content: 爱的是你，最爱的还是你。
+  created_at: 2015-04-03 12:36:19
+  source: 日常
+  uuid: f088e9b9-5f63-4592-846b-91c7b625bc6f
+- author: 纯白
+  character: null
+  content: 就算被世界遗忘，我也会陪在你的身旁。
+  created_at: 2023-02-10 22:48:42
+  source: 唱给雅音宫羽
+  uuid: 6dc3ce16-3d21-400b-9dfe-15c49d67626f
+- author: null
+  character: null
+  content: 看来你是不见棺材不落泪不到黄河心不死欲穷千里目更上一层楼呢
+  created_at: 2018-08-01 14:58:42
+  source: 十万个冷笑话
+  uuid: ab9125ec-99c8-42d5-bca0-abe5c7c2a36f
+- author: CuSO4
+  character: null
+  content: 在有着粉色天空的世界，于河漫滩上立起阳伞，在永不结束的黄昏中欣赏水天一色。
+  created_at: 2023-07-18 17:05:39
+  source: 花间拾梦
+  uuid: c9ae9fef-a966-4f44-9c0f-1065f864806f
+- author: 茉莉雨
+  character: null
+  content: 想对你说一句你真厉害，现在竟会犹豫。
+  created_at: 2025-04-16 23:12:40
+  source: 有感
+  uuid: 02c1a689-bfe6-4779-96c6-2bcc77feaf6f
+- author: Cheshrin
+  character: null
+  content: 帅哥从不站门外。
+  created_at: 2024-09-05 11:52:54
+  source: Cheshrin
+  uuid: eba69e20-b8f5-4bca-b021-fbcc2865936f
+- author: 清风
+  character: null
+  content: 我们就像木偶一样被人摆弄，有的付出了一切得到了自己所想要的，有的则永远成为了木偶。
+  created_at: 2024-03-16 12:08:10
+  source: 清风
+  uuid: df32b714-89be-41df-b459-dd2f414e306f
+- author: 清巳星嵐
+  character: null
+  content: 萧萧玉笛兮孩儿啼，绵绵征军兮终不返。
+  created_at: 2022-08-29 21:06:33
+  source: 泷
+  uuid: 30b17b83-1261-4d7b-bdbf-44948d2d466f
+- author: 夜杏
+  character: null
+  content: 千篇一律的面具背后尽是伪善的人心。
+  created_at: 2021-03-05 23:28:50
+  source: 随笔
+  uuid: 37fa0c87-0b04-49aa-9509-c7f520f51d6f
+- author: 尼希亚南达
+  character: null
+  content: 当你发现你思想的力量时，你的思想将专注于人际关系、教育、财务及人生并在这些领域达到成功。
+  created_at: 2021-02-20 21:35:50
+  source: 与你的四大内在力量相遇
+  uuid: 77076578-4d41-493d-9cb7-36545a345e6f
+- author: 白给少年洛初
+  character: null
+  content: 人生，三十年前看爹敬儿，三十年后看儿敬爹！
+  created_at: 2020-06-30 11:03:27
+  source: 原创
+  uuid: d844038b-cb58-489d-874d-65efc95d9f6f
+- author: 小忧忧
+  character: null
+  content: 社会是个就像个机床，人就像块没有加工过的铁。
+  created_at: 2020-04-30 14:27:14
+  source: 原创
+  uuid: 3d21e4ed-a2a1-46e4-9a57-2b7be6ab796f
+- author: null
+  character: null
+  content: 春去夏又来，而某些人和事，不再回来。留下记忆终将随风飘散，陪着一同逝去的青春。
+  created_at: 2019-10-28 16:45:03
+  source: 原创
+  uuid: af543ba6-7b11-4ccc-ba97-f4004cdd856f
+- author: null
+  character: null
+  content: The world is so immense that there must be a you. The world is so immense
+    that I might never run into you.
+  created_at: 2016-11-10 22:19:40
+  source: 原创
+  uuid: dcc031ca-e7bc-481b-a9b9-5f9660df246f
+- author: 罗辑
+  character: null
+  content: 幸旧颜隔世不曾凋谢，且再执手共看天地静切。
+  created_at: 2022-03-21 20:58:19
+  source: 三体
+  uuid: cd5404f0-c92b-475d-b732-cdab1931b56f
+- author: 刘慈欣
+  character: null
+  content: 把字刻在石头上。
+  created_at: 2021-05-09 15:47:11
+  source: '三体III: 死神永生'
+  uuid: efd51c31-257a-47e9-ba9c-e976b18fea6f
+- author: null
+  character: null
+  content: 数一个豆荚之中所有的豆子，或许为它们命名更好，这样它们就不会无名成长了。
+  created_at: 2018-08-09 22:29:28
+  source: SCP基金会
+  uuid: 205d6357-2b1e-45c2-9dbf-264c534c4f6f
+- author: null
+  character: null
+  content: 不计代价，小子，活下去。
+  created_at: 2018-09-03 14:09:32
+  source: gta5麦克
+  uuid: c600a0c4-b59e-4721-982c-21a2da09ad6f
+- author: 椿
+  character: null
+  content: 从认识你，到和你性命相连，我从未后悔过。
+  created_at: 2021-01-24 04:01:33
+  source: 大鱼海棠
+  uuid: 9239cf92-20b4-4f56-9cc3-dc92482ce86f
+- author: null
+  character: null
+  content: 正因为不会发生，人们才称它为”奇迹“
+  created_at: 2018-07-03 16:43:55
+  source: KANON
+  uuid: 3ae888ff-b48c-485c-bb31-b6f33f04b56f
+- author: null
+  character: null
+  content: All for one, one for all.
+  created_at: 2016-11-10 22:19:40
+  source: 海贼王
+  uuid: 5ea37c6a-5809-4167-af84-e0aab4edad6f
+- author: null
+  character: null
+  content: 英雄意味着强大，英雄意味着孤独，最后一幕一定是英雄渐行渐远，我的英雄也是那样的存在。
+  created_at: 2016-09-11 10:47:49
+  source: 四月是你的谎言
+  uuid: ddcfb677-4d67-4938-9aec-77448eeb5b6f
+- author: null
+  character: null
+  content: 死亡只要在人生的终点尝试一次就够了~
+  created_at: 2016-08-30 17:42:30
+  source: Re：从零开始的异世界生活
+  uuid: db0a436d-a724-4ae8-ab5b-f190ba21dd6f
+updated_at: 2026-09-25 11:58:45.187710+00:00

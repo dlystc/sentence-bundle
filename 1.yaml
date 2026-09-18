@@ -1,0 +1,267 @@
+chunk_id: 1
+sentences:
+- author: 兰
+  character: null
+  content: 我期待着，在能够看到北极光的地方，与你再一次相逢。
+  created_at: 2021-05-01 20:12:16
+  source: 死后文
+  uuid: f92252cf-aa6f-467a-b5d5-0d995d5b6501
+- author: null
+  character: null
+  content: 我不承认需要有人牺牲的魔法，而且人与人的思念，可以超越魔法。
+  created_at: 2016-09-29 01:32:22
+  source: 芳乃樱
+  uuid: c1021951-e761-417c-9100-36d4deb75001
+- author: null
+  character: null
+  content: 我想成为一个温柔的人,因为曾被温柔的人那样对待,深深了解那种被温柔相待的感觉。
+  created_at: 2018-07-09 12:28:41
+  source: 夏目友人帐
+  uuid: db7022da-d4c4-4a9c-ba10-2efc39884b01
+- author: null
+  character: null
+  content: 世界并不完美，却因此而美丽。
+  created_at: 2016-07-16 02:05:12
+  source: 奇诺之旅
+  uuid: 2525c25f-300c-41c2-8ddf-fffcbecb4801
+- author: Color_洛洛洛
+  character: null
+  content: 亲爱的，你当然有哭泣的权利。
+  created_at: 2026-05-01 21:29:21
+  source: 网络
+  uuid: 71a0bcd1-44e7-4620-8c9a-04e1116b5c01
+- author: 苏轼
+  character: null
+  content: 小舟从此逝，江海寄余生。
+  created_at: 2020-04-09 09:23:05
+  source: 临江仙·夜饮东坡醒复醉
+  uuid: b44c8eef-0b6b-4afe-8f92-667d68518401
+- author: 刘慈欣
+  character: null
+  content: 知道各位都是不要命的，我们也是冲不要命来的。
+  created_at: 2020-04-28 16:54:18
+  source: 三体
+  uuid: e6fa185c-bbe3-47ed-9614-79d61dbd4b01
+- author: 西子绪
+  character: null
+  content: 他们心里都清楚，这件事永远都过不去。所有的话语都是敷衍和欺骗，他们彻底地失去了那个笑得像个傻子似的小孩。
+  created_at: 2024-04-14 17:34:51
+  source: 死亡万花筒
+  uuid: 8f0f06e6-7b68-4e50-8708-3ec59d302701
+- author: 赛诺
+  character: null
+  content: 虚空有计算不到的事物，人也不会被过去束缚。
+  created_at: 2022-12-31 19:21:01
+  source: 原神
+  uuid: 0f0bf776-0fed-4a35-82b1-23f76e11bf01
+- author: 大森元貴
+  character: null
+  content: やるせない何かと。
+  created_at: 2026-08-29 22:20:20
+  source: Brand New
+  uuid: 4948727e-bf04-4ef3-bed7-8f6da00f1a01
+- author: 庄子
+  character: null
+  content: 直木先伐，甘井先竭。
+  created_at: 2024-08-01 08:37:29
+  source: 庄子
+  uuid: 32dab8e8-c875-4ce4-96e9-3168e0f7ac01
+- author: 亚托克斯
+  character: null
+  content: 那些天堂，那些无穷无尽层层套叠的天空，它们在哪里？
+  created_at: 2022-01-07 15:05:27
+  source: 英雄联盟
+  uuid: 873b6c77-e4e6-4e11-a9b3-5328e194eb01
+- author: 杜甫
+  character: null
+  content: 露从今夜白，月是故乡明。
+  created_at: 2020-04-07 21:33:15
+  source: 月夜忆舍弟
+  uuid: dbb61cbd-1b92-427f-97d5-7788698efb01
+- author: 颀鞍
+  character: null
+  content: 蘸朱紫将登金银楼。
+  created_at: 2026-08-29 23:37:49
+  source: 吹梦到西洲
+  uuid: c982eb95-8a87-45a0-871e-a3290525e401
+- author: null
+  character: null
+  content: 今夜皎月正当明，不念天涯但思卿。
+  created_at: 2022-10-27 17:21:41
+  source: 钟临天
+  uuid: ab2935f7-42e9-4a31-9b9f-94f3c1123901
+- author: null
+  character: null
+  content: 叶え！私たちの夢ー。
+  created_at: 2016-11-10 22:19:40
+  source: ラブライブ！
+  uuid: 55f5e370-1227-4c54-a3e7-dc84b65ab301
+- author: null
+  character: null
+  content: 这个世界啊，很美丽的，很广大的，很辽阔的！
+  created_at: 2019-09-04 18:26:55
+  source: Darling in the FRANXX
+  uuid: 14e9e254-b836-4e96-ba68-fb018b994f01
+- author: null
+  character: null
+  content: Hey, automatic spazzin', jumping in the crowd just like Uzi.
+  created_at: 2026-08-30 02:53:25
+  source: Bum Bum Tam Tam
+  uuid: 62db87eb-df51-4564-b5c6-423739e01901
+- author: null
+  character: null
+  content: 寻觅归乡之路，一次一颗子弹
+  created_at: 2018-10-06 19:52:58
+  source: 少女前线
+  uuid: a975b7d6-04cf-45b2-9ea9-09de9bea6201
+- author: null
+  character: null
+  content: 即使天还没有亮，固执做梦的人，身前会有光。
+  created_at: 2018-10-30 12:47:46
+  source: 日食记
+  uuid: 866a4cce-2c00-4cd3-b1dc-cc21b9067301
+- author: null
+  character: null
+  content: 人都会长大的，长大了之后，就会捡起一些新东西，丢掉一些旧东西，就这么丢丢捡捡，哗啦一下子，就老喽。
+  created_at: 2019-10-27 14:31:02
+  source: 剑来
+  uuid: 03a1cdd1-ed5c-4be9-8199-3e27aaf13501
+- author: null
+  character: null
+  content: 还能再见面吗? 一定能见面的
+  created_at: 2016-11-10 22:19:40
+  source: Fantastic Children
+  uuid: fef5e149-2022-4c21-8f2b-e972211cb601
+- author: studyMachine
+  character: null
+  content: 你得到什么东西，必然就会失去什么东西。如果你觉得你什么都没有失去，那可能仅仅是你觉得。
+  created_at: 2021-03-05 12:12:50
+  source: studyMachine
+  uuid: 4f57c3f0-c12b-4257-bf7a-ba8503b34b01
+- author: 张学友
+  character: null
+  content: 得你一个，不要花火，无需经历从未遗憾过，冒险生活从未适合我，得你得我若无其事渡过，难得的是你不讨厌我。
+  created_at: 2020-07-24 00:56:26
+  source: 我得你
+  uuid: 210abe14-2bd9-483a-9d49-216dd8e28701
+- author: null
+  character: null
+  content: 落日拉开黑夜的帷幕，繁星点燃黎明的火光。
+  created_at: 2018-09-09 10:53:38
+  source: 神奇のDzoer
+  uuid: 769c93c2-b7db-47f8-a39b-df52e37b0f01
+- author: 道雀Bzz
+  character: null
+  content: 欲望被放大，欲望被升腾。
+  created_at: 2026-08-08 15:19:34
+  source: 倾斜的婚礼
+  uuid: 11b0182b-f673-4d7c-b3a6-553369831501
+- author: 伊丽莎白·吉尔伯特
+  character: null
+  content: 只要能接近她，我愿意忍受任何肮脏与玷污。
+  created_at: 2022-01-18 15:43:20
+  source: 女孩之城
+  uuid: 0188a43d-f788-464d-93f2-96be8e507001
+- author: 韦庄
+  character: null
+  content: 春水碧于天，画船听雨眠。
+  created_at: 2020-04-07 22:58:48
+  source: 菩萨蛮·人人尽说江南好
+  uuid: c96a0d32-ac23-4cb7-95c7-6abb2f892a01
+- author: null
+  character: null
+  content: 人生，一半是现实，一半是梦想。一念花开，一念花落。
+  created_at: 2020-02-25 02:51:33
+  source: 火影忍者
+  uuid: f21fb8b6-05d7-4db7-b93a-ce4fcc7c2501
+- author: 歌德
+  character: null
+  content: 凡是值得思想的事情，没有不是被人思考过的；我们必须做的只是试图重新加以思考而已。
+  created_at: 2021-10-13 23:05:56
+  source: 歌德
+  uuid: 207ae24a-156f-4cd7-94cb-1c8e2d315001
+- author: null
+  character: null
+  content: 那美好的仗已经打了，应行的路已经行尽，当守的道已经守住，自从之后，有正义的冠冕为你存留。
+  created_at: 2022-02-17 00:43:20
+  source: 新约·提摩太后书
+  uuid: b8443236-a200-4fba-9d3a-fb200662f201
+- author: 白居易
+  character: null
+  content: 乱花渐欲迷人眼，浅草才能没马蹄。
+  created_at: 2020-04-09 09:24:46
+  source: 钱塘湖春行
+  uuid: 9faaf92c-ed63-4426-9774-dbc5c0bc0801
+- author: 杨巨源
+  character: null
+  content: 若待上林花似锦，出门俱是看花人。
+  created_at: 2020-04-09 09:22:54
+  source: 城东早春
+  uuid: 0e36fe28-11e1-43e1-8c5b-513c99514601
+- author: 王健美
+  character: null
+  content: 把人生苦乐活通透。
+  created_at: 2026-08-08 16:08:43
+  source: 山风山风等等我
+  uuid: 913a1466-e3b4-42db-b647-186f80154f01
+- author: 郑强
+  character: null
+  content: 看看那些开着豪车却随地吐痰的富翁，你就知道没有教育，中国再富裕也不会强大。
+  created_at: 2023-09-15 19:13:17
+  source: 郑强
+  uuid: bd1e95d3-6d31-4f6b-b224-41692f93b701
+- author: null
+  character: null
+  content: 如果赶不上日出高光，也错过落日余晖，请记得还有漫天星辰。
+  created_at: 2024-01-28 15:06:28
+  source: 网络
+  uuid: 00478de2-94ea-4baf-bb54-d6f583505501
+- author: 我会修空调
+  character: null
+  content: 我在地狱里伸出了手，没有人来救，直到你出现的那天，我开始担心自己会把你拖入深渊。
+  created_at: 2023-09-07 23:13:03
+  source: 我有一座恐怖屋
+  uuid: 44303394-b795-4b6b-ac70-05bde7fbe001
+- author: 尼采
+  character: null
+  content: 那杀不死我的，使我更坚强。
+  created_at: 2022-11-28 10:43:17
+  source: 尼采生存哲学
+  uuid: d34ee069-c578-4ae0-9727-f18f5b89a001
+- author: 太宰治
+  character: null
+  content: 若能避开猛烈的欢喜，自然不会有悲痛来袭。
+  created_at: 2021-04-06 18:47:26
+  source: 《人间失格》
+  uuid: a053daa5-c98b-47fb-a80f-c3c632a2f001
+- author: null
+  character: null
+  content: 真正的黑暗长着一张爱情的脸，第一次的死亡是在心里的，哈里。
+  created_at: 2026-09-05 19:35:55
+  source: 极乐迪斯科
+  uuid: e74d7753-0aab-4551-89d5-636031bad501
+- author: null
+  character: null
+  content: 迷路有什么大不了的！我连人生的方向都迷失了。
+  created_at: 2026-04-22 22:56:42
+  source: 宝可梦传说 Z-A
+  uuid: 6afb3af4-e837-4727-b563-c5a7cd8b7a01
+- author: null
+  character: null
+  content: 我深知，这之后我们无法一直守在一起，挡在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，令我们无能为力。
+  created_at: 2024-02-20 20:17:23
+  source: 秒速5厘米
+  uuid: c1960dc3-1b6b-42f8-b9a5-48053326da01
+- author: null
+  character: null
+  content: 你已经不是我的狗了。
+  created_at: 2017-04-14 10:27:53
+  source: 龙与虎
+  uuid: fdb02641-61db-4439-b997-8176bb219901
+- author: null
+  character: null
+  content: 我们不是狼，我们只是长着獠牙的羊......
+  created_at: 2016-11-10 22:19:40
+  source: 羊之歌
+  uuid: ab5b37a1-da13-4a8c-ba0b-67ac123f5001
+updated_at: 2026-09-25 11:58:45.651021+00:00

@@ -1,0 +1,213 @@
+chunk_id: 25
+sentences:
+- author: 刘渤源
+  character: null
+  content: 若有来生，我愿重至，月明花下。化雨为雾，赏曾经，灼灼桃花。
+  created_at: 2020-08-05 18:52:17
+  source: 夜言
+  uuid: 4c92849d-7011-43ea-957f-9c7180c83019
+- author: 太宰治
+  character: null
+  content: 所谓世人，不就是你吗？
+  created_at: 2021-09-23 10:01:57
+  source: 人间失格
+  uuid: b2a1a7bc-8010-42fb-92f4-19a3d689c719
+- author: 穆旦
+  character: null
+  content: 绿色的火焰在草上摇曳，它渴求着拥抱你。
+  created_at: 2024-03-09 10:02:30
+  source: 春
+  uuid: e022e2e1-c490-4d16-93a3-6867a085f719
+- author: null
+  character: null
+  content: 一个人在沙漠的机场，等一艘开往亚特兰蒂斯的船。
+  created_at: 2020-12-10 08:56:18
+  source: 佚名
+  uuid: 61e5bc93-375d-43e6-b21d-85fdb38cb219
+- author: null
+  character: null
+  content: 你可以期待太阳从东方升起，而风却随心所欲地从四面八方吹来。
+  created_at: 2021-05-14 19:31:21
+  source: 萨特
+  uuid: 229dc2c5-39cc-47cc-bed0-023a9bd85919
+- author: 瓶子
+  character: null
+  content: 千载流年一如梦，月落山河一世倾。
+  created_at: 2020-04-22 14:35:18
+  source: 灵契
+  uuid: 3004c714-2329-4edc-a08e-533a8b5ca319
+- author: 吴佩岭@房东的猫
+  character: null
+  content: 我的灵魂也藏着倦意。
+  created_at: 2026-08-08 15:15:21
+  source: 不擅生长的树
+  uuid: f5cede16-5ae0-4592-a121-d963917da219
+- author: S.H.E
+  character: null
+  content: 只要你说出口，你就能拥有我。
+  created_at: 2026-08-07 16:22:50
+  source: 恋人未满
+  uuid: ccd844cc-86c4-4d9c-83c4-f5d2d9c6a419
+- author: 夜杏
+  character: null
+  content: 我曾因她置身光明，却又因她堕于崖底。
+  created_at: 2021-03-05 23:27:58
+  source: 随笔
+  uuid: 8aa19f15-738d-4262-8f6a-0fb30f8acb19
+- author: 残灯晓霜
+  character: null
+  content: 虽然我的心脏停止跳动了，但它不会停止爱你。
+  created_at: 2020-05-09 14:02:10
+  source: 我死了
+  uuid: cd3b8d01-6d2b-4c4d-a313-8bf9ac1a2819
+- author: 泰戈尔
+  character: null
+  content: 世界以痛吻我，要我报之以歌。
+  created_at: 2025-07-27 11:52:14
+  source: 飞鸟集
+  uuid: 816abfa5-225f-4313-9868-4df6e20c6a19
+- author: null
+  character: null
+  content: 和平视窗计划只是个美丽的童话，竞赛代替不了战争，就像葡萄酒代替不了鲜血。
+  created_at: 2020-01-12 23:39:10
+  source: 光荣与梦想
+  uuid: c28dbd85-7a1d-4735-a55e-7e689816ca19
+- author: 李贺
+  character: null
+  content: 大漠沙如雪，燕山月似钩。
+  created_at: 2020-04-09 09:22:58
+  source: 马诗二十三首·其五
+  uuid: e599af50-29bb-4b48-b2c1-76f94d97ae19
+- author: John Kell
+  character: null
+  content: Say you need me, need me.
+  created_at: 2026-08-30 02:28:02
+  source: HEAVENLY JUMPSTYLE
+  uuid: ebf35ecd-a998-4d9c-b2c0-035c86492019
+- author: 毛姆
+  character: null
+  content: 年长者最大的修养就是控制住批评年轻人的欲望。
+  created_at: 2020-06-17 20:26:51
+  source: 月亮与六便士
+  uuid: e660a1d0-a955-4da0-a877-b782db2c5b19
+- author: 余秀华
+  character: null
+  content: 我该如何爱你？风吹动岁月的经幡，近也不能，远也不能。
+  created_at: 2023-06-06 23:02:31
+  source: 月光落在左手上
+  uuid: f9ba87df-b4ec-4b6c-905d-1be14b596819
+- author: 大森元貴
+  character: null
+  content: I love youの先へ。
+  created_at: 2026-08-30 03:01:15
+  source: Brand New
+  uuid: 1894f26d-e667-4ef3-9ed2-b95779291b19
+- author: 博尔赫斯谈话录
+  character: null
+  content: 我们在努力扩大自己，以靠近，以触及我们自身以外的世界。
+  created_at: 2020-06-14 17:17:19
+  source: 豪尔赫·路易斯·博尔赫斯
+  uuid: b2f3834f-5f52-4b62-bb3c-f9fb98901419
+- author: null
+  character: null
+  content: 成熟的人眼里满是前途，稚嫩的人眼里满是爱恨情仇。
+  created_at: 2020-12-08 21:26:33
+  source: 网易云热评
+  uuid: 55eb86a8-b0e5-4e35-986d-45db57c48b19
+- author: 白居易
+  character: null
+  content: 同是天涯沦落人，相逢何必曾相识！
+  created_at: 2020-04-07 21:27:50
+  source: 琵琶行 / 琵琶引
+  uuid: 18bcfb55-e36c-4dfa-a42a-175a1c2ecc19
+- author: 周梦忆
+  character: null
+  content: 随意切换 我的速度 我的轨道。
+  created_at: 2026-08-08 14:51:46
+  source: TURN UP
+  uuid: 0fcb1ff7-ff2f-4ca2-a15a-e021236b4819
+- author: ChiliChill
+  character: null
+  content: 不见万家灯火，尽斩世间妖魔，如此一切只为苍生不要想太多。
+  created_at: 2023-02-10 22:58:17
+  source: 让风告诉你
+  uuid: 1b44027e-87c3-4c9e-913e-83a989f04a19
+- author: null
+  character: null
+  content: 那是年少时的我们，在夜晚看星空。
+  created_at: 2026-08-29 22:22:45
+  source: 我的纸飞机
+  uuid: 794b5b31-8e53-4fd8-a513-b108981afe19
+- author: Curtain.飘尘
+  character: null
+  content: 我想陪你沐晨曦，同你看晚霞。与你赏明月，共度此余生。
+  created_at: 2024-05-25 23:46:12
+  source: 个人
+  uuid: bd9fb280-f08e-46de-81c5-b7b12051fa19
+- author: 黔中极客
+  character: null
+  content: 山外阁楼尘世离，落霞明，山无情。遍野蝉鸣，残月上三巡。
+  created_at: 2025-02-14 20:31:37
+  source: 黔中极客
+  uuid: 63f2cc4d-c76d-4a7c-8aa0-3c0f1bfc5c19
+- author: 老番茄
+  character: null
+  content: 每个人藏在影子里的，才是他真实的那面。
+  created_at: 2020-07-25 16:26:15
+  source: 史上最骚大侦探
+  uuid: 77d7e02b-3f15-4ad1-bee7-68709e48a619
+- author: 边妤仙
+  character: null
+  content: 不用羡慕，你也是太阳。
+  created_at: 2020-05-13 13:14:21
+  source: 原创
+  uuid: c6239fd3-7279-4155-9e9b-323a76393219
+- author: null
+  character: null
+  content: 不管明天会发生什么，请牢记住今天。
+  created_at: 2017-04-03 17:00:31
+  source: 根号菌SAMA
+  uuid: 09d95092-c25d-4170-9627-c636f05f6c19
+- author: 烽火戏诸侯
+  character: null
+  content: 我有一剑，可搬山，断江，倒海，降妖，镇魔，敕神，摘星，摧城，开天！
+  created_at: 2024-03-06 20:33:28
+  source: 剑来
+  uuid: 55600340-f814-4a64-95f6-774ba05a9b19
+- author: 康熙
+  character: null
+  content: 人才藏在人海里，就像锥子搁在裤兜里，这锥子嘛，一个是要出头，二是要扎人。
+  created_at: 2022-10-04 20:11:37
+  source: 康熙王朝
+  uuid: 21417118-7df9-4d0f-8d82-7a3a59aa4a19
+- author: null
+  character: null
+  content: 呜......豁出去了！博、博士，我来——断后！！
+  created_at: 2026-06-27 14:29:35
+  source: 明日方舟
+  uuid: b63e96c3-e99d-456d-9521-bdb6b68fcb19
+- author: 闪光的哈萨维
+  character: null
+  content: 当你准备好的时候，死神就追不上你。
+  created_at: 2022-05-10 23:39:49
+  source: 机动战士高达
+  uuid: 3a68b67b-21c1-4b74-a894-95a2d43b9a19
+- author: 朝花夕誓
+  character: null
+  content: 送走人间种种别离，送走世间种种变迁，逝者如斯，时光永远不会止步；我们会再度与人萍水相逢，相识相知，一同织下我们的人生。
+  created_at: 2021-05-07 17:04:53
+  source: 朝花夕誓
+  uuid: 64567305-6573-4360-ae5f-a27afcded219
+- author: null
+  character: null
+  content: 最后好想有个拥抱....，可是...那种事情怎么能说得出口.....
+  created_at: 2016-09-29 00:49:49
+  source: 露西
+  uuid: 0428f3d0-6d6e-42e0-a766-8d63d7a4dc19
+- author: null
+  character: null
+  content: Eloim Essaim Eloim Essaim 请聆听我的请求。
+  created_at: 2016-09-11 10:45:15
+  source: 四月是你的谎言
+  uuid: e2f504b6-791b-44b7-94c9-b3c6fec8d319
+updated_at: 2026-09-25 11:58:45.714224+00:00

@@ -1,0 +1,219 @@
+chunk_id: 30
+sentences:
+- author: 白居易
+  character: null
+  content: 回眸一笑百媚生，六宫粉黛无颜色。
+  created_at: 2021-01-28 23:14:16
+  source: 长恨歌
+  uuid: b84b9c14-5adc-4736-8afe-bd1b6fa89a1e
+- author: 人生K线
+  character: null
+  content: I just want to be treated tenderly.
+  created_at: 2026-08-07 16:04:44
+  source: 精卫（英文版）
+  uuid: 5874e197-abf1-48d9-b5be-1c5303aa7a1e
+- author: 贾岛
+  character: null
+  content: 十年磨一剑，霜刃未曾试。
+  created_at: 2020-04-07 21:27:51
+  source: 剑客 / 述剑
+  uuid: 0d4ccd01-a095-4d7c-9615-acda3502351e
+- author: null
+  character: null
+  content: 生活不可能像你想象得那么好，但也不会像你想象得那么糟。 我觉得人的脆弱和坚强都超乎自己的想象。 有时，我可能脆弱得一句话就泪流满面；有时，也发现自己咬着牙走了很长的路。
+  created_at: 2020-12-06 22:50:58
+  source: 莫泊桑
+  uuid: 0aeb9e00-0335-4bed-878b-a31790d7251e
+- author: null
+  character: null
+  content: 不要在晚上做出任何决定。
+  created_at: 2020-03-25 20:35:57
+  source: 互联网
+  uuid: 84ece63a-e7e1-4f89-b8f9-eddadbdfdb1e
+- author: 任正非
+  character: null
+  content: 没有伤痕累累，哪来皮糙肉厚，英雄自古多磨难。
+  created_at: 2024-01-20 20:18:11
+  source: 华为
+  uuid: d6ae3e89-5a28-4b78-a31e-706f12b8341e
+- author: 郑明河
+  character: null
+  content: 唱一回琴声温柔 莫再回首。
+  created_at: 2026-06-21 20:46:07
+  source: 戏愁
+  uuid: e07a8759-1b5f-46d8-9ea1-122663f39c1e
+- author: Bob Dylan
+  character: null
+  content: Like a rolling stone.
+  created_at: 2024-09-16 15:37:37
+  source: Like a rolling stone
+  uuid: 87f15c9f-ef4f-4edb-837e-f13d1f582a1e
+- author: 潘源良
+  character: null
+  content: 一颗心分一半好吗，起码一半都交给我好吗，给我吗。
+  created_at: 2026-08-07 13:07:24
+  source: 半点心
+  uuid: 867d9b6d-07c6-495b-b092-03e4743eb71e
+- author: 吉冈双叶
+  character: null
+  content: 有了喜欢的人，就会在意各种小事，感觉很不自由，但是，为了那些小事左思右想，心里竟然会这么快乐。
+  created_at: 2016-12-07 12:55:47
+  source: 闪烁的青春
+  uuid: aede503a-331e-447a-8ac8-3cd7d81dba1e
+- author: 朝仓美羽
+  character: null
+  content: 我也想要成为那种可以给别人带去幸福的人。
+  created_at: 2021-05-03 20:00:59
+  source: 文学少女
+  uuid: dd926c4e-a460-4859-92bf-af57e391021e
+- author: 武则天
+  character: null
+  content: 看朱成碧思纷纷，憔悴支离为忆君。
+  created_at: 2020-04-09 10:14:51
+  source: 如意娘
+  uuid: 980f292f-1484-4a8c-aebc-db99087a3c1e
+- author: 幕崽
+  character: null
+  content: 我罚你，余生处处是我的影子。
+  created_at: 2025-09-05 09:36:14
+  source: 随笔
+  uuid: c56293c1-889d-46de-92cd-75f1a9b5091e
+- author: hasaki
+  character: null
+  content: 意义这二字是没有标准的，人生本没有意义，所有的意义是个人自己赋予的，你觉得有意义便有意义。
+  created_at: 2023-01-10 17:51:17
+  source: 一库
+  uuid: b53186a5-6fee-4f30-945e-f134744d571e
+- author: null
+  character: null
+  content: 哪怕是打断你的手脚，也要把你带回去。
+  created_at: 2018-09-06 18:56:30
+  source: 火影忍者
+  uuid: 2315ac75-063e-44c5-bfe7-e257ff49b61e
+- author: 八重神子
+  character: null
+  content: 你们对他的处境这么关心，最后却要推我出来干活，是不是不太公平?
+  created_at: 2022-07-18 17:29:56
+  source: 原神
+  uuid: 97d0d2f4-7f8c-4be3-bfdb-69c6ff18741e
+- author: null
+  character: null
+  content: Via Soul!
+  created_at: 2020-06-03 08:19:06
+  source: Sdorica
+  uuid: c4133ac7-6914-4164-ba1a-5acf4c1bf91e
+- author: null
+  character: null
+  content: 你的故事很长，如果能由我来收尾就好了。
+  created_at: 2018-11-11 12:03:55
+  source: 乱世流年
+  uuid: ad04f321-3dd4-4c05-b61b-aa31cd0c7c1e
+- author: 路遥
+  character: null
+  content: 在最平常的事情中都可以显示出一个人人格的伟大来！
+  created_at: 2020-02-12 10:00:58
+  source: 平凡的世界
+  uuid: 8b8e213f-386d-4896-bfab-e2415400991e
+- author: null
+  character: null
+  content: 活在现实中的人是错的，而那些哭泣的人才是正确的，孤独的我们才有人类的样子
+  created_at: 2016-08-30 15:46:07
+  source: angel beats
+  uuid: 585416af-b6f9-4018-8348-e7528f2f811e
+- author: 画中人
+  character: null
+  content: 天有烘炉，地生五金，晖冶寒萃照云清。星藏点雪，月隐晦明，拙山枯水大江行。
+  created_at: 2021-08-06 08:25:19
+  source: 明日方舟
+  uuid: 05d64101-c050-4b7b-b4f1-3ca7a0fd691e
+- author: 鲁迅
+  character: null
+  content: 悲剧将人生的有价值的东西毁灭给人看，喜剧将那无价值的撕破给人看。
+  created_at: 2020-02-21 19:23:07
+  source: 语丝
+  uuid: b017da94-55f6-4a66-bcca-c4a098da781e
+- author: 苏轼
+  character: null
+  content: 相逢一醉是前缘，风雨散、飘然何处。
+  created_at: 2020-04-08 16:11:31
+  source: 鹊桥仙·七夕
+  uuid: 960f7df3-ae11-413f-9a9a-ce1d47345d1e
+- author: 卓文君
+  character: null
+  content: 愿得一心人，白头不相离。
+  created_at: 2020-04-07 02:49:10
+  source: 白头吟
+  uuid: 1d300772-4c0e-4ec8-a347-2fac0583071e
+- author: null
+  character: null
+  content: 人类把最精密的保密系统，都用在了自我毁灭上。
+  created_at: 2023-01-28 17:09:57
+  source: 流浪地球2
+  uuid: c8a36845-21a6-4b9a-8784-aaf9def7861e
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 11:51:34
+  source: METAMORPHOSIS
+  uuid: f4235fc7-0528-4053-933d-7929803aed1e
+- author: John Kell
+  character: null
+  content: Every old love song sounds like us.
+  created_at: 2026-08-30 08:08:36
+  source: HEAVENLY JUMPSTYLE
+  uuid: c5f76d4a-06fa-4a1d-a300-02981aab231e
+- author: 廖伟志
+  character: null
+  content: 似梦似醒憧憬被打破。
+  created_at: 2026-08-30 04:46:47
+  source: 你有没有真的爱过我
+  uuid: 842ebab6-475e-4355-8b1e-f32ff983da1e
+- author: 李康宁/菲道尔
+  character: null
+  content: 上天啊，你千万不要偷偷告诉他，在无数夜深人静的夜晚，我依旧在想他。
+  created_at: 2022-02-02 17:27:01
+  source: 阿拉斯加海湾
+  uuid: 35a64e2e-8c5e-4ceb-86da-7bb37118d31e
+- author: 房东的猫
+  character: null
+  content: 我们都是不擅长生长的树，起码期盼会带来快乐。
+  created_at: 2026-08-07 15:37:09
+  source: 不擅生长的树
+  uuid: b452a7db-0700-4f71-9fb4-2239593b281e
+- author: 耳根
+  character: null
+  content: 闻道者，朝生夕死，足尔；寻道者，忘生之死，憾尔。
+  created_at: 2021-07-03 17:16:57
+  source: 仙逆
+  uuid: 71f0481f-f6eb-41e5-975c-d0c82fb3ec1e
+- author: 马保国
+  character: null
+  content: 我劝这两个年轻人耗子尾汁，好好反思，以后不要再犯这样的聪明，小聪明啊！
+  created_at: 2021-01-27 09:17:07
+  source: 马老师视频
+  uuid: 807d8467-8d59-4ac0-aac6-46caef96251e
+- author: 杀虫队队员
+  character: null
+  content: 世界上的路有很多条，每个人都有属于自己的那一条。
+  created_at: 2024-04-30 19:10:43
+  source: 十日终焉
+  uuid: 17dc2633-2cc0-4e49-92df-e6aaf2a8f91e
+- author: 柴静
+  character: null
+  content: 将来有一天你爱上一个人，她也爱上你，从她看你的眼神里流露出来的，就是真正的洁白。
+  created_at: 2023-05-14 09:19:25
+  source: 看见
+  uuid: 588d91fa-1c6b-4656-b0b9-fe5c1699fe1e
+- author: null
+  character: null
+  content: 描线一笔接一笔，白色的素描本上渐渐萌生黑意。即便如此，还无法照准记忆中的风景。
+  created_at: 2016-10-02 13:51:33
+  source: 你的名字
+  uuid: 30cceae1-3df0-4aef-a7e7-566ace9add1e
+- author: null
+  character: null
+  content: 我有在反省，但我不后悔。
+  created_at: 2016-07-16 02:05:09
+  source: 物语系列
+  uuid: a4c37812-1fff-4d66-98c1-1b5ecf687e1e
+updated_at: 2026-09-25 11:58:46.008242+00:00

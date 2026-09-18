@@ -1,0 +1,195 @@
+chunk_id: 226
+sentences:
+- author: 毛泽东
+  character: null
+  content: 北国风光，千里冰封，万里雪飘。
+  created_at: 2020-04-09 10:14:49
+  source: 沁园春·雪
+  uuid: c41946ad-e105-4071-a9bd-5e4ebf6857e2
+- author: null
+  character: null
+  content: 亲眼所见，亦非真实。
+  created_at: 2020-03-28 11:29:31
+  source: 第五人格
+  uuid: 29143113-65e6-45e6-b944-c663ffa56ce2
+- author: 林升
+  character: null
+  content: 山外青山楼外楼，西湖歌舞几时休？
+  created_at: 2020-04-07 21:33:23
+  source: 题临安邸
+  uuid: d1972224-fbc7-4b25-8569-fa9f9132f9e2
+- author: 流火精灵舞舞
+  character: null
+  content: 像火焰一样燃烧殆尽，是我无法逃脱的命运。
+  created_at: 2026-04-29 07:08:41
+  source: 蛋仔派对
+  uuid: 58487b6f-6f0b-4539-a978-26a39239e4e2
+- author: Fanko冯思源
+  character: null
+  content: 从不主动示弱。
+  created_at: 2026-08-29 22:11:55
+  source: 海屿你
+  uuid: 27e86927-0ead-405f-99d2-efd344adc9e2
+- author: null
+  character: null
+  content: 死亡不是终点，被遗忘才是。
+  created_at: 2018-11-19 01:17:40
+  source: 寻梦环游记
+  uuid: 49fe46af-82c6-48fa-971a-ed2b23ba0de2
+- author: 毛泽东
+  character: null
+  content: 历史的发展是不以人的意志为转移的。
+  created_at: 2020-04-11 21:33:35
+  source: 毛泽东
+  uuid: 3664f3f9-f1d1-438b-a707-821f32a34ee2
+- author: null
+  character: null
+  content: 死亡过于绝对，而活着，则有无限的可能。
+  created_at: 2016-09-11 11:00:17
+  source: 冰与火之歌
+  uuid: 67cdbade-ae23-40d6-a45c-077072fed1e2
+- author: 卫宫士郎
+  character: null
+  content: 输给谁都可以，唯独不能输给自己。
+  created_at: 2020-04-02 16:01:59
+  source: Fate/Stay night
+  uuid: ace34e49-4e52-4a30-b150-99360ae80be2
+- author: null
+  character: null
+  content: 小时候词不达意，长大了言不由衷。
+  created_at: 2019-09-23 14:34:49
+  source: 网络
+  uuid: d5ba5a37-c078-4f9f-8605-a4da38acc2e2
+- author: null
+  character: null
+  content: 一朵花不必开在花园，它本身就是春天。
+  created_at: 2025-07-24 19:40:01
+  source: 网络
+  uuid: 14e608d6-2542-4ad5-b293-c22b3d77c6e2
+- author: null
+  character: null
+  content: Something……for nothing！用什么珍贵的东西，换回了空白。
+  created_at: 2018-08-02 13:17:31
+  source: 龙族
+  uuid: a89e1399-5cec-446d-ac18-1b3a5dc91fe2
+- author: 玉镯儿
+  character: null
+  content: 长桌宴不散宴不散宴不散。
+  created_at: 2026-08-08 16:06:14
+  source: 每个人 (舒楠监制 官方正式版)
+  uuid: 54009e74-a6f0-4d28-93e1-bf8daf6ba7e2
+- author: John Lennon
+  character: null
+  content: Imagine all the people, living life in peace.
+  created_at: 2024-09-16 15:13:51
+  source: Imagine
+  uuid: 6266a4af-aea0-4ef8-aa9a-9855d63515e2
+- author: 我还是很烦
+  character: null
+  content: 于是我驻足享受无法复制的瞬间。
+  created_at: 2026-07-17 12:19:20
+  source: 网易云Letting Go评论区
+  uuid: 5e6b5044-f138-44cb-bad6-d8e3d58856e2
+- author: 朱庆馀
+  character: null
+  content: 妆罢低声问夫婿，画眉深浅入时无。
+  created_at: 2020-04-08 16:11:36
+  source: 近试上张籍水部 / 近试上张水部 / 闺意献张水部
+  uuid: bae451f2-cd6b-4175-82bc-b412951e72e2
+- author: 时光
+  character: null
+  content: 我会把历史欠你的都给你还回来，我要让褚嬴的名字传遍大江南北，让你成为真正的棋王！
+  created_at: 2020-11-15 10:48:51
+  source: 棋魂
+  uuid: 79d002bd-dd40-4990-90f6-6946f0cbf0e2
+- author: 吉马合唱团
+  character: null
+  content: 啊，爱情算来甘带苦。
+  created_at: 2026-08-08 14:05:26
+  source: 落大雨彼一日
+  uuid: ae28b885-e151-46a0-b58c-fdce7d29bee2
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 09:11:11
+  source: METAMORPHOSIS
+  uuid: 9c393f12-6854-4d55-a8a7-dd86147d7de2
+- author: John Kell
+  character: null
+  content: Coffee goes cold, your name on my tongue.
+  created_at: 2026-08-30 00:08:44
+  source: HEAVENLY JUMPSTYLE
+  uuid: d43eafea-01e9-47f2-972c-728814ff3ce2
+- author: 网络
+  character: null
+  content: 我从他的生命里消失，而他依然闪亮。
+  created_at: 2020-04-08 18:28:43
+  source: 网络
+  uuid: 5f6a0632-76b8-489e-b9c0-b34257842be2
+- author: Enthon
+  character: null
+  content: 金子与钻石都不是唯一的，可你却是。
+  created_at: 2021-07-17 14:12:15
+  source: Enthon聪明的小脑袋瓜
+  uuid: 33dd4c25-b432-4030-84c8-88d1c3edf1e2
+- author: null
+  character: null
+  content: 如果杞人看见过天塌下来，那么杞人忧天也就可以理解了吧。
+  created_at: 2018-06-26 20:05:34
+  source: 原创
+  uuid: 0a02d54e-544c-4179-84f5-0f98868ba7e2
+- author: null
+  character: null
+  content: 就在这一夜，不知道有多少与我一样的新新人类上路了，不管好坏，我们将是第一批真正触摸永恒的人。
+  created_at: 2020-01-12 23:43:43
+  source: '2018'
+  uuid: 39f4a28d-4756-4dd6-a629-5a79ce3901e2
+- author: null
+  character: null
+  content: 世间本无公平可言，除非公平掌握在自己手中。
+  created_at: 2016-09-11 10:58:00
+  source: 冰与火之歌
+  uuid: 31608d22-da0d-43e2-ac98-7d18589ccfe2
+- author: Hokma
+  character: null
+  content: 力量之上……乃必胜之信念。
+  created_at: 2023-07-15 14:29:48
+  source: 废墟图书馆
+  uuid: 95edd868-0ab5-4eb2-a963-a15dffa083e2
+- author: null
+  character: null
+  content: 时间停止吧，你是多么美丽！
+  created_at: 2025-07-06 13:16:01
+  source: ATRI -My Dear Moments-
+  uuid: 4884a47d-9b2f-45d6-9fec-2c20d3ba3ce2
+- author: 阿贝多
+  character: null
+  content: 失去听力的音乐家已然铸就传奇，没有运气的冒险家也在砥砺前行，拥有不幸之人都还在仰望着辰星，我等又何必低头拘泥脚下的尘泥？
+  created_at: 2022-07-21 20:42:07
+  source: 原神
+  uuid: 59feefee-d691-4399-be74-076ece5f55e2
+- author: The New Order:Last Days of Europe
+  character: null
+  content: 最后死去的人，是最不幸的。
+  created_at: 2020-09-06 18:06:52
+  source: «独面黑暗»，TNO启示录事件
+  uuid: fe549950-d947-4977-aa6c-39d2ab2069e2
+- author: 丁亮、侯喆
+  character: null
+  content: 耍一段南拳北腿，中华好武功；唱一曲南腔北调，神州好逍遥。
+  created_at: 2026-07-05 11:57:24
+  source: 十二生肖闯江湖
+  uuid: aa624a90-2b3c-4258-9bb5-c9bdf2d298e2
+- author: null
+  character: null
+  content: 你驻足于春色中，于那独一无二的春色之中。
+  created_at: 2019-04-20 18:42:15
+  source: 四月是你的谎言
+  uuid: 04c4c5ba-6815-4f6a-9033-38c2a9c72de2
+- author: null
+  character: null
+  content: 春天 马上就要来了  让我与你相遇的春天 就要来了  再也没有你的春天 就要来了
+  created_at: 2016-11-10 22:19:40
+  source: 四月是你的谎言
+  uuid: af7907b3-137d-4543-813b-6d14b980f8e2
+updated_at: 2026-09-25 11:58:44.751896+00:00

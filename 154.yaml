@@ -1,0 +1,249 @@
+chunk_id: 154
+sentences:
+- author: 毛泽东
+  character: null
+  content: 须晴日，看红装素裹，分外妖娆。
+  created_at: 2021-11-06 19:17:03
+  source: 沁园春·雪
+  uuid: aaf971b2-0868-4827-ab3c-931a1b9f9b9a
+- author: 颀鞍
+  character: null
+  content: 只约灵犀过隙灵光暗相投。
+  created_at: 2026-08-29 23:38:35
+  source: 吹梦到西洲
+  uuid: f7cb0b54-aad1-4cf5-8511-94fd14b0a59a
+- author: 雨狸
+  character: null
+  content: 我所描绘的一切或许并非真实，然而我的感受绝无虚假。
+  created_at: 2021-08-22 11:56:06
+  source: 妄想症Paranoia
+  uuid: 78224767-827b-41ea-8bc1-cb7aeebf439a
+- author: 归属
+  character: null
+  content: 一个他人所写的主角而已，没必要去彻底爱上它，因为它永远也不会拥有血肉。
+  created_at: 2024-07-12 20:30:48
+  source: 骇客妮娜
+  uuid: 43c7eb0f-19be-4fbc-ba95-bc5b1ed3119a
+- author: null
+  character: null
+  content: 一个人至少拥有一个梦想，有一个理由去坚强。心若没有栖息的地方，到哪里都是在流浪。
+  created_at: 2018-04-13 08:38:30
+  source: 三毛
+  uuid: 75ee1579-ea53-4efb-994f-0e3ec6dfe69a
+- author: null
+  character: null
+  content: 差距并不可怕，可怕的是因为差距而放弃。
+  created_at: 2019-10-02 20:12:32
+  source: 全职高手
+  uuid: a4b6f029-950c-429a-a7a7-e4bd1543ae9a
+- author: null
+  character: null
+  content: 风有约，花不误，岁岁年年不相负。
+  created_at: 2023-04-09 13:21:14
+  source: 网络
+  uuid: c417d43f-55fa-424a-ae3d-165704332e9a
+- author: null
+  character: null
+  content: 我们就是梦幻所用的材料，一场睡梦环抱了短促的人生。
+  created_at: 2020-12-06 22:59:51
+  source: 莎士比亚
+  uuid: 71aa23b0-4ac7-424d-8cfe-3f10ddc9b39a
+- author: null
+  character: null
+  content: 我在人生的道路上迷失了。
+  created_at: 2016-07-16 02:05:11
+  source: 火影忍者
+  uuid: 603ca9d1-bc8c-44bf-bd53-655b2ce2ec9a
+- author: 叔本华
+  character: null
+  content: 当一个人的意识中还不存在对某种东西的需求时，他就不会感到这方面的缺乏。
+  created_at: 2021-08-05 18:38:40
+  source: 人生的智慧
+  uuid: 24c5ebc8-d980-4401-b35b-1eb13ae6ea9a
+- author: 卡尔萨根
+  character: null
+  content: 在广袤的空间和无限的时间中，能与你共享同一颗行星和同一段时光，是我莫大的荣幸。
+  created_at: 2022-07-22 12:52:44
+  source: 宇宙
+  uuid: e5ce7b94-12e6-4fbb-87aa-931d58c6169a
+- author: null
+  character: null
+  content: 什么都无所谓只想在你身边，什么都无所谓只想和你说话，什么都无所谓所以请你不要逃避。
+  created_at: 2016-07-16 02:05:10
+  source: 好想告诉你
+  uuid: 466905b6-fa34-4642-9e11-2c315634949a
+- author: 木苏里
+  character: null
+  content: 世界灿烂盛大，欢迎回家。
+  created_at: 2020-02-01 19:04:39
+  source: 全球高考
+  uuid: 7e22feed-6fc4-43f1-8e45-56d591faa79a
+- author: 淡海三
+  character: null
+  content: 人皆荒醉，但唱观音。
+  created_at: 2020-03-27 14:43:23
+  source: 唐大和上东征传
+  uuid: 479e82b1-311c-43d3-bf4f-3cb23b69b39a
+- author: Kordhell
+  character: null
+  content: Heavy clips in my, in my front seat.
+  created_at: 2026-08-29 22:28:34
+  source: Murder In My Mind
+  uuid: 0bfa1722-ba68-4086-9fd3-64da9201419a
+- author: 夜雨天梦
+  character: null
+  content: 一面努力改变自己，以更好的适应社会，另一面努力记下自己原来的样子，防止自己忘掉初心，变成曾经自己最讨厌的人。
+  created_at: 2023-12-18 01:09:23
+  source: 夜雨天梦
+  uuid: bd8e65f5-dc47-4471-be8a-e7225e4a719a
+- author: null
+  character: null
+  content: 最近总是失眠16个小时就会醒一次。
+  created_at: 2018-07-29 16:52:25
+  source: 嘉豪and佳一
+  uuid: bfc06e2b-7220-4c43-b98c-05696910209a
+- author: 长洱
+  character: null
+  content: 世界上大部分事，都没有太大意义，真理与热爱除外。
+  created_at: 2021-12-25 20:43:28
+  source: 天才基本法
+  uuid: 0b1ee1c1-7293-4ca9-82b0-1ea9df1be89a
+- author: null
+  character: null
+  content: 呐，我们好像是，被宇宙和地球拆散的恋人似的。
+  created_at: 2016-07-16 02:05:10
+  source: 星之声
+  uuid: bf8cd453-e6f9-4dc4-af2f-24b60f74f29a
+- author: null
+  character: null
+  content: 即使作为代价要夺走我什么，即使接下来等待我的是什么，即使那样，我无论如何都不想失去他。
+  created_at: 2016-12-07 12:55:47
+  source: 少年阴阳师
+  uuid: 5736dd95-1ad9-46d9-a134-6cdaa5cb6b9a
+- author: 林清玄
+  character: null
+  content: 茶，是为了友谊而存在世间的；最好的茶，则是为了知味的人存在世间；我们到处找茶品茶，不也是渴望着与知味的人对饮吗？
+  created_at: 2020-11-25 22:09:40
+  source: 龙井问茶
+  uuid: 2238c298-0e53-440b-83c0-1b8743a0ea9a
+- author: 韩疁
+  character: null
+  content: 多谢梅花，伴我微吟。
+  created_at: 2020-07-07 13:47:24
+  source: 高阳台·除夜
+  uuid: da2678d5-05bb-413c-85e8-bcfd54b9189a
+- author: 高适
+  character: null
+  content: 莫愁前路无知己，天下谁人不识君。
+  created_at: 2020-04-07 21:27:53
+  source: 别董大二首
+  uuid: 74928e43-b0f5-4783-932d-528a46d0ed9a
+- author: 大森元貴
+  character: null
+  content: 愛を知る。
+  created_at: 2026-08-30 11:01:13
+  source: Brand New
+  uuid: 77c11599-4fec-41dd-92ad-778d90d5a09a
+- author: 颀鞍
+  character: null
+  content: 天命碧城灰土，刀弓褐锈。
+  created_at: 2026-08-29 23:37:52
+  source: 吹梦到西洲
+  uuid: 500339c0-2674-4fc9-968c-febf23e3809a
+- author: 毛泽东主席
+  character: null
+  content: 我们的目的一定要达到！我们的目的一定能够达到！
+  created_at: 2024-06-21 19:55:56
+  source: 1954年9月15日第一届全国人大一次会议
+  uuid: cabebf3d-cb35-4662-a0f7-e00e9946879a
+- author: null
+  character: null
+  content: 日出而作，日入而息。
+  created_at: 2018-12-28 13:14:28
+  source: 击壤歌
+  uuid: 9033b56c-44c3-4a50-a466-828f3dc41d9a
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 06:54:12
+  source: METAMORPHOSIS
+  uuid: c1c5e798-a33f-4eea-8d52-0d1e9267c69a
+- author: null
+  character: null
+  content: 青春散场听雨声坠落。
+  created_at: 2026-08-29 22:49:18
+  source: 你有没有真的爱过我
+  uuid: 3b589619-a888-401c-90ee-43f8e459aa9a
+- author: null
+  character: null
+  content: 宇宙无穷，人生微渺，我从一无所有中来，自当归于虚无。
+  created_at: 2026-05-30 02:48:27
+  source: 止战之殇
+  uuid: 8211c847-fd06-431e-bc48-25bcb9cb569a
+- author: 网络
+  character: null
+  content: 一见如故，生万千欢喜心。
+  created_at: 2020-09-06 16:57:52
+  source: 网络
+  uuid: ecd33522-b001-44a2-97c2-8d010d47c79a
+- author: nDhnzr6r
+  character: null
+  content: 我们从未真正拥有过在一起的日常，但你却参与了我的整个青春。
+  created_at: 2026-04-08 03:37:42
+  source: nDhnzr6r
+  uuid: d3eff85a-9330-43dc-a280-b9b0c17a1c9a
+- author: 三行
+  character: null
+  content: 早点脱单吧，我怕你孤独终老，却又长命百岁。
+  created_at: 2020-12-12 21:25:30
+  source: 友人记
+  uuid: 502ae3b6-2fa8-4120-a060-8ebe64dfe29a
+- author: 碧水凌涛
+  character: null
+  content: 清泪垂颜应有怨，吞声独望双栖雁。
+  created_at: 2026-06-23 22:12:56
+  source: 蝶恋花·星月暖
+  uuid: 3c7fc5bd-7d85-4aaf-9963-d407500b129a
+- author: 老猪
+  character: null
+  content: 他慢慢地，哀伤地说：“除了爱情以外，人还有点别的事情，有些事情更重要。”
+  created_at: 2026-06-13 16:11:56
+  source: 紫川
+  uuid: dfd2f9a1-d83f-4ebf-bec1-5830aafe809a
+- author: 刘慈欣
+  character: null
+  content: 在这样的世界中，你从爱人的怀抱中起身，走出几步，就与他隔开千万年。
+  created_at: 2022-03-31 16:50:49
+  source: 三体3
+  uuid: 884d4698-883a-401c-bee8-a5e6ba3dae9a
+- author: null
+  character: null
+  content: 莫对他人妄行揣测，是人能给予自己的最高尊严。
+  created_at: 2019-07-26 02:56:26
+  source: 二哈和他的白猫师尊
+  uuid: 47052fa4-3f51-4989-a137-f4a7fdb2209a
+- author: null
+  character: null
+  content: 有的只是很简单的唯一的思想…只此一个！“胜利然后支配”！仅此而已...这才是我唯一的满足感！…至于过程和方法之类…并不重要！
+  created_at: 2018-10-26 11:22:17
+  source: JOJO的奇妙冒险
+  uuid: a535d18b-5b3d-4c2d-ba5e-9197683e4c9a
+- author: 古手梨花
+  character: null
+  content: 时间可以治愈？如果时间也病了怎么办
+  created_at: 2016-11-10 22:19:40
+  source: 寒蝉明泣之时
+  uuid: 95c9dc11-6ec9-457a-a675-9be0be854e9a
+- author: 绯村剑心
+  character: null
+  content: 活下去的意志是最强的力量！
+  created_at: 2016-11-10 22:19:40
+  source: 浪客剑心
+  uuid: f2bb5c0f-b47a-427c-ba62-33539038559a
+- author: null
+  character: null
+  content: 或许只需一滴露水，便能守护这绽放的花朵。
+  created_at: 2016-07-16 02:05:09
+  source: 反叛的鲁鲁修
+  uuid: c893e847-d381-4d3e-93ae-60292fab099a
+updated_at: 2026-09-25 11:58:45.960679+00:00

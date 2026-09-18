@@ -1,0 +1,201 @@
+chunk_id: 238
+sentences:
+- author: 奥斯卡·王尔德
+  character: null
+  content: 为了自己，我必须饶恕你。一个人，不能永远在胸中养着一条毒蛇；不能夜夜起身，在灵魂的园子里栽种荆棘。
+  created_at: 2020-02-19 16:24:06
+  source: 自深深处
+  uuid: 87d264ad-af32-4ade-86ef-905878c1f1ee
+- author: 藏
+  character: null
+  content: 我告诉你，我也有我的禁忌，如果你敢那样做，不管用上任何手段，我都会杀了你。
+  created_at: 2016-11-10 22:19:40
+  source: 幽游白书
+  uuid: b22be414-164a-495e-a2be-0e78e1e88fee
+- author: Naya
+  character: null
+  content: 人生的剧本，其实在你出生之前你就看过了选择这一个剧本，是因为你觉得这一生有你认为值得的地方；而你呢，就是这个沉浸在其中，忘掉了自己的演员。
+  created_at: 2021-10-07 14:34:42
+  source: Naya
+  uuid: 0448ad22-cd2a-4004-9deb-f653a79fffee
+- author: 珊瑚宫心海
+  character: null
+  content: 每个生灵的意志都值得被尊重，就像海中的游鱼，也有自己的方向。
+  created_at: 2022-06-25 23:29:28
+  source: 原神
+  uuid: 6efbd94a-6622-4621-9577-7c0731934eee
+- author: null
+  character: null
+  content: 世界上哪有不会输的英雄啊。
+  created_at: 2018-10-21 16:28:38
+  source: 凸变英雄
+  uuid: 76f9fa17-ecda-4dd1-8e4e-e5fdee2bd7ee
+- author: Nigel Tay
+  character: null
+  content: Running circles around my head.
+  created_at: 2026-08-29 22:41:16
+  source: If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)
+  uuid: 4e665688-c7a4-4a53-97c4-7ae7cb6cefee
+- author: 子公
+  character: null
+  content: 别错把工具当成目的。
+  created_at: 2021-02-03 12:11:42
+  source: 子公
+  uuid: 772d87da-d1d9-4233-9576-c32e043dcdee
+- author: null
+  character: null
+  content: 天雨粟，夜鬼哭。
+  created_at: 2021-05-14 19:03:34
+  source: 淮南子
+  uuid: 22bcc9cd-ec9a-4517-b948-10556121e2ee
+- author: null
+  character: null
+  content: 我守着时光沉静的安宁。
+  created_at: 2026-08-29 23:06:51
+  source: 岁月如笔写春秋
+  uuid: 0299909e-446c-4028-b95f-faaa8672c5ee
+- author: 茉莉雨
+  character: null
+  content: 我做对了，但我错得很彻底。
+  created_at: 2025-04-22 22:16:19
+  source: 有感
+  uuid: 5c3f8e29-dad9-4227-9459-a8af36918fee
+- author: null
+  character: null
+  content: 再自信的人都会觉得自己还不够好
+  created_at: 2016-11-10 22:19:40
+  source: 网络
+  uuid: 06a2453c-70c9-488c-8fe6-040de22c9bee
+- author: null
+  character: null
+  content: 不驰于空想，不骛于虚声。
+  created_at: 2019-07-08 18:02:12
+  source: 李大钊
+  uuid: 15ef0e85-d013-475c-a725-85bdd52608ee
+- author: 《悲惨世界》音乐剧
+  character: null
+  content: 看看人间的苦难，听听人民的呐喊！
+  created_at: 2020-10-07 22:01:44
+  source: 悲惨世界
+  uuid: 81bd23ed-fffc-41d9-b36b-75f4cf2e84ee
+- author: 月雩
+  character: null
+  content: 故人一迁，如梦万载。
+  created_at: 2020-12-02 18:58:12
+  source: 随感
+  uuid: 8cb9a01a-f86d-4e19-a6b3-d302739a9bee
+- author: 王维
+  character: null
+  content: 漠漠水田飞白鹭，阴阴夏木啭黄鹂。
+  created_at: 2020-04-09 10:08:49
+  source: 积雨辋川庄作 / 秋归辋川庄作
+  uuid: d717508e-9195-4398-84e4-a100312aabee
+- author: 玛丽娜
+  character: null
+  content: 前方的路途还很遥远，前进！
+  created_at: 2022-01-13 16:16:31
+  source: 坎公骑冠剑
+  uuid: f899dc5d-1334-4497-a630-a47d6def6eee
+- author: null
+  character: null
+  content: 半山腰太挤了，我想去山顶看看。
+  created_at: 2023-07-17 19:22:36
+  source: 必刷题
+  uuid: bcc672b7-9566-409a-a96a-0807c73a7bee
+- author: 李商隐
+  character: null
+  content: 身无彩凤双飞翼，心有灵犀一点通。
+  created_at: 2020-04-07 02:49:13
+  source: 无题·昨夜星辰昨夜风
+  uuid: 2ecb0fa8-d92d-466f-9331-6668dfd924ee
+- author: 孤叶
+  character: null
+  content: 时针一圈一圈回到了起点，可岁月一天一天变成了从前。
+  created_at: 2021-02-28 12:44:01
+  source: 孤叶
+  uuid: d63bcceb-9bb4-451a-ab36-d036cb8856ee
+- author: 宫崎骏
+  character: null
+  content: 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
+  created_at: 2016-12-18 15:49:20
+  source: 悬崖上的金鱼姬
+  uuid: 7ad5328b-2a4b-483d-a877-3fa502319aee
+- author: null
+  character: null
+  content: Valar morghulis; Valar dohaeris.
+  created_at: 2020-03-11 10:34:02
+  source: 权力的游戏
+  uuid: c588749f-47ac-4d1e-bfb9-4b4fba6a88ee
+- author: 陈亦洺
+  character: null
+  content: 刚好知交，刚好欢笑，刚好闪耀。
+  created_at: 2021-03-26 17:32:21
+  source: 长大就好
+  uuid: 3cfabe10-91d1-455a-af65-2d9c59b90fee
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 02:10:58
+  source: METAMORPHOSIS
+  uuid: 5a202d70-d090-4a04-85aa-6530a179dfee
+- author: null
+  character: null
+  content: 世界美好与莫环环相扣。
+  created_at: 2020-07-17 15:32:04
+  source: 网络
+  uuid: c92e2e2c-393f-4fad-b318-f4ae1e59faee
+- author: linkey2011
+  character: null
+  content: 幸福的轮廓，大概是圆形吧；那痛苦呢？
+  created_at: 2021-07-01 00:14:51
+  source: 原创
+  uuid: 4890484c-7e38-4a26-a126-32c3e7a35cee
+- author: null
+  character: null
+  content: 我们走过了幼稚，走过了纯粹，走过了伤痛，也就走过了青春。
+  created_at: 2018-10-28 18:54:38
+  source: 原创
+  uuid: 612dd1ce-96e4-4996-b74d-09bb0cfe20ee
+- author: 毛泽东
+  character: null
+  content: 存人失地，人地皆存。存地失人，人地皆失。
+  created_at: 2023-07-23 12:01:19
+  source: 在晋绥干部会议上的讲话
+  uuid: 788c57cc-63f3-4051-923e-8cc6b75171ee
+- author: 水千丞
+  character: null
+  content: 我很喜欢你，但你是自由的。
+  created_at: 2021-08-17 14:18:59
+  source: 附加遗产
+  uuid: 1101421a-dd49-4779-8206-599581eaf7ee
+- author: 李清照
+  character: null
+  content: 只恐双溪舴艋舟，载不动许多愁。
+  created_at: 2020-10-04 12:56:52
+  source: 武陵春·春晚
+  uuid: 1d561545-7872-4172-9401-4f7650d15bee
+- author: 孤星
+  character: null
+  content: 命运就是生命向时间呼号的回声。
+  created_at: 2023-06-20 20:24:48
+  source: 明日方舟
+  uuid: 8b979e5f-1781-4380-b57a-1ff551aa9aee
+- author: 温迪
+  character: null
+  content: 但风向是会转变的。终有一天,会吹向更有光亮的方向。从今往后,带着我的祝福,活得更加从容一些吧。
+  created_at: 2023-02-01 22:00:59
+  source: 原神
+  uuid: 3676f4ee-a504-412d-af37-f42b5cd22fee
+- author: null
+  character: null
+  content: 你只见树，未见森林
+  created_at: 2020-01-19 15:44:54
+  source: 火影忍者
+  uuid: bb1e5bbd-a133-428c-b908-dd5a5053d1ee
+- author: null
+  character: null
+  content: 我觉得你很幸福，因为你可以选择爱我或不爱我，而我只能选择爱你或更爱你。
+  created_at: 2016-07-16 02:05:10
+  source: School Days
+  uuid: 7296d484-34a8-4b57-a282-81d864844fee
+updated_at: 2026-09-25 11:58:45.887422+00:00

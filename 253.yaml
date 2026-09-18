@@ -1,0 +1,231 @@
+chunk_id: 253
+sentences:
+- author: 奥斯卡·王尔德
+  character: null
+  content: 梦想家只能在月光下找到自己的路，他的惩罚是比其他人更早看到黎明。
+  created_at: 2026-04-13 16:17:29
+  source: 意图集
+  uuid: 9ac6dfb0-9af2-40ab-991d-8ae4f25780fd
+- author: 王健美
+  character: null
+  content: 山风山风等等我。
+  created_at: 2026-08-30 04:03:21
+  source: 山风山风等等我
+  uuid: dee999d3-a053-4fa9-aeb6-b8088116d0fd
+- author: 白居易
+  character: null
+  content: 一道残阳铺水中，半江瑟瑟半江红。
+  created_at: 2020-04-07 22:58:48
+  source: 暮江吟
+  uuid: 46d64388-66f1-407e-a78f-f333bc7091fd
+- author: 高骈
+  character: null
+  content: 绿树阴浓夏日长，楼台倒影入池塘。
+  created_at: 2020-04-09 10:14:47
+  source: 山亭夏日
+  uuid: 76bc7d55-e434-4b3d-943b-7a03a59efdfd
+- author: 王子涵
+  character: null
+  content: 我的青春年华尽情挥洒，都要感谢你。
+  created_at: 2022-02-02 17:02:09
+  source: 相遇·金家岭
+  uuid: c23099fa-4454-427b-b1ee-e16446626cfd
+- author: Randy Bennett
+  character: null
+  content: 我们的世界，多姿多彩且奇妙
+  created_at: 2026-08-07 15:42:00
+  source: 命运在手心（feat.初音ミク&洛天依）
+  uuid: 6e60e3ef-7d86-425e-8d90-d5e88f3d6cfd
+- author: 朴素
+  character: null
+  content: 没有过多的幸运值，就得拥有个坚持不懈的斗志。
+  created_at: 2020-05-26 16:45:13
+  source: 安世
+  uuid: 94904be0-9a51-4d0d-879c-91d58e85f0fd
+- author: 加夫列尔·加西亚·马尔克斯
+  character: null
+  content: 生命中所有的绚烂，原来终究，都要用寂寞来偿还。
+  created_at: 2020-08-18 10:08:43
+  source: 百年孤独
+  uuid: 39139a0a-a824-4170-8e31-26a7cff60efd
+- author: null
+  character: null
+  content: 没有一个世界会比活在这个世界痛苦
+  created_at: 2019-10-25 22:02:13
+  source: 黑岩射手
+  uuid: f6dd3554-0c47-443a-ad7a-3bec112b22fd
+- author: null
+  character: null
+  content: 当你对自己的价值感到迷茫的时候，就想象一下自己不在会发生什么。
+  created_at: 2023-03-04 20:24:46
+  source: ''
+  uuid: b2f98e14-3186-494d-8fc3-c723e88204fd
+- author: 会说话的肘子
+  character: null
+  content: 朋友啊你要明白，我们不能用温柔去应对黑暗，要用火。
+  created_at: 2024-08-05 13:55:09
+  source: 夜的命名术
+  uuid: 49a5fcda-6f18-4c11-8a49-ae4665773dfd
+- author: null
+  character: null
+  content: 爱与友情以及勇气改变不了一个人，只有受伤才能让人成长。
+  created_at: 2017-12-10 15:01:03
+  source: 我的青春恋爱物语果然有问题
+  uuid: 567113c1-7201-4a71-96cf-02b5eaac07fd
+- author: null
+  character: null
+  content: 我就是小偷，专门来偷走哥哥的心
+  created_at: 2016-09-29 01:31:29
+  source: 芳乃樱
+  uuid: 943aaa54-3084-4840-aebf-6973ceae87fd
+- author: 多次元宇宙融合論
+  character: null
+  content: 雨空朱蒼接触崩壊子守歌。
+  created_at: 2025-09-13 15:21:12
+  source: Arcaea
+  uuid: 93f3e16b-bdf7-4951-99c9-22bcd61cccfd
+- author: 张籍
+  character: null
+  content: 君知妾有夫，赠妾双明珠。
+  created_at: 2020-04-08 16:11:27
+  source: 节妇吟·寄东平李司空师道
+  uuid: 53e8e521-6449-40c4-aa89-a62933fbfcfd
+- author: 黄泉
+  character: null
+  content: 不要害怕。在那道路的尽头，始终会有一抹红色。它将为你指引出路。如此...你们一定能够在阳光下相聚。
+  created_at: 2025-04-20 11:17:37
+  source: 崩坏：星穹铁道
+  uuid: a403b307-9b86-4452-be4b-f79acffafafd
+- author: 做魚玉子燒
+  character: null
+  content: 郎才女貌遥相唤，旧桥新柳换君旁。
+  created_at: 2025-06-29 03:35:22
+  source: 做魚玉子燒
+  uuid: 3b4e8b3e-4b17-4166-b46c-96e329200dfd
+- author: null
+  character: null
+  content: 面对无知的嘲笑，我只能为他们默哀。
+  created_at: 2016-07-20 01:54:01
+  source: 其他
+  uuid: 8a120d28-6817-4285-9080-5ea1d7606bfd
+- author: 凉都小道
+  character: null
+  content: 夏天的太阳，总是给人火辣的感觉，冬天的太阳，却给人暖暖的感觉，所以，需要在适合的时候，做适合的事情。
+  created_at: 2021-11-25 10:12:47
+  source: 凉都小道
+  uuid: 1ca4fff6-d44a-454a-bb3a-e29ce2bfb5fd
+- author: null
+  character: null
+  content: 秋至叶始落，叶落方知秋，秋为叶生，叶因秋落，一叶一苏，平分秋色。
+  created_at: 2022-11-28 11:52:32
+  source: 全职高手
+  uuid: c93f101e-b676-4d05-8a7d-cf5da2e629fd
+- author: Nayvadius
+  character: null
+  content: Wah, talkin' Chinese, wah-wah (What you doin'?)
+  created_at: 2026-08-08 15:18:25
+  source: Fukk A Interview
+  uuid: 9550f142-b7af-4a08-8e65-79b448c790fd
+- author: 施人诚
+  character: null
+  content: 那么贴心却进不了你的心里面。
+  created_at: 2026-08-29 23:10:05
+  source: 恋人未满
+  uuid: c4279c10-ca6b-4697-b57c-1bb9abf99afd
+- author: null
+  character: null
+  content: 生命从无中来，到无中去，每个人都处于“上场——谢幕”这样一个循环中。这个循环不是悲伤，不是无意义，意义就在这过程中;生命之所以有趣，就在于过程中的体验和收获。
+  created_at: 2016-09-11 10:28:11
+  source: le petit prince
+  uuid: 73515609-af62-4acc-a9b8-82c6a9430afd
+- author: 法信
+  character: null
+  content: 暂时因缘，百年之后，各随六道，不相系属。
+  created_at: 2022-10-12 23:46:14
+  source: 受十诫文
+  uuid: 73ac5ab4-80b5-498b-8658-cf81c135acfd
+- author: 黄伟文
+  character: null
+  content: 阶砖不会拒绝磨蚀，窗花不可幽禁落霞。
+  created_at: 2022-07-26 23:15:18
+  source: 喜帖街
+  uuid: fe98627a-6e1d-4354-ab91-64dfa20721fd
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 11:32:03
+  source: METAMORPHOSIS
+  uuid: f5bef44c-e1c6-400d-aceb-9f3f5aac27fd
+- author: 大森元貴
+  character: null
+  content: 孤独を知って、愛を知る。
+  created_at: 2026-08-30 04:00:45
+  source: Brand New
+  uuid: 5f7eb13b-1f5b-4d56-b38f-c85961f63dfd
+- author: null
+  character: null
+  content: Hoy va a bailar sin precedentes.
+  created_at: 2026-08-30 00:12:00
+  source: Bum Bum Tam Tam
+  uuid: 733b4bba-b7f0-4b41-acf2-a18e48c892fd
+- author: 施人诚
+  character: null
+  content: 你还等什么。
+  created_at: 2026-08-29 23:09:10
+  source: 恋人未满
+  uuid: 20167c43-fa4f-40ad-9a39-8377bce7b1fd
+- author: 周梦忆
+  character: null
+  content: Live like no tomorrow.
+  created_at: 2026-08-08 14:54:21
+  source: TURN UP
+  uuid: e263463a-c046-494c-a3c2-44418a48eefd
+- author: マサラダ
+  character: null
+  content: 小小的我啊，一直一直啊，存在在这里，小小的我啊，一直一直，存在在心里。
+  created_at: 2024-10-02 22:24:50
+  source: ちっちゃな私
+  uuid: b1261c85-16cf-4b21-bc93-105bb656cafd
+- author: 克洛奇科夫·季耶夫
+  character: null
+  content: 俄罗斯虽大，但我们已经无路可退，我们的身后就是莫斯科。
+  created_at: 2022-05-09 19:45:28
+  source: 苏德战争
+  uuid: 7f9da971-10f1-4df4-8167-872327d7fdfd
+- author: 灵山居士
+  character: null
+  content: 一个人对自己动机的诚实程度，决定着一个人是虚伪还是真诚。
+  created_at: 2016-12-18 15:49:20
+  source: 我们与这个世界的误会
+  uuid: 8556b435-4aa6-49d4-855c-6aba5e4c65fd
+- author: null
+  character: null
+  content: 问君能有几多愁？恰似一部新番没看头。
+  created_at: 2016-07-20 01:30:11
+  source: 竹田花落
+  uuid: e04fd009-68b5-421d-bb6c-3758a4d065fd
+- author: 诸葛亮
+  character: null
+  content: 今南方已定，兵甲已足，当奖率三军，北定中原，庶竭驽钝，攘除奸凶，兴复汉室，还于旧都。此臣所以报先帝而忠陛下之职分也。
+  created_at: 2021-02-17 21:25:53
+  source: 前出师表
+  uuid: 85f95c52-2d6b-4814-9fe5-3d76b718b9fd
+- author: null
+  character: null
+  content: 在那里，悖论相互交织成结并最终凝结成一个意识体，一个处于时间之外的欲望与意志的联结。
+  created_at: 2018-06-05 16:23:34
+  source: Stellaris
+  uuid: 4660d02e-e841-4238-be2a-6196f1a39ffd
+- author: 清水洁子
+  character: null
+  content: 万事并非开头就喜欢，准备开始做某事时，就算没有绝不动摇的意志也无所谓，顺势开始的事会慢慢变得重要，凡事伊始只需稍许好奇心。
+  created_at: 2023-07-13 21:05:57
+  source: 排球少年
+  uuid: 4a8fbb02-0435-4cd4-aab1-fdf9acef87fd
+- author: null
+  character: null
+  content: 彩虹不只是天上才有，也可以在心中架起。
+  created_at: 2021-07-29 04:04:40
+  source: P.A.R.T.Y假面骑士ZIO剧场版主题曲
+  uuid: 930aafc2-50c9-412a-a327-5ef3c3c024fd
+updated_at: 2026-09-25 11:58:45.224374+00:00

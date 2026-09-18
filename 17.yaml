@@ -1,0 +1,274 @@
+chunk_id: 17
+sentences:
+- author: 景元
+  character: null
+  content: 匣中久藏三尺水，何日可待试锋芒？
+  created_at: 2023-10-14 01:10:05
+  source: 崩坏：星穹铁道
+  uuid: 76c383d7-9f03-49aa-afa5-a28a7ff74911
+- author: Shawn
+  character: null
+  content: 别疑问，疑问就去找答案！
+  created_at: 2023-06-24 19:30:27
+  source: 原创
+  uuid: f8259c64-add1-4ed6-b5ca-4c6349664f11
+- author: null
+  character: null
+  content: 吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，不逾矩。
+  created_at: 2020-04-09 10:14:46
+  source: 论语·为政篇
+  uuid: da99bfa5-4da3-4d78-ab03-0bc90cd72211
+- author: null
+  character: null
+  content: 生前风采有谁听闻 身后恶名竟无人争 当初穿林拂叶见识得 白衣少年胆怯几分
+  created_at: 2018-09-20 20:35:05
+  source: 魔道祖师
+  uuid: e919cd62-1db2-4a19-a6b3-a585475d3611
+- author: null
+  character: null
+  content: 语言的隔阂，本质上是一个人——信息，知识，视野，圈子的隔阂。
+  created_at: 2020-11-27 21:48:38
+  source: 网络
+  uuid: 542502a2-93cb-4c1e-9d26-e90ec75ca711
+- author: null
+  character: null
+  content: 问灵十三载，等一不归人。
+  created_at: 2018-11-12 21:34:58
+  source: 魔道祖师
+  uuid: 450629ad-6081-46bf-8d25-c47837c59411
+- author: null
+  character: null
+  content: 加油！和你们在一起！
+  created_at: 2016-11-10 22:19:40
+  source: 原创
+  uuid: 4c59ecca-3a72-43af-8bb2-9e9aed73e311
+- author: 李耳
+  character: null
+  content: 为学日益，为道日损。
+  created_at: 2022-04-27 12:26:50
+  source: 道德经
+  uuid: 8ac6df1a-85ee-4dfd-94e1-8d5812501811
+- author: 王健美
+  character: null
+  content: 自在从容，要走的不留。
+  created_at: 2026-08-30 11:23:35
+  source: 山风山风等等我
+  uuid: 2fcb9ba2-64ef-40d1-8972-61fae27fce11
+- author: null
+  character: null
+  content: 就算是像牛郎和织女那样分开了我们最后也一定会再会的！
+  created_at: 2024-05-12 12:29:38
+  source: 星空的记忆
+  uuid: 48f7a5b0-3ea3-4a31-89f2-bf969364c911
+- author: 拉尔夫
+  character: null
+  content: I'm bad, and that's good. I will never be good, and that's not bad. There's
+    no one I'd rather be than me.
+  created_at: 2021-01-17 17:52:16
+  source: 无敌破坏王
+  uuid: f546eb22-bd74-49fd-8c3b-ff03eb680111
+- author: 并瓦
+  character: null
+  content: 霜雪吹满头，也算是白首。
+  created_at: 2020-08-07 09:36:54
+  source: 好梦如旧
+  uuid: 74d3b74a-0d59-4742-a29b-68ec90948911
+- author: null
+  character: null
+  content: 不要在意他人对你说什么，你独一无二，你即是自己的光！
+  created_at: 2024-02-05 12:47:48
+  source: phigros
+  uuid: fbbdbdcd-067d-444e-8273-bdb15127b211
+- author: CraSice
+  character: null
+  content: 这座城市很大，大到孩子想出去；这座城市很小，小到孩子想出去。
+  created_at: 2023-08-07 12:39:48
+  source: 原创
+  uuid: 17e4e220-5d4c-4127-965e-6ec5fdef7c11
+- author: 若芜芫
+  character: null
+  content: 因为你在，我不是太阳，而是化作星辰，与你遨游星空。
+  created_at: 2020-05-29 09:37:57
+  source: 原创
+  uuid: a7953b27-54c5-4ed3-88b2-bc359cbd5e11
+- author: 王安石
+  character: null
+  content: 墙角数枝梅，凌寒独自开。
+  created_at: 2020-04-08 16:11:36
+  source: 梅花 / 梅
+  uuid: 954df3c2-64a9-4754-bfad-3df42eb28c11
+- author: null
+  character: null
+  content: 我只希望，我喜欢的人可以健康的活着。
+  created_at: 2017-08-04 18:22:22
+  source: 人渣的本愿
+  uuid: 93389443-3819-4556-a7c9-454b9137f411
+- author: 精卫
+  character: null
+  content: 我仍飞奔向海。
+  created_at: 2026-08-29 22:14:58
+  source: 万物终归
+  uuid: e9191b69-b296-4824-bcad-4b796951d311
+- author: John Kell
+  character: null
+  content: Every old love song sounds like us.
+  created_at: 2026-08-30 03:28:43
+  source: HEAVENLY JUMPSTYLE
+  uuid: 5460ef60-1635-4269-8c9c-8abd91798a11
+- author: 三七
+  character: null
+  content: 手松开的沉默，连着我这颗心也死了。
+  created_at: 2026-07-24 20:42:48
+  source: 海屿你
+  uuid: 188e7999-f401-44eb-bb70-31740fe42611
+- author: null
+  character: null
+  content: おれは 人の悲しさを 悲しい感じる心があるんなって事を 忘れなくない それを受け止められる人间になりたいです。
+  created_at: 2020-10-20 21:35:53
+  source: 机动战士高达独角兽
+  uuid: 8175f20f-8a91-4ae8-94fe-446d63147f11
+- author: 大森元貴
+  character: null
+  content: スイングをして。
+  created_at: 2026-08-30 09:43:01
+  source: Brand New
+  uuid: e5db6797-2be6-4b05-9125-00e8f4b18611
+- author: 孤帆
+  character: null
+  content: 我路过街角的杂货铺，想买一筐六块钱的阳光。
+  created_at: 2024-02-03 17:54:08
+  source: 寻
+  uuid: f2c8ecf8-7dcd-4895-929a-8d35f884c111
+- author: John Kell
+  character: null
+  content: Every old love song sounds like us.
+  created_at: 2026-08-30 07:28:32
+  source: HEAVENLY JUMPSTYLE
+  uuid: 3ce4f70a-c369-46ab-bfe1-1d04986d5c11
+- author: 王小波
+  character: null
+  content: 信心这个东西，什么时候都像个高楼大厦，但是里面会长白蚁。
+  created_at: 2021-05-05 11:15:03
+  source: 沉默的大多数
+  uuid: 33b805a1-11b3-4940-8e74-283c08b76511
+- author: z萱xuan萱xuan萱
+  character: null
+  content: 麻雀妈妈给小麻雀扎头发，问小麻雀要什么发型，小麻雀说：啾啾。
+  created_at: 2026-04-30 13:17:24
+  source: 网易云音乐
+  uuid: 6d81b540-2375-4f5f-b6a5-a1997d7fa811
+- author: 纳兰性德
+  character: null
+  content: 相思相望不相亲，天为谁春。
+  created_at: 2020-04-09 09:24:47
+  source: 画堂春·一生一代一双人
+  uuid: db22331d-01bf-4988-90b1-bd9201ccdc11
+- author: 元好问
+  character: null
+  content: 多情却被无情恼，今夜还如昨夜长。
+  created_at: 2020-04-09 09:23:11
+  source: 鹧鸪天·候馆灯昏雨送凉
+  uuid: d9846803-f960-43f9-8471-7a4837f25611
+- author: John Kell
+  character: null
+  content: I play our nights back frame by frame.
+  created_at: 2026-08-30 01:49:17
+  source: HEAVENLY JUMPSTYLE
+  uuid: 0d5f3023-dfad-428a-8246-0255ee5a9a11
+- author: Nigel Tay
+  character: null
+  content: Cuz I keep falling into you.
+  created_at: 2026-08-29 22:41:23
+  source: If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)
+  uuid: 8a8de356-f13e-403d-8ddc-9aed113e7311
+- author: 30年前，50年后
+  character: null
+  content: 为什么不记得。
+  created_at: 2026-08-29 22:12:59
+  source: 精卫
+  uuid: f91fff37-187d-4924-bc72-11c7f864e211
+- author: 施人诚
+  character: null
+  content: 为什么才道别就又想见面？
+  created_at: 2026-08-29 22:10:33
+  source: 恋人未满
+  uuid: 994388fc-aa9c-4c12-bc87-865748a75411
+- author: null
+  character: null
+  content: 你要知道生活是各种颜色汇合而成的黑。
+  created_at: 2023-05-04 14:16:41
+  source: 网络
+  uuid: 6b4c920f-86fd-4179-8533-9508b7141d11
+- author: Kai Greene
+  character: null
+  content: 没什么做起来是容易的，但只要你还能呼吸，离梦想实现永远只差那么一口气。让你的每一次呼吸都能够起效。
+  created_at: 2020-05-06 18:35:07
+  source: 健身圈
+  uuid: 41d4be02-6c9e-40bc-a02e-a9badb622a11
+- author: null
+  character: null
+  content: 不懂装懂，永世饭桶
+  created_at: 2016-12-18 15:49:20
+  source: 网络
+  uuid: aa2f23d4-d54a-4f57-be3f-ed01c58e3811
+- author: 南岐
+  character: null
+  content: 我看到过人间无数的奇景。
+  created_at: 2026-06-21 20:58:24
+  source: 盗墓笔记·无尽人间
+  uuid: 1830737e-55b9-402e-a14a-0b3ddf502411
+- author: 昆德拉
+  character: null
+  content: 大家都喋喋不休谈人权。闲扯淡！你的存在就不基于什么权利上。
+  created_at: 2025-07-24 10:48:55
+  source: 庆祝无意义
+  uuid: b4232b73-f0ec-4fe9-a75f-475bdbb33211
+- author: null
+  character: null
+  content: 以雪案萤窗，换六月荣光。
+  created_at: 2020-03-09 10:22:55
+  source: 网络
+  uuid: d058f3d0-ee3d-4fb9-aeac-19c14f6ab711
+- author: null
+  character: null
+  content: 弱小和无知，都不是生存的障碍，傲慢才是。
+  created_at: 2016-09-11 11:05:39
+  source: 三体
+  uuid: 96237aae-7fe5-49f4-b5c9-03b285a29611
+- author: 花梨
+  character: null
+  content: 一直等待是得不到幸福的，要是有喜欢的东西，就要亲自出手去争取，这样做，才会好好珍惜得到的幸福。
+  created_at: 2021-07-23 10:58:24
+  source: 与你相恋的恋爱Recette
+  uuid: bd9fcf05-2f96-452f-9556-cc834754c511
+- author: SPC
+  character: null
+  content: 大佬永远都觉得自己是萌新。
+  created_at: 2020-03-27 10:45:47
+  source: 彩虹六号
+  uuid: 9b296a8f-45ac-47f1-b685-d1cdc0aab111
+- author: 晓美焰
+  character: null
+  content: 这就是人类感情的极致，比希望更炽热，比绝望更深邃的，爱哟！
+  created_at: 2020-03-25 11:07:58
+  source: 魔法少女小圆
+  uuid: 04e2c261-1b2a-48e7-86ac-f56d8d146c11
+- author: null
+  character: null
+  content: 人没有回忆是无法活下去的哟
+  created_at: 2018-06-18 19:11:16
+  source: AIR
+  uuid: 60032758-690e-4bdf-8c99-2dc3bdf70b11
+- author: F&C FC01
+  character: null
+  content: 当你决定了要向前迈进的那一刻, 你就已经踏出前进的一步了。
+  created_at: 2016-12-07 12:55:47
+  source: Canvas2 ～七彩的素描～
+  uuid: 636daf35-4905-4659-95f1-8150491af411
+- author: null
+  character: null
+  content: 爱，其实很简单，困难的是去接受它。
+  created_at: 2016-07-16 02:05:10
+  source: 通灵王
+  uuid: 5db7fbfe-d3e1-4cb0-91c8-522ea6ec0211
+updated_at: 2026-09-25 12:15:46.926782+00:00

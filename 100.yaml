@@ -1,0 +1,243 @@
+chunk_id: 100
+sentences:
+- author: null
+  character: null
+  content: 温和中坚持，宁静中创新。
+  created_at: 2024-12-31 22:16:22
+  source: 石家庄市第二十三中学校训
+  uuid: bb2fa1dc-132e-4fff-a259-6e922e250264
+- author: 汪曾祺
+  character: null
+  content: 一定要爱着点什么，恰似草木对光阴的钟情。
+  created_at: 2020-02-05 14:02:38
+  source: 人间草木
+  uuid: 95917fca-a8cf-4b51-8dd8-de3b2c6abe64
+- author: Aliya
+  character: null
+  content: 当我们都在仰望星空的时候，我可能正在注视你的眼睛。
+  created_at: 2025-12-28 00:02:24
+  source: 彼方的她
+  uuid: 4ba25632-18de-45a4-a9c2-d3348ce4f064
+- author: null
+  character: null
+  content: 不是别人，是我，承认了你的价值。
+  created_at: 2016-08-30 18:02:53
+  source: fate/zero
+  uuid: 1ba597d6-7333-42c6-81d1-c36ceede8c64
+- author: 大森元貴
+  character: null
+  content: 繭に包まれた。
+  created_at: 2026-08-30 03:02:48
+  source: Brand New
+  uuid: 8685c66e-9189-4e03-9f58-4313b3295964
+- author: Yanser
+  character: null
+  content: 你不能让所有人都满意，但你可以让所有人都不满意。
+  created_at: 2022-01-21 14:15:47
+  source: Yanser
+  uuid: 07aa0835-9e4b-4117-84ac-844d289afe64
+- author: null
+  character: null
+  content: 心，可是很重的。
+  created_at: 2016-07-16 02:05:10
+  source: 哈尔的移动城堡
+  uuid: 0e7926fc-f73f-44b8-ad09-0430a8f47764
+- author: 李清照
+  character: null
+  content: 天接云涛连晓雾，星河欲转千帆舞。
+  created_at: 2025-06-16 21:05:04
+  source: 渔家傲
+  uuid: 9340b946-3b69-47e5-8ac6-14a72ecd4464
+- author: null
+  character: null
+  content: 这个世界需要更多的英雄！
+  created_at: 2018-12-22 19:06:41
+  source: Overwatch
+  uuid: 411866be-e5eb-4388-a26d-6f9be6273864
+- author: 尼采
+  character: null
+  content: 我们爱生活，并非我们习惯于生活，而是我们习惯于爱。
+  created_at: 2025-05-31 23:53:05
+  source: 查拉图斯特拉如是说
+  uuid: ac5ed860-bb9f-4d86-b649-5724cd14e964
+- author: null
+  character: null
+  content: 在这样一个世界里，生活的真实性被所谓的清晰概念完全掩盖。经验的本质被剥夺殆尽，取而代之的却只是空有的名称，而这些名称进而有取代了现实。
+  created_at: 2018-06-05 23:32:52
+  source: 其他
+  uuid: 8e204205-cde2-4669-b5e9-0bb53ecaed64
+- author: 米娅·惠特洛克
+  character: null
+  content: 未来是绝对不变的。再怎么挣扎，都无法改变故事最终的结局。
+  created_at: 2021-02-26 19:57:27
+  source: 侦探已经死了
+  uuid: 70d44248-63ad-4d2b-81a0-6b95b5e09a64
+- author: 诺克萨斯之手
+  character: null
+  content: 只有我才能带领我们走向胜利。
+  created_at: 2022-01-20 10:01:02
+  source: 英雄联盟
+  uuid: b411e39a-4900-4259-92ab-913e6f1fb164
+- author: 廖羽/和汇慧
+  character: null
+  content: 未见分晓，怎么把你忘掉。
+  created_at: 2026-08-29 22:01:05
+  source: 千年
+  uuid: ad0ff8be-805d-405a-ae99-2bea51235d64
+- author: null
+  character: null
+  content: 有伤害人的人存在的话，也会有能抚慰伤痕的人
+  created_at: 2016-11-10 22:19:40
+  source: 水果篮子
+  uuid: 5c2c392a-12ab-4f2d-9106-e97ce7b10e64
+- author: null
+  character: null
+  content: 你向神求助，是因为你相信神，神不帮助你，是因为神相信你。
+  created_at: 2026-04-09 03:01:33
+  source: 网络
+  uuid: bd22364e-7a61-43bb-87b2-87419c968164
+- author: Yly
+  character: null
+  content: 莲子这个东西，等的越久，它越苦涩啊。
+  created_at: 2019-11-04 16:27:25
+  source: Yly
+  uuid: 2e9b5d0d-ca2b-4f50-b8ac-22ed48896764
+- author: 疯狂的羊
+  character: null
+  content: 随云朵去漫游。
+  created_at: 2026-08-08 16:06:20
+  source: 踏马寻花向自由(雷鬼版)
+  uuid: 7c22ae2a-a7ec-47cf-8e42-17d5960f8264
+- author: John Kell
+  character: null
+  content: Every old love song sounds like us.
+  created_at: 2026-08-30 09:28:48
+  source: HEAVENLY JUMPSTYLE
+  uuid: 17a1e53b-58ba-4fcd-a381-b215ea92f364
+- author: 汪苏泷
+  character: null
+  content: 我晚点就回家。
+  created_at: 2026-08-29 23:03:48
+  source: 就让这大雨全都落下
+  uuid: a9e13e90-85ef-4f4f-a8c2-9a45953cb764
+- author: null
+  character: null
+  content: 借由无限之翼，超越现世界限。
+  created_at: 2023-11-09 14:34:58
+  source: 刻ト詩 ピアノアレンジ
+  uuid: 5b1fa773-af10-4d7a-a1d6-686ab0cd5364
+- author: 郑明河
+  character: null
+  content: 良人十载散 牵挂长夜下辗转​。
+  created_at: 2026-06-21 20:45:48
+  source: 戏愁
+  uuid: a84c1af3-82e7-41ab-a3d5-3d3482f9a264
+- author: null
+  character: null
+  content: 在你最冷的时候，有人不顾自己寒冷抱着你，这就是幸福。
+  created_at: 2016-07-20 01:33:49
+  source: 网络
+  uuid: ea07df7b-8dae-45a2-9c49-24bd2eaac664
+- author: 上冬十二
+  character: null
+  content: 人，总要为自己的愚蠢选择买单的，不是吗？
+  created_at: 2023-04-18 15:04:09
+  source: 上冬十二
+  uuid: 1be5992f-e39e-4dc8-a83b-9f6b8c7c8864
+- author: 帆仔
+  character: null
+  content: 你不得不在浓雾之夜，沼泽之域，荒无人烟之境，自己找到一条通往圣光的道路。
+  created_at: 2022-01-21 22:20:01
+  source: 帆仔
+  uuid: ad262afc-fb02-4b1e-a834-90f7ecfd8a64
+- author: linkey2011
+  character: null
+  content: 我和别人的故事很少，却和自己的故事有很多。
+  created_at: 2022-04-11 02:00:36
+  source: linkey2011
+  uuid: adfed409-0a6a-44f6-bb44-8b72e2eb4864
+- author: Rene
+  character: null
+  content: 我希望不用赶时间，没有似水流年，一切是那样的平淡，宁静，祥和，致远。
+  created_at: 2021-12-11 20:53:32
+  source: 原创
+  uuid: a221e513-d227-4cd0-a7a7-222ab6268964
+- author: 格·安扎帕利泽
+  character: null
+  content: 书——不是热香肠，不是果酱包，它不会由于时间过久而变馊。
+  created_at: 2025-07-24 12:17:09
+  source: 文学报
+  uuid: cbedc34c-6cf2-4f88-bc2b-ba37396e7564
+- author: 刘慈欣
+  character: null
+  content: 三天后，也就是十四日，在凌晨一点钟至四点钟，整个宇宙将为你闪烁。
+  created_at: 2021-05-09 15:43:46
+  source: '三体I: 地球往事'
+  uuid: efcc7044-84f4-48cd-8f83-0e4d516cdd64
+- author: 刘亮程
+  character: null
+  content: 我因为后来离开村子，在远处看见这一村庄人的火焰。看见他们比熄灭还要寂静的那一场燃烧。我像一根逃出火堆的干柴，幸运而孤独地站在远处。
+  created_at: 2020-11-10 20:32:24
+  source: 一个人的村庄
+  uuid: e762c7e7-387c-411f-b0df-17346a9fee64
+- author: null
+  character: null
+  content: 这个世界冰冷而孤寂，这个游戏刚好可以陪伴它。
+  created_at: 2026-09-05 17:35:38
+  source: 极乐迪斯科
+  uuid: cc648145-275b-4ec9-948d-3ca644e33764
+- author: 安昙璃纱
+  character: null
+  content: 在逃走之前，首先得试着去接触……对吗？
+  created_at: 2025-07-24 11:22:13
+  source: 花吻在上11
+  uuid: dc5e7d8e-1ebd-4362-beb3-ffe9a0979b64
+- author: 莉莉可
+  character: null
+  content: 而英雄总是归于幕后。
+  created_at: 2024-07-29 02:16:59
+  source: 绝区零
+  uuid: cab6dee1-55ad-482a-8f3c-254c6f956e64
+- author: 杨戬
+  character: null
+  content: 与其绝望死去 不如纵情燃烧。
+  created_at: 2021-05-09 07:30:32
+  source: 王者荣耀
+  uuid: f12b7b3a-a7eb-4265-a1b9-b0905f78de64
+- author: 虾霸
+  character: null
+  content: 如何摆脱毫无意义的生活？                                                            非常简单，把每天都当做生命最后一天来过。
+  created_at: 2023-04-15 19:14:45
+  source: 海绵宝宝
+  uuid: 6c15653e-3a17-42f9-960a-413e512b8b64
+- author: null
+  character: null
+  content: 就算是自私⋯⋯我也希望那些人能够永远都有笑容⋯⋯
+  created_at: 2011-10-23 00:19:32
+  source: 夏目友人帐
+  uuid: b962f13d-2f11-4c5b-a75b-030413702a64
+- author: null
+  character: null
+  content: 窃人者，自失其宝。
+  created_at: 2016-07-16 02:05:16
+  source: 假面骑士kabuto
+  uuid: c6e24fbe-824d-4046-83d0-819047a5bd64
+- author: null
+  character: null
+  content: 24岁的阿升你好，我是15岁的美加子，我现在也还是非常、非常的喜欢阿升哦！
+  created_at: 2016-07-16 02:05:15
+  source: 星之声
+  uuid: c8d086a5-5cb1-4bf0-95aa-b53cdd7c9264
+- author: null
+  character: null
+  content: 比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。
+  created_at: 2016-07-16 02:05:10
+  source: AIR
+  uuid: 8ada268b-6e37-47f7-9216-53dd8d84b864
+- author: null
+  character: null
+  content: 人不能一个人活下去，不需要任何人的孤独和需要人但得不到的孤独是不一样的。
+  created_at: 2016-07-16 02:05:09
+  source: 邻座的怪同学
+  uuid: be86750c-961d-460b-a388-db54e84a4c64
+updated_at: 2026-09-25 11:58:44.591883+00:00

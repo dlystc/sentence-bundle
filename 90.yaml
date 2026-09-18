@@ -1,0 +1,305 @@
+chunk_id: 90
+sentences:
+- author: ilem
+  character: null
+  content: 大疯一趟两相忘，不知东方天既白。
+  created_at: 2026-04-19 22:07:10
+  source: 大氿歌
+  uuid: cc88b02e-dce0-424f-9d7e-9f2dc67b0d5a
+- author: 王雱
+  character: null
+  content: 海棠未雨，梨花先雪，一半春休。
+  created_at: 2020-04-09 09:23:01
+  source: 眼儿媚·杨柳丝丝弄轻柔
+  uuid: fabacf0b-ffd4-43ae-9e53-336e05f0375a
+- author: '基辛格 '
+  character: null
+  content: 中国总是被他们最勇敢的人保护得很好。
+  created_at: 2020-02-09 22:10:53
+  source: 论中国
+  uuid: c236e8ad-6604-4ec0-898a-86f3821d505a
+- author: 忆
+  character: null
+  content: 你的温柔只为我一个，我的坚强只为你一人。
+  created_at: 2021-08-30 11:20:18
+  source: 作者本人
+  uuid: 96363bf6-a338-4982-b008-bdd740e0035a
+- author: null
+  character: null
+  content: 少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。
+  created_at: 2020-04-07 02:49:12
+  source: 丑奴儿·书博山道中壁
+  uuid: 2408c153-ac1e-4146-b68a-8111ab89975a
+- author: 托•富勒
+  character: null
+  content: 离别使恋爱热烈，重逢则使它牢固。
+  created_at: 2021-08-02 04:50:34
+  source: 虐杀原形
+  uuid: 9d9908a5-2112-46e3-8636-d8da4fa99c5a
+- author: 石夜道转
+  character: null
+  content: 当你面临死亡时，当你参加亲人葬礼的时候，当你看到无数的死亡时，你会真真切切地领悟它，看透它。最后化为四个字：即死领悟。
+  created_at: 2020-05-09 22:22:49
+  source: 原创
+  uuid: 21560587-c4f5-4347-a760-8dab1b1d755a
+- author: 齐佩甲
+  character: null
+  content: 一成不变的事迹在混乱主义者面前毫无乐趣可言！
+  created_at: 2023-05-12 10:07:59
+  source: 超神机械师
+  uuid: 627b1103-4dc6-4c85-bac8-4536e6d71f5a
+- author: null
+  character: null
+  content: 我们的夏天仍未结束。
+  created_at: 2016-07-16 02:05:09
+  source: 王牌投手
+  uuid: ae378708-b121-4434-8a04-4209f487615a
+- author: Stefan Zweig
+  character: null
+  content: She was still too young to know that life never gives anything for nothing,
+    and that a price is always exacted for what fate bestows.
+  created_at: 2021-04-22 17:04:08
+  source: 'Marie Antoinette: Bildnis eines mittleren'
+  uuid: 8ccea8ba-58d5-4715-8d4d-cbeb338ece5a
+- author: null
+  character: null
+  content: 浩如星海的人群中，与你相遇真是一件幸运的事情
+  created_at: 2020-01-02 18:13:52
+  source: 小小柳之絮
+  uuid: b99c8a47-4b4f-4c84-b074-31505b43ba5a
+- author: LJS80
+  character: null
+  content: 谁曾想，再见，竟是再也不见。
+  created_at: 2025-01-27 22:01:23
+  source: MCBBS
+  uuid: e50daef0-a1e3-4b63-9280-fa9a6b05325a
+- author: 廖伟志
+  character: null
+  content: 短暂柔情似流星划落。
+  created_at: 2026-08-30 05:46:14
+  source: 你有没有真的爱过我
+  uuid: 7bdf440e-0402-4067-96b0-a12298cf855a
+- author: null
+  character: null
+  content: 空不是无，空是一种存在。
+  created_at: 2022-03-18 13:59:24
+  source: 三体
+  uuid: 2415f030-05ff-47da-9079-d6b81dde9e5a
+- author: 牛魔
+  character: null
+  content: 工作要张弛有度，就像举铁，发力时认真，组间休息也得够！
+  created_at: 2026-04-25 06:37:26
+  source: 王者荣耀
+  uuid: 3674a6cd-a39f-47eb-b9fa-54b2cbed065a
+- author: 波风水门
+  character: null
+  content: 虽然是对手，但你还不错嘛！
+  created_at: 2026-05-25 21:17:19
+  source: 火影忍者
+  uuid: 60b99d88-b4e8-4e8a-ad42-991b10276d5a
+- author: null
+  character: null
+  content: 这不是神经病，是理想
+  created_at: 2018-05-02 17:12:17
+  source: 大话西游之紫霞仙子
+  uuid: 05dd54e1-b907-42ed-ad91-5735c900855a
+- author: John Kell
+  character: null
+  content: Checked my phone, nothing from you.
+  created_at: 2026-08-30 00:48:44
+  source: HEAVENLY JUMPSTYLE
+  uuid: 72de2ada-eaa8-403b-9f70-9e1ce1383f5a
+- author: null
+  character: null
+  content: 君看双眼色，不语似无忧
+  created_at: 2018-06-26 19:55:53
+  source: 俳句  罗生门
+  uuid: a2f5a3d4-a0eb-42fa-9ccb-a7feca45a85a
+- author: Robert Frost
+  character: null
+  content: Two roads diverged in a wood,and I — I took the one less traveled by.
+  created_at: 2021-05-17 21:31:26
+  source: The Road not Taken
+  uuid: 8a8b8150-fee9-413b-9abb-2bf528958b5a
+- author: 慎
+  character: null
+  content: 我很想陪伴在你身边，只是你不允许，没关系，在你需要帮助时，我还是会出现在你身边。
+  created_at: 2022-01-20 10:09:26
+  source: 英雄联盟
+  uuid: d23390ed-554f-49a9-b86b-eb80b698fd5a
+- author: null
+  character: null
+  content: 愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。能做事的做事，能发声的发声。有一分热，发一分光。就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。
+  created_at: 2020-03-11 09:47:28
+  source: 热风
+  uuid: 1d537563-3705-446f-83ad-e03559d7e75a
+- author: null
+  character: null
+  content: We're here to put a dent in the universe. Otherwise why else even be here?
+    活着就是为了改变世界，难道还有其他原因吗？
+  created_at: 2019-12-06 11:07:38
+  source: 乔布斯
+  uuid: be8e6a2d-9bfd-467a-95e2-3dcf357a6c5a
+- author: 程佳佳
+  character: null
+  content: 把你的心给我，把你的爱给我，这样我才能大胆尝试有更多的把握。
+  created_at: 2026-08-07 17:31:16
+  source: 别错过
+  uuid: 9bca2ca9-4bd2-41fb-b69e-af457c3bcf5a
+- author: 佚名
+  character: null
+  content: 人这一生，匆匆而过，若说真有所图，也不过是一份温暖和惦记
+  created_at: 2022-04-02 19:07:59
+  source: 快手
+  uuid: 73c5543f-56f9-417e-939c-b8f6c47e085a
+- author: 凯尔希
+  character: null
+  content: 不要害怕，这种力量只会用于治愈。
+  created_at: 2026-06-27 14:44:46
+  source: 明日方舟
+  uuid: 993ad671-7f52-497d-8c3f-4807e864b95a
+- author: 大森元貴
+  character: null
+  content: 愛を知る。
+  created_at: 2026-08-30 05:40:37
+  source: Brand New
+  uuid: b6a591a1-3d44-43dc-9abb-b9c0e90f7e5a
+- author: 佚名
+  character: null
+  content: 我很少回忆，却不代表那些过往不在。
+  created_at: 2023-05-09 22:59:39
+  source: 互联网
+  uuid: 4fb5e4a4-fb69-46c0-9d3d-8326501d975a
+- author: 晏殊
+  character: null
+  content: 无情不似多情苦。一寸还成千万缕。
+  created_at: 2020-04-07 22:58:49
+  source: 玉楼春·春恨
+  uuid: 1024613d-2ad7-4ef2-abc1-2a9dec14585a
+- author: 蔡健雅
+  character: null
+  content: Do you believe that, That love can be found, In every one of us.
+  created_at: 2024-10-22 06:58:15
+  source: 芬兰距离
+  uuid: d91cf6a9-ed27-46cd-ba58-8aef6dab6b5a
+- author: null
+  character: null
+  content: 种瓜得瓜，种豆得豆，种郭德纲。
+  created_at: 2026-04-29 10:55:47
+  source: 网络
+  uuid: 24471613-0d0a-4c50-b57e-66dbe4391a5a
+- author: null
+  character: null
+  content: 将行之事，必将已行；已行之事，必将再行。
+  created_at: 2026-07-17 05:05:13
+  source: 圣经
+  uuid: 7eb2b856-22c3-466f-93b9-2484179bc85a
+- author: 王小波
+  character: null
+  content: 人类侥幸拥有了智慧，就应该善用它。
+  created_at: 2021-05-05 10:45:39
+  source: 意林
+  uuid: 64559b13-fe87-44fd-a745-d48fb6c6895a
+- author: 疯狂的羊
+  character: null
+  content: 不必计较太多世俗的对与错。
+  created_at: 2026-08-08 16:06:30
+  source: 踏马寻花向自由(雷鬼版)
+  uuid: e6fcb685-312c-4af5-802b-0f948165125a
+- author: 廖伟志
+  character: null
+  content: 今夜雾蒙蒙。
+  created_at: 2026-08-08 14:04:34
+  source: 你有没有真的爱过我
+  uuid: dc771eee-46d4-493a-baf9-e47d14c26d5a
+- author: 疯狂的羊
+  character: null
+  content: 纵马高歌肆意潇洒的活。
+  created_at: 2026-08-07 17:16:53
+  source: 踏马寻花向自由(雷鬼版)
+  uuid: f39274f4-1e0f-4cc2-9112-8ca6c32e485a
+- author: 楼玉明只是路过
+  character: null
+  content: 知君肝胆昭昭印刻前文。
+  created_at: 2026-08-08 15:16:42
+  source: 宿草经年
+  uuid: b1a8a245-57f1-40c3-b089-9d3dedfde25a
+- author: 道雀Bzz
+  character: null
+  content: 飞向了黑河却逃不出梦里，冲动的故事你要什么动机。
+  created_at: 2026-08-07 15:41:40
+  source: 倾斜的婚礼
+  uuid: dee1fd11-9aa1-4f5a-9df5-1bf8950b785a
+- author: null
+  character: null
+  content: 从前不讲究，往后不将就。
+  created_at: 2024-01-25 01:28:53
+  source: 网络
+  uuid: f85a3780-9bd1-4123-ad58-01ba8d6ba15a
+- author: 罗永浩
+  character: null
+  content: 从来就没有什么失败的人，只有半途而废的人。
+  created_at: 2021-01-20 11:06:41
+  source: 锤子科技发布会
+  uuid: fb8d7e63-8bd3-4a67-8f5d-fa5c59945a5a
+- author: null
+  character: null
+  content: 开心就好
+  created_at: 2016-10-04 00:23:26
+  source: 网络
+  uuid: d0a500e9-f2ef-4262-bb7e-f489adc6915a
+- author: CuSO4
+  character: null
+  content: 窗外花火亮起的瞬间，我为何在流泪？
+  created_at: 2023-07-18 17:11:10
+  source: 漂泊手札
+  uuid: cf4e7d1f-dabf-429d-8eae-47daa56c6a5a
+- author: null
+  character: null
+  content: 当你决定抛硬币的时候，就绝不要一次决定结果。毕竟，与其说相信命运，不过是命运恰巧停在了那个路口而已。
+  created_at: 2020-10-28 10:40:08
+  source: 网络
+  uuid: 8778b563-da21-4c8c-9ab1-383637a7935a
+- author: null
+  character: null
+  content: 父母是你的一把粗糙的伞，可是它为你遮风挡雨——而我们应该做的，是感激他们，并不是舍弃他们、捅破他们。
+  created_at: 2017-02-04 21:07:00
+  source: 龙猫 沧笙踏歌
+  uuid: b53d3b94-2080-4ecf-a165-4d81b67ec05a
+- author: 海明威
+  character: null
+  content: 我为我喜爱的东西大费周章，所以我才能快乐如斯。
+  created_at: 2022-11-07 13:09:14
+  source: 太阳照常升起
+  uuid: 66f51f02-31ad-4992-ae8c-2158d45dae5a
+- author: 刘慈欣
+  character: null
+  content: 那你的生活是一种偶然，世界有这么多变幻莫测的因素，你的人生却没什么变故。
+  created_at: 2021-05-09 15:45:54
+  source: '三体II: 黑暗森林'
+  uuid: 3cb24ae9-805c-4f78-ba3e-bd5b4431b25a
+- author: 麦克斯·埃尔曼
+  character: null
+  content: 总有一阵风会吹过我再吹过你，总有一个瞬间我们之前的距离是零。
+  created_at: 2021-03-06 19:50:25
+  source: 我们需要的
+  uuid: 130aaeab-67dd-4f12-bbb5-f8b4a6e7b45a
+- author: null
+  character: null
+  content: 我慢慢地，慢慢地了解到，所谓父女母子一场只不过意味着，你和他的缘分就是今生今世不断地在目送他的背影渐行渐远。
+  created_at: 2020-01-30 15:53:31
+  source: 目送
+  uuid: 7bff78a2-0afd-4047-b619-586f8e792d5a
+- author: null
+  character: null
+  content: 我放着好好的阳关大道不走，走这阴沟里的独木桥干什么。真这么好走早就有人走了。
+  created_at: 2018-09-20 20:18:36
+  source: 魔道祖师
+  uuid: e56ab54a-4d95-401b-82d8-7e550ad27c5a
+- author: 青钢影
+  character: null
+  content: 自立自主，总胜过俯首为奴。
+  created_at: 2022-08-04 19:34:39
+  source: 英雄联盟
+  uuid: c4fc3871-257b-4f1a-87d1-fc89f3e2ee5a
+updated_at: 2026-09-25 11:50:38.332071+00:00
