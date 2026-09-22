@@ -1,0 +1,279 @@
+chunk_id: 144
+sentences:
+- author: 王小波
+  character: null
+  content: 你是非常可爱的人，真应该遇到最好的人，我也真希望我就是。
+  created_at: 2021-03-06 19:57:19
+  source: 爱你就像爱生命
+  uuid: fe1445b7-496c-4357-88c0-3d33ab806c90
+- author: 卓别林
+  character: null
+  content: 人生用特写镜头来看是悲剧，长镜头来看则是喜剧。
+  created_at: 2020-02-06 16:50:11
+  source: 名人名言
+  uuid: 7ee06531-58a7-4e0b-89ad-923c871c2b90
+- author: 王健美
+  character: null
+  content: 看看外面的世界，山河多锦绣。
+  created_at: 2026-08-08 16:08:26
+  source: 山风山风等等我
+  uuid: 2aac7f76-3d19-47ae-8016-8b1b9811cc90
+- author: null
+  character: null
+  content: 你什么时候放下，什么时候就没有烦恼。
+  created_at: 2016-12-07 12:55:47
+  source: 网络
+  uuid: eb5fa6bd-5711-4508-9d0d-811af6027990
+- author: 网络
+  character: null
+  content: 就算终有一散也别辜负相遇。
+  created_at: 2020-04-08 18:32:12
+  source: 网络
+  uuid: ada40601-5a04-467a-8519-6a85a5e76c90
+- author: 大老师
+  character: null
+  content: 孤独的人不会伤害别人，只会不断地伤害自己罢了。
+  created_at: 2020-03-30 09:45:19
+  source: 我的青春恋爱物语果然有问题
+  uuid: 93f449e7-d153-47dc-8aee-24eb24aa5590
+- author: 我叫何同学
+  character: null
+  content: 对自己的爱好保持热情，不要太功利！
+  created_at: 2020-01-22 02:35:29
+  source: 网络
+  uuid: ffad0079-be5b-4a3b-a71f-628ef2e04190
+- author: 契约千魂
+  character: null
+  content: 如果喜欢和合适撞个满怀多好。
+  created_at: 2020-04-08 18:25:44
+  source: 不待
+  uuid: a7f4cb17-8409-4cce-b416-f3d55191de90
+- author: null
+  character: null
+  content: 不是所有牛奶都叫特仑苏。
+  created_at: 2018-11-13 12:48:15
+  source: 乱世流年
+  uuid: df4e9ac7-5315-4c6d-8ae7-2104c8b42190
+- author: 泽田弘树
+  character: null
+  content: 现实中的人生不像游戏中那么简单。
+  created_at: 2022-06-08 15:37:43
+  source: 名侦探柯南剧场版：贝克街的亡灵
+  uuid: 9f2e9cf5-d641-4b0f-b5b2-229b97bce890
+- author: Sakanaction鱼韵乐队
+  character: null
+  content: 云漫天，梦中巷，白日不得见；人如浪，聚似潮，不知何处去。
+  created_at: 2024-10-23 00:11:44
+  source: light dance
+  uuid: 6a179cdb-336c-4061-8647-b5e736ca8390
+- author: 令
+  character: null
+  content: 云峦波涛，千里枯路，江山故人我，晚秋行舟。
+  created_at: 2023-02-27 00:52:36
+  source: 明日方舟
+  uuid: c3c32adf-ec05-410e-8348-126a6e1f3b90
+- author: 二水/自游诗
+  character: null
+  content: 难舍，难分，难解，缘起，缘浅，缘灭。
+  created_at: 2026-06-25 20:25:37
+  source: 难解
+  uuid: 4583dbc0-4c2d-4832-9b24-07c039c21290
+- author: null
+  character: null
+  content: 欧拉欧拉欧拉欧拉！
+  created_at: 2019-02-14 18:00:12
+  source: JOJO的奇妙冒险
+  uuid: 48c68bfa-7dfd-4cc3-86d2-040ed4403b90
+- author: Hasty
+  character: null
+  content: 我真想拉起你的手，逃向初晴的天空和田野，不畏縮也不回顧。
+  created_at: 2020-04-23 21:57:26
+  source: 原创
+  uuid: 113b9c0f-0633-42f6-8c17-2518e08cf990
+- author: Pete Seeger
+  character: null
+  content: We can bring to birth a new world from the ashes of the old.
+  created_at: 2020-10-24 13:37:35
+  source: Solidarity Forever
+  uuid: 067fd14f-defb-4637-95f1-2673c9969090
+- author: 庄周
+  character: null
+  content: 天地与我并生，万物与我为宜。
+  created_at: 2023-08-02 12:06:36
+  source: 王者荣耀
+  uuid: 790a8832-5985-4d14-bf0e-6f7da9b75790
+- author: 汪苏泷
+  character: null
+  content: 难过只写在我手机。
+  created_at: 2026-08-29 23:03:37
+  source: 就让这大雨全都落下
+  uuid: 672d3b2f-2ab8-43c5-af8e-8f50896e0090
+- author: null
+  character: null
+  content: 人一生会遇到约2920万人，两个人相爱的概率是0.000049。所以你不爱我，我不怪你。
+  created_at: 2016-07-16 02:05:10
+  source: 秒速五厘米
+  uuid: 5aec3ff8-403a-4ce6-a3eb-c67ee69c5f90
+- author: 毛泽东
+  character: null
+  content: 往事越千年，魏武挥鞭，东临碣石有遗篇。
+  created_at: 2024-04-05 20:11:17
+  source: 浪淘沙·北戴河
+  uuid: 2cd850d3-04e4-4f88-864d-d1e2e9df8e90
+- author: 皮皮参
+  character: null
+  content: 卡布奇诺今犹在，不见当年吃屏人。
+  created_at: 2020-10-26 23:05:26
+  source: 网络
+  uuid: c4d0c0df-2f05-4706-a39a-b337e2db6190
+- author: 原口沙輔
+  character: null
+  content: 顔が→鈍器になっちゃうヨ，偽が→権利を取ったんだ。
+  created_at: 2024-09-28 09:28:24
+  source: イガク
+  uuid: 62c4ed1f-9874-4be9-af36-f3f09328f690
+- author: 毛泽东
+  character: null
+  content: 好好学习，天天向上。
+  created_at: 2021-07-20 17:06:14
+  source: 毛主席语录
+  uuid: 9a623335-f120-4912-9dea-68148bd02b90
+- author: 王小波
+  character: null
+  content: 知识虽然可以带来幸福，但假如把它压缩成药丸子灌下去，就丧失了乐趣。
+  created_at: 2021-05-05 11:11:29
+  source: 沉默的大多数
+  uuid: 7dc1ad21-cd76-4733-ba33-c4909a96b290
+- author: 叔本华
+  character: null
+  content: 野蛮人之间人吃人，文明人之间人骗人。
+  created_at: 2021-08-05 17:10:22
+  source: 人生的智慧
+  uuid: 5d5523d1-e586-42dd-9b7a-faf4571d1090
+- author: 佚名
+  character: null
+  content: 所有大张旗鼓的离开其实都是试探，真正的离开是没有告别的，真正想要离开的人，只是挑了一个风和日丽的早晨，裹了一件最常穿的大衣，悄悄地关上门然后再也没有回来。
+  created_at: 2022-01-26 13:48:15
+  source: 你还要我怎样
+  uuid: 742294d9-bf48-4198-80d1-27b56c9a5e90
+- author: Kordhell
+  character: null
+  content: Pack my nine millimeter 'cause I ain't finna go out.
+  created_at: 2026-08-30 06:09:50
+  source: Murder In My Mind
+  uuid: c02d08a2-ad2b-4687-9492-0f4c87ecc290
+- author: null
+  character: null
+  content: 这次我真的放手，等到了这一刻。
+  created_at: 2026-08-29 22:56:53
+  source: 别错过
+  uuid: 041d510d-47e5-4b28-9326-d3ac1daba690
+- author: 伍佰
+  character: null
+  content: 你就在我的世界，升起了彩虹。
+  created_at: 2026-08-29 22:55:22
+  source: 再度重相逢
+  uuid: c7a8826b-e0cb-4c07-a03a-e5a35a98d290
+- author: 应晓璃@SoundJoin词曲
+  character: null
+  content: 却把我丢在原地，不堪你我；怎么两清，怎么忍心？
+  created_at: 2026-08-08 16:07:17
+  source: 甲乙丙丁 (你我怎么两清)
+  uuid: 937b3d5a-5d12-4b26-8cac-95087ba20a90
+- author: 鎖那
+  character: null
+  content: 清晨炎午凉夜一整天都在想关于你的事情，甚至还会妄想起奇怪的事情，不会败给不能与你相见的时间，我会变得可爱迷人起来的，所以你一定要察觉到我哦。
+  created_at: 2021-10-01 10:57:04
+  source: 可愛くなりたい
+  uuid: a1fd391b-33be-4f4b-98b5-c091dec07790
+- author: null
+  character: null
+  content: 永远相信，美好的事情即将发生。
+  created_at: 2019-11-11 23:31:29
+  source: 小米公司
+  uuid: c10604fe-de3c-494f-90d8-c27e7a7bed90
+- author: 耳根
+  character: null
+  content: 往昔红颜梦，今朝朦胧泪。
+  created_at: 2021-07-03 17:19:43
+  source: 仙逆
+  uuid: f01138bc-c285-4d08-be41-77de46e04890
+- author: null
+  character: null
+  content: 少年与爱永不老去，即便披荆斩棘，丢失怒马鲜衣。
+  created_at: 2021-08-17 14:24:51
+  source: 莫峻
+  uuid: 1046112d-8b76-40d3-8634-df76dce8f290
+- author: null
+  character: null
+  content: 时间，捉摸不透。
+  created_at: 2020-03-06 08:09:03
+  source: GoodChing
+  uuid: aa7b8982-16c0-4ced-9848-c82a9f818090
+- author: 蓝麓
+  character: null
+  content: 再深的感情终是黄粱一梦。
+  created_at: 2020-02-11 09:51:51
+  source: 蓝麓
+  uuid: 1b1cceb4-a84b-427c-9914-2537876aa390
+- author: 穆旦
+  character: null
+  content: 我要以带血的手和你们一一拥抱，因为一个民族已经起来。
+  created_at: 2026-04-16 21:35:02
+  source: 赞美
+  uuid: 0b4b7840-2f63-4862-9511-70a905ba2490
+- author: 闵然
+  character: null
+  content: 如果你说，年少的爱恋像风一样捉摸不定。那我愿，余生以为期，长逝入君怀。
+  created_at: 2023-12-17 20:42:19
+  source: 余生为期
+  uuid: 2cf24766-74de-43ad-8dbd-44a1492ddc90
+- author: 加缪
+  character: null
+  content: 在隆冬，我终于知道，我身上有一个不可战胜的夏天。
+  created_at: 2020-04-09 00:12:52
+  source: 夏天集
+  uuid: 46b82921-e1ab-4209-a081-4628b233e490
+- author: null
+  character: null
+  content: 我站在路口，哈出的气可以把那些六角形的雪融化。
+  created_at: 2020-01-30 15:53:37
+  source: 嗨，STORM GLASS
+  uuid: 5d23caa1-bde1-4d0d-9f85-af8067c55290
+- author: Phigros
+  character: null
+  content: 旅船是掩盖未来的虚像，战车正指引命运，硬币掷出后，正逆的转换从未停止，前方是毁灭也是重生。
+  created_at: 2023-07-27 15:28:42
+  source: Phigros
+  uuid: 7f85978b-5108-4fb3-89c5-effc569afa90
+- author: Key
+  character: null
+  content: 最终蝴蝶回到了家乡，静静地停到花上，蝴蝶对自己能遇见这么多人感到满足，于是蝴蝶静静地睡去了。
+  created_at: 2023-07-18 17:11:34
+  source: Summer Pockets
+  uuid: 010efa2b-d5ed-4581-a627-93316734c590
+- author: null
+  character: null
+  content: 有的鱼是永远关不住的，因为他们属于天空。
+  created_at: 2019-11-03 17:18:39
+  source: 大鱼海棠
+  uuid: 73271c53-783a-4398-8c22-f321594c5c90
+- author: 中村春菊
+  character: null
+  content: 重逢的时候没想到我会这样喜欢他，虽然你不是我交往的第一人，可却是我的初恋，虽然你可能并不知道。
+  created_at: 2016-12-07 12:55:47
+  source: 世界第一初恋
+  uuid: e34570e9-f495-430e-b336-e24490edcd90
+- author: null
+  character: null
+  content: 有些事情我不看透，不是我笨，只是我太善良。
+  created_at: 2016-07-16 02:05:24
+  source: 樱桃小丸子
+  uuid: 454e939f-525c-49c9-bd24-5c04c8eded90
+- author: null
+  character: null
+  content: 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
+  created_at: 2016-07-16 02:05:11
+  source: XXXHolic
+  uuid: 984c59d0-0f74-4ce7-b9dd-2ecfb39dd490
+updated_at: 2026-09-25 11:58:45.908810+00:00

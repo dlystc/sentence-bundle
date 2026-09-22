@@ -1,0 +1,243 @@
+chunk_id: 42
+sentences:
+- author: 安妮宝贝
+  character: null
+  content: 醉笑陪君三千场，不诉离殇。
+  created_at: 2020-03-28 11:11:43
+  source: 清醒纪
+  uuid: 6cdd38c1-c81e-4dc9-aefa-d00b105d612a
+- author: 无极剑圣
+  character: null
+  content: 那手中的冥火，是坦克中的噩梦；无极里的鬼影，在我的身边穿梭。
+  created_at: 2022-01-20 10:13:20
+  source: 英雄联盟
+  uuid: 18ee9e10-69f4-4c5c-8f4a-235daca89e2a
+- author: 令
+  character: null
+  content: 长河千嶂，大荒孤城，历历在目。
+  created_at: 2023-02-27 00:52:55
+  source: 明日方舟
+  uuid: 74630a5b-7fb4-48b9-ace2-c73af6113b2a
+- author: 又诗几行
+  character: null
+  content: 往事匆匆，但愿你也能感动。
+  created_at: 2020-11-10 10:56:09
+  source: Lyrics
+  uuid: 63b834bf-cb2e-4d4c-8a9e-2b4582b2a12a
+- author: null
+  character: null
+  content: 正因为有忘也忘不了的回忆，才会变得坚强，这就是所谓的成长吧！
+  created_at: 2017-05-08 18:39:50
+  source: 火影忍者
+  uuid: f3ef9294-0be7-4009-9144-c8f64ae3002a
+- author: 米哈游
+  character: null
+  content: 在这个真实得太过分的世界里，每个人都需要仰望星空。
+  created_at: 2022-07-18 17:13:57
+  source: 原神
+  uuid: 857d8938-3a4c-4dbd-b793-bffa34f4b32a
+- author: null
+  character: null
+  content: 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
+  created_at: 2016-08-30 17:41:10
+  source: Re：从零开始的异世界生活
+  uuid: d7c0d898-ceaa-480b-9d10-fc4833135c2a
+- author: 李清照
+  character: null
+  content: 昨夜雨疏风骤，浓睡不消残酒。
+  created_at: 2022-12-03 00:33:00
+  source: 如梦令
+  uuid: ad34edb1-675b-4f5d-8326-ceaa25a2942a
+- author: 阿尔贝·加缪
+  character: null
+  content: 绝望的人没有故乡。
+  created_at: 2020-04-20 09:09:32
+  source: 加缪手记·第二卷
+  uuid: 4d4dc771-98ed-4860-a4ab-7ee652dd522a
+- author: null
+  character: null
+  content: A lion does not concern himself with the opinion of sheep.
+  created_at: 2020-03-11 10:29:09
+  source: 权力的游戏
+  uuid: 971cc80e-d0ee-42de-8549-c3ed938e3d2a
+- author: null
+  character: null
+  content: 这里是鸽游！
+  created_at: 2024-03-10 15:14:41
+  source: phigros
+  uuid: d5b4800c-908b-4cec-b03e-e372c17eb92a
+- author: null
+  character: null
+  content: 有时你飞到了头，却发现还不如中间掉下来。
+  created_at: 2016-11-10 22:19:40
+  source: 球状闪电
+  uuid: 9a3b5a7c-c34b-41cf-96a4-a03f151b052a
+- author: null
+  character: null
+  content: 你不会死的，因为我会保护你.
+  created_at: 2016-07-16 02:05:09
+  source: EVA
+  uuid: a682339d-b791-4e9f-b8d9-e0cdb964122a
+- author: 陈铭
+  character: null
+  content: 爱情不是一个拼图，是一个圆碰到另一个圆。
+  created_at: 2022-01-18 15:46:58
+  source: 非正式会谈
+  uuid: 0803281d-31ca-49e4-a32d-a13a45b9882a
+- author: zby
+  character: null
+  content: 翻转AI，即为∀I，若是将我们翻转过来，是任意定义域的自由还是拘泥区间的牢笼呢？
+  created_at: 2026-07-01 20:16:24
+  source: zby大脑皮层上的神经元突触们
+  uuid: a40f973c-a45c-40b0-b2bf-596a7e90152a
+- author: 梦枕貘
+  character: null
+  content: 深情隐现眉宇间，他人已知我相思。
+  created_at: 2020-07-31 16:03:55
+  source: 阴阳师
+  uuid: 00414789-20bf-4f77-8e0e-c26fa0f1d12a
+- author: 古河渚
+  character: null
+  content: 我也很没用，但是两个人一起的话，就会变得很坚强。
+  created_at: 2022-10-24 21:03:41
+  source: Clannad
+  uuid: 27bf09c9-a3be-48a6-901f-b41924d5ff2a
+- author: null
+  character: null
+  content: 我的灵魂被惯有的坏脾气所淹没，我感到疲惫，不是对工作或者休闲疲惫，而是对自己感到疲惫。
+  created_at: 2020-12-06 09:53:48
+  source: 惶然录
+  uuid: 0d9e3eaf-c9f2-4b77-9add-8fd8d56f292a
+- author: The New Order:Last Days of Europe
+  character: null
+  content: 天下大势，顺人心者兴，成功者不一定是最有能力的人，但自然是抓住机会的人。
+  created_at: 2020-09-06 17:57:01
+  source: «万世为王»，TNO启示录事件
+  uuid: 34826644-34b8-4306-9e7c-0b9ec1916c2a
+- author: null
+  character: null
+  content: 你们这些天才止步不前的时候，我会走得更远。
+  created_at: 2018-10-21 16:26:22
+  source: 如果有个妹妹就好了
+  uuid: e7302847-9965-4102-8fce-e79b8a95792a
+- author: null
+  character: null
+  content: 闪烁的灯光是我在异世界大声地呼唤你。
+  created_at: 2023-02-08 18:41:45
+  source: 怪奇物语
+  uuid: 694b81c1-4d73-4ce6-bbdd-fe8cd17ff92a
+- author: 网络
+  character: null
+  content: 你每天起床有两个选择：一个是盖上被子做你未完成的梦，另一个是掀起被子完成你未完成的梦。
+  created_at: 2024-08-02 15:19:24
+  source: 网易云音乐
+  uuid: 306e89f2-bb4f-40a7-91c2-758165e3302a
+- author: 陈怀恩
+  character: null
+  content: 我希望在20出头的生命里，做一件到八十岁想起来都还会微笑的事。
+  created_at: 2020-12-06 22:50:25
+  source: 练习曲
+  uuid: 4d2a58b7-450c-49a5-a44f-24dfb457222a
+- author: null
+  character: null
+  content: 飞往回忆里的纸飞机啊也捎带哀愁。
+  created_at: 2026-08-30 08:04:38
+  source: 我的纸飞机
+  uuid: 94602631-f822-4aba-b0b3-e76b45de512a
+- author: 孙中山
+  character: null
+  content: 吾志所向，一往无前，愈挫愈奋，再接再厉。
+  created_at: 2020-04-09 00:13:59
+  source: 孙中山
+  uuid: 9a24022a-b6b1-42c9-b82d-b0ec5482902a
+- author: 王健美
+  character: null
+  content: 终是那一捧土，时光会溜走。
+  created_at: 2026-08-30 05:43:33
+  source: 山风山风等等我
+  uuid: bf1f3061-72f9-434d-aa1a-1ae05a25622a
+- author: 三七
+  character: null
+  content: 我们之间的故事不多，这回忆的漩涡，快要把我吞没。
+  created_at: 2026-07-24 20:42:24
+  source: 海屿你
+  uuid: 54e25949-e709-458f-b762-18e2f053032a
+- author: 佚名
+  character: null
+  content: 真正喜欢你的人你再蠢的套路她都愿意吃你的。
+  created_at: 2023-02-05 14:51:25
+  source: 互联网
+  uuid: d480ba31-ee82-4803-80df-ef31ef1ea72a
+- author: null
+  character: null
+  content: 因为那里面的理想世界，可能我们看的时候已经把自己代入进去了，故事结尾的时候我们又不得已回来现实，自然会空虚。
+  created_at: 2022-12-24 19:59:46
+  source: 网络
+  uuid: 2684a5ec-95b6-429b-8280-99a02941282a
+- author: 郭德纲
+  character: null
+  content: "\r\n沾酒不醉那是喝的少，见色不迷那是摸不着，淡泊名利那是实在没招"
+  created_at: 2020-02-23 14:02:26
+  source: 来自网络
+  uuid: 94b43169-7951-49fa-a2b6-6254de1d662a
+- author: null
+  character: null
+  content: 你想要的，岁月会给你
+  created_at: 2018-11-30 15:23:43
+  source: 原创
+  uuid: fbf3ec9c-d5c6-433d-b905-969a7a9e142a
+- author: 太宰治
+  character: null
+  content: 无论对谁太过热情，就增加了不被珍惜的概率。
+  created_at: 2023-05-04 14:19:22
+  source: 人间失格
+  uuid: de5343b4-a595-4986-bba5-b038f829222a
+- author: 马尔克斯
+  character: null
+  content: 无论走到哪里，都该记住，过去都是假的，回忆是一条没有尽头的路，以往的一切春天都无法复原，即使最狂乱且坚韧的爱情，归根结底也不过是一种瞬息即逝的现实，唯有孤独永恒。
+  created_at: 2021-10-01 10:49:16
+  source: 《百年孤独》
+  uuid: 1a2738f3-9f19-48dc-a62b-4071a690632a
+- author: 博马舍
+  character: null
+  content: 若批评不自由，则赞美无意义。
+  created_at: 2020-05-14 15:16:41
+  source: 费加罗的婚礼
+  uuid: 6f73d273-53ec-45d6-8d1d-d677534f102a
+- author: null
+  character: null
+  content: 至此以后，杀死幻想。
+  created_at: 2020-01-30 15:53:45
+  source: 咱的一位朋友
+  uuid: cc9fd1bd-c662-436c-b856-28c6cada0e2a
+- author: null
+  character: null
+  content: 树梢间泻下的秋日阳光，在她肩部一闪一闪地跳跃着。
+  created_at: 2020-01-30 15:53:47
+  source: 挪威的森林
+  uuid: ceb20f32-6ced-4719-a532-146cc8b8312a
+- author: null
+  character: null
+  content: 应该可以了吧，我已经很努力了，应该可以抵达终点了……
+  created_at: 2018-09-19 20:42:08
+  source: AIR
+  uuid: 7f60a0e2-089e-471b-810b-d96ee676842a
+- author: null
+  character: null
+  content: 只要记住你的名字，不管你在世界的哪个地方 ，我一定会，去见你。
+  created_at: 2018-01-19 23:46:49
+  source: 你的名字
+  uuid: 240b1a00-cda8-4534-ac09-0ff54580502a
+- author: null
+  character: null
+  content: 不得了不得了
+  created_at: 2017-04-06 15:44:59
+  source: 小林家的龙女仆
+  uuid: 4f4a539e-464d-4e1d-b220-b7680b78b22a
+- author: null
+  character: null
+  content: 我活在我的时间里，她活在她的时间里，因此，我们时间交错的瞬间，对我而言比任何事物都宝贵。
+  created_at: 2017-02-10 00:20:34
+  source: 她与她的猫
+  uuid: 1902a80a-06d8-4c81-8fab-c36292b0c02a
+updated_at: 2026-09-25 11:58:45.966036+00:00

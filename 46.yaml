@@ -1,0 +1,237 @@
+chunk_id: 46
+sentences:
+- author: 唐寅
+  character: null
+  content: 雨打梨花深闭门，误了青春，忘了青春。
+  created_at: 2020-04-07 02:49:09
+  source: 一剪梅·雨打梨花深闭门
+  uuid: 379c8520-6fce-4158-931e-3e90241e0e2e
+- author: 毛泽东
+  character: null
+  content: 多少事，从来急，天地转，光阴迫，一万年太久，只争朝夕。
+  created_at: 2020-04-11 21:32:10
+  source: 毛泽东语录
+  uuid: 9685ca1d-7815-4f96-9ac7-f70f6cff0f2e
+- author: null
+  character: null
+  content: 手持两把锟斤拷，口中疾呼烫烫烫。脚踏千朵屯屯屯，笑看万物锘锘锘。
+  created_at: 2018-01-28 20:08:47
+  source: 来自网络
+  uuid: 423637ba-ba39-4a19-81b4-a067e188002e
+- author: 秦观
+  character: null
+  content: 金风玉露一相逢，便胜却人间无数。
+  created_at: 2020-04-07 21:33:33
+  source: 鹊桥仙·纤云弄巧
+  uuid: 977266aa-edc7-4c37-8467-9395c15aac2e
+- author: 老猪
+  character: null
+  content: 「不。」云浅雪说：「正是对生命的热爱，使得他们如此强大。」他想，这是一个永不能征服的民族。
+  created_at: 2026-05-17 16:51:09
+  source: 紫川
+  uuid: 3b4dc80f-8f95-4a0a-be2d-bb8b043b3b2e
+- author: 小轩
+  character: null
+  content: 长江长千里，黄河水不停。江山依旧，人事已非，只剩古月照今尘。
+  created_at: 2026-07-05 12:10:55
+  source: 古月照今塵
+  uuid: 7ddc329d-4dcf-4ea8-9503-48f527e9e62e
+- author: 枫原万叶
+  character: null
+  content: 总会有地上的生灵，敢于直面雷霆的威光。
+  created_at: 2022-03-12 20:31:28
+  source: 原神
+  uuid: 71e693ed-6637-4b79-ad70-cc0078f73c2e
+- author: 曹植
+  character: null
+  content: 天地无终极，人命若朝霞。
+  created_at: 2025-07-24 12:09:51
+  source: 送应氏·其二
+  uuid: fa6d713d-4b89-4635-95f5-8269a335e92e
+- author: John Kell
+  character: null
+  content: Every old love song sounds like us.
+  created_at: 2026-08-30 09:49:13
+  source: HEAVENLY JUMPSTYLE
+  uuid: 6494aba1-407c-432b-aeda-458b8975342e
+- author: 花晶晶
+  character: null
+  content: 草长莺飞慰藉孤单的残雪，放开手让寒冷胆怯。
+  created_at: 2026-07-24 20:26:28
+  source: 咏春
+  uuid: 77b3d881-ad7d-4d3b-8155-839e2b59b82e
+- author: null
+  character: null
+  content: 我变了。因为我不变，就活不下去。
+  created_at: 2018-12-14 14:46:29
+  source: 幸会，吃人鬼
+  uuid: 3db61baa-72a3-4d1d-935c-d0d5014ef42e
+- author: CuSO4
+  character: null
+  content: 我相信我会在另一个世界醒来。
+  created_at: 2023-07-18 17:04:00
+  source: 花间拾梦
+  uuid: 81c45136-3f91-4f1b-b4c0-84f307f69a2e
+- author: 佚名
+  character: null
+  content: 我最喜欢你的那一年，那将是我永远不会再有的十八岁。
+  created_at: 2022-05-05 20:44:59
+  source: 互联网
+  uuid: 0d55fdc1-9adf-42af-8c50-6087c3d9c22e
+- author: storm1614
+  character: null
+  content: 暮昔年关应尽至，繁絮平生须尽及。锋前暂暖似春光，还意道于千载路。
+  created_at: 2024-02-15 10:20:11
+  source: storm1614.top
+  uuid: 881dce2f-47c6-44bb-884a-f6f53a09b32e
+- author: 苏轼
+  character: null
+  content: 人生到处知何似，应似飞鸿踏雪泥。
+  created_at: 2020-04-07 22:58:55
+  source: 和子由渑池怀旧
+  uuid: ef37fb8e-8228-4d19-b561-6cc62014b52e
+- author: 王毅
+  character: null
+  content: 战争考验人类的良知与正义，和平呼唤我们的理性与智慧。
+  created_at: 2026-07-06 18:01:28
+  source: 网络
+  uuid: 4614026b-9182-417f-b14c-59099f48422e
+- author: 李清照
+  character: null
+  content: 寻寻觅觅，冷冷清清，凄凄惨惨戚戚。
+  created_at: 2020-04-07 21:34:56
+  source: 声声慢·寻寻觅觅
+  uuid: d4d3f2e4-28fe-46fc-a109-8fcc2581a82e
+- author: 刘嘉星
+  character: null
+  content: 爱像是一场小雨淅沥沥淅沥沥。
+  created_at: 2026-08-08 16:05:03
+  source: 恋人
+  uuid: ac359908-ae0c-4cce-9e7e-9ee458d7392e
+- author: null
+  character: null
+  content: 信息学竞赛中没有证明。
+  created_at: 2018-06-10 09:26:38
+  source: wxh010910
+  uuid: be43a666-0e2f-4aa3-af40-8c8474fa892e
+- author: 徐重来
+  character: null
+  content: 你别见怪，我不会先离开。
+  created_at: 2026-08-07 16:34:07
+  source: 人生路漫漫
+  uuid: f08463ff-8e1b-4d9e-a183-00ac3fb6182e
+- author: 送仙典仪讣告
+  character: null
+  content: 腾龙飞鳞，虽寿比山岳，终为土灰。
+  created_at: 2021-09-07 09:44:29
+  source: 原神
+  uuid: 2239f0f9-b07c-4786-995c-f15af0a2d82e
+- author: null
+  character: null
+  content: 窗外雨滂沱。
+  created_at: 2026-08-29 22:49:54
+  source: 你有没有真的爱过我
+  uuid: d48e24b4-5c60-4751-9099-e78c0632492e
+- author: HanTian LanHai
+  character: null
+  content: 别等待，趁现在，迈向未来！
+  created_at: 2024-06-29 20:23:55
+  source: HanTian LanHai
+  uuid: b89777e1-65ce-4282-994b-9d37007dc12e
+- author: John Kell
+  character: null
+  content: I'll be alone, alone.
+  created_at: 2026-08-29 22:26:38
+  source: HEAVENLY JUMPSTYLE
+  uuid: 355ac95d-0ca4-4217-b773-a1b7b801352e
+- author: 皇后
+  character: null
+  content: An apple once a day，keep your enemies away.
+  created_at: 2020-01-27 17:14:11
+  source: 白雪公主
+  uuid: 8277f7ea-e3a8-4e35-8607-9a2797f0ab2e
+- author: 青钢影
+  character: null
+  content: 只要耐心等待，裂缝总会出现的。
+  created_at: 2022-08-04 19:36:15
+  source: 英雄联盟
+  uuid: a45961b8-785d-4fe4-8ebb-6237f84dce2e
+- author: null
+  character: null
+  content: 人性一个最特别的弱点就是：在意别人如何看待自己。
+  created_at: 2020-11-08 10:00:09
+  source: 亚瑟・叔本华
+  uuid: 96ad5c2f-ad9f-4f2b-a9c8-987af784442e
+- author: null
+  character: null
+  content: 我们是独立的个体，却不是孤独的存在。
+  created_at: 2020-03-04 11:00:26
+  source: 千里共良宵
+  uuid: 739cb56b-3e22-4dbe-b018-861acf248b2e
+- author: 司马相如
+  character: null
+  content: 一日不见兮，思之如狂。
+  created_at: 2020-04-07 02:49:13
+  source: 凤求凰 / 琴歌
+  uuid: 4c0984e1-1b5c-4bc6-926c-de4da020512e
+- author: 王OK
+  character: null
+  content: 长大之后的我们啊再穿梭着时空。
+  created_at: 2026-08-30 03:25:08
+  source: 我的纸飞机
+  uuid: bec1a24d-d712-4f79-a69d-eb9db0cd9c2e
+- author: null
+  character: null
+  content: Yeah, if you got good bum bum, let me hear you say Hallelujah.
+  created_at: 2026-08-29 22:32:26
+  source: Bum Bum Tam Tam
+  uuid: dfa11ef4-90bd-404b-94a9-d2f6e1a9f62e
+- author: 青钢影
+  character: null
+  content: 我们都有底线，而我也许已经越己的过了自。
+  created_at: 2022-08-04 19:39:30
+  source: 英雄联盟
+  uuid: 8d7cd312-f7c2-4e52-88a9-e61c0b59fe2e
+- author: null
+  character: null
+  content: 生活就像海洋，只有意志坚强的人，才能到达彼岸。
+  created_at: 2016-11-28 18:12:10
+  source: 马克思
+  uuid: 3f7e6bb7-2cc3-4afa-8274-8acc517e602e
+- author: 网友
+  character: null
+  content: 沙二的风吹不到小镇，炽热的心困在迷城。
+  created_at: 2026-04-07 22:14:24
+  source: cs2
+  uuid: de9f8d43-2d38-410e-afa5-5a4d0426702e
+- author: Big_Cake
+  character: null
+  content: 于风雨中，承载我们所有的回忆。
+  created_at: 2023-06-11 09:05:39
+  source: 晓雨杂记
+  uuid: 101659f6-d775-4051-8fed-1410b386fd2e
+- author: 鬼绿
+  character: null
+  content: 在这个只需要动动手指，不需要动脑，不需要黑白的世界里，死亡并不是解脱。
+  created_at: 2022-06-25 11:59:21
+  source: 原创
+  uuid: f76cfcde-ffe3-4e6f-97fa-3871932e8a2e
+- author: null
+  character: null
+  content: 路这么窄，好难过啊！
+  created_at: 2018-10-22 13:24:50
+  source: 原创
+  uuid: bc7e896b-7580-4e51-a610-f5835ac8772e
+- author: 苏
+  character: null
+  content: 即便是幻梦，只要梦者有心，那一缕连接虚实的丝线便不会轻易断去。
+  created_at: 2024-02-08 16:14:39
+  source: 崩坏3
+  uuid: 2db63eb4-5d41-4dda-b465-c72db3ee7f2e
+- author: null
+  character: null
+  content: 我受到了召唤，我必须回应，一如既往。
+  created_at: 2019-01-18 13:12:17
+  source: 守望先锋
+  uuid: 7f3fe72d-fc01-4904-adf5-0041a1175d2e
+updated_at: 2026-09-25 12:15:47.294650+00:00

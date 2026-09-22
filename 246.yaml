@@ -1,0 +1,333 @@
+chunk_id: 246
+sentences:
+- author: 望
+  character: null
+  content: 穷兵黩武，你们还是不曾有长进。
+  created_at: 2026-06-27 14:14:35
+  source: 明日方舟
+  uuid: 7f899fa4-6470-4fdd-a001-44d29ac294f6
+- author: 南枝
+  character: null
+  content: 人类充满了谎言，我又怎能独善其身
+  created_at: 2020-04-08 17:58:26
+  source: 流光印记
+  uuid: 5d259d21-d500-474e-afb9-fb8e818920f6
+- author: null
+  character: null
+  content: 看春花开又落,秋风吹着那夏月走,冬雪纷纷又是一年
+  created_at: 2017-12-31 15:53:41
+  source: 如花
+  uuid: 5779e723-90a2-4f40-a408-adbf8368d4f6
+- author: John Kell
+  character: null
+  content: Checked my phone, nothing from you.
+  created_at: 2026-08-30 01:48:41
+  source: HEAVENLY JUMPSTYLE
+  uuid: 3648522b-4f8a-4472-8840-8ec4892c76f6
+- author: null
+  character: null
+  content: All for one，one for all.
+  created_at: 2016-07-16 02:05:10
+  source: 海贼王
+  uuid: 1b17b850-0364-4954-9e7b-17eec0dc3af6
+- author: null
+  character: null
+  content: Yeah, hey, big up my jeweler, big up my .45, big up my Ruger.
+  created_at: 2026-08-30 03:53:14
+  source: Bum Bum Tam Tam
+  uuid: 63a25fa5-9c67-41c2-90a6-0faee7b9cdf6
+- author: 我会修空调
+  character: null
+  content: 人生就像一块画布，由自己来勾勒出美丽的画笔，充实自己的生命，相信自己的颜色最鲜艳。
+  created_at: 2023-09-07 23:24:33
+  source: 我的治愈系游戏
+  uuid: 7449171d-743b-4042-861e-dfd867954ef6
+- author: 卡森·麦卡勒斯
+  character: null
+  content: 他有属于他自己的孤独，所谓的心心相通， 都只是一场误会。
+  created_at: 2020-12-06 23:00:56
+  source: 心是孤独的猎手
+  uuid: a0a394fd-0191-4871-8177-830437be03f6
+- author: 莫伊拉
+  character: null
+  content: 科学会揭示真相。
+  created_at: 2026-04-13 16:16:19
+  source: 守望先锋
+  uuid: 652033b8-a335-4d73-8778-7cc1603d56f6
+- author: 楼玉明只是路过
+  character: null
+  content: 一瓣人间为春困。
+  created_at: 2026-08-07 15:37:51
+  source: 宿草经年
+  uuid: 94cea551-7d71-4df2-8716-5dbe274b24f6
+- author: 洛洃
+  character: null
+  content: 最懂我的只有编译器，它教会我，我理解它。
+  created_at: 2025-06-08 21:05:51
+  source: 无
+  uuid: d553cfaf-bb4a-4160-80d6-9b8e7c8f8df6
+- author: null
+  character: null
+  content: 在童话中，一个人做他想做的事；在现实中，一个人做他能做的事。
+  created_at: 2019-06-09 17:02:56
+  source: 埃莱娜·费兰特
+  uuid: 62c519aa-a82a-4bf5-ab87-ba5582b165f6
+- author: null
+  character: null
+  content: 你怎么这么奇奇怪怪怪。。怪可爱的
+  created_at: 2019-09-14 02:13:37
+  source: 还未找到女朋友的林同学
+  uuid: 6d9f282c-0c49-4af5-a79e-0051890281f6
+- author: 唐恬
+  character: null
+  content: 谁说站在光里的才算英雄。
+  created_at: 2022-01-05 16:26:53
+  source: 孤勇者
+  uuid: 784cbf24-03f2-4766-9fa1-2bde65c466f6
+- author: null
+  character: null
+  content: 只知蹂躏之术的他，不知不觉地被和煦的春风包围，降落到遥远的乐园，懂得人心。
+  created_at: 2026-04-22 22:31:44
+  source: 星之卡比：新星同盟
+  uuid: 4031f0c8-ca1f-4ee8-8d05-0a9d693d14f6
+- author: null
+  character: null
+  content: ' 全是理智的心，恰如一柄全是锋刃的刀。它叫使用它的人手上流血。'
+  created_at: 2019-09-24 20:33:33
+  source: 飞鸟集
+  uuid: a6ddcdc4-d642-47b5-87d2-9cccf1519cf6
+- author: null
+  character: null
+  content: 天上的风一定很大，把满团的月光吹散了，化为萤火，洒满了蓝紫的夜。
+  created_at: 2021-04-11 11:36:16
+  source: 《星月夜》
+  uuid: ecd7eb82-2ef5-4f23-8e24-ee58a5715ef6
+- author: null
+  character: null
+  content: 物质与意识的辩证关系：物质决定意识，意识反作用于物质。
+  created_at: 2020-12-13 11:19:41
+  source: 唯物主义哲学
+  uuid: 8394d83d-af0c-4757-8f6a-807dab8bdaf6
+- author: null
+  character: null
+  content: 那么，开始实验吧！
+  created_at: 2019-08-27 20:35:40
+  source: 假面骑士Build
+  uuid: aa2fae5b-3126-46e6-a390-f9260a0c61f6
+- author: 佚名
+  character: null
+  content: Discover, Create and Use.
+  created_at: 2021-08-28 17:16:57
+  source: 网络
+  uuid: 22eb31a7-4dfb-41db-8186-b570ed1b42f6
+- author: 阿尔卡彭
+  character: null
+  content: 用好话和一只枪，你能比单独用好话得到更多。
+  created_at: 2026-05-30 03:12:50
+  source: 阿尔·卡彭名言
+  uuid: e74521c8-eb4e-4755-9b3f-556ca94809f6
+- author: null
+  character: null
+  content: 大气的人不会因为这点小事来和你生气。
+  created_at: 2020-04-01 00:43:15
+  source: 绮梦
+  uuid: ecfaaba3-f5ea-4155-a611-1a90b2ce49f6
+- author: 温迪
+  character: null
+  content: 若你困与无风之地，我将奏响高天之歌。
+  created_at: 2022-04-20 20:21:07
+  source: 原神
+  uuid: 9a29bab4-cdbd-4228-be02-93d6525a7cf6
+- author: 王川
+  character: null
+  content: 我愿用我余生换你岁月如歌，奈何阳错阴差，也许同归无路，究竟殊途……
+  created_at: 2022-01-19 00:53:12
+  source: 魁拔
+  uuid: 7d4f26be-9449-4819-acb3-7df95ac198f6
+- author: 郁可唯
+  character: null
+  content: 讲好了这一辈子，再度重相逢。
+  created_at: 2026-08-07 16:38:51
+  source: 再度重相逢
+  uuid: 4e2373ff-5553-47bc-9424-9264ca5712f6
+- author: 陶渊明
+  character: null
+  content: 云无心以出岫，鸟倦飞而知还。
+  created_at: 2021-05-03 21:15:58
+  source: 归去来兮辞
+  uuid: 573fd817-7097-45ec-b273-931f53b3a1f6
+- author: null
+  character: null
+  content: 既不回头，何必不忘；既然无缘，何须誓言；今日种种，似水无痕；明夕何夕，君已陌路。
+  created_at: 2016-07-16 02:05:09
+  source: 仙剑奇侠传
+  uuid: 4e3fdb14-fedb-46de-99a4-68ed0de48ff6
+- author: 一只绝望的蛐厨
+  character: null
+  content: 突然想到默写是默默的抄写，那萌发是不是萌萌的出发？
+  created_at: 2026-04-30 13:15:51
+  source: 网易云音乐
+  uuid: 398bf35f-6aa8-46b5-b55a-b196080e7df6
+- author: 苏轼
+  character: null
+  content: 山川同一色，浩若涉大荒。
+  created_at: 2020-11-23 13:12:09
+  source: 牛口见月
+  uuid: 95bad63d-b49d-4325-98dd-7b26babd93f6
+- author: null
+  character: null
+  content: 不患无位，患所以立。不患莫己知，求为可知也。
+  created_at: 2020-04-09 10:08:43
+  source: 论语·里仁篇
+  uuid: b9d3ca24-55d8-457b-8e37-68b35067bbf6
+- author: 宋祁
+  character: null
+  content: 绿杨烟外晓寒轻，红杏枝头春意闹。
+  created_at: 2020-04-07 22:58:54
+  source: 玉楼春·春景
+  uuid: 642db1fc-4dc8-4303-b762-563d5a061cf6
+- author: 刘培强
+  character: null
+  content: 远离亲人，我很遗憾，但这是我不得不做的事情。
+  created_at: 2023-02-02 16:59:55
+  source: 流浪地球2
+  uuid: 1d23bcb8-53b9-4a5b-b902-32960aef9cf6
+- author: null
+  character: null
+  content: 高调做事，低调做人。
+  created_at: 2020-02-04 12:58:13
+  source: 某电视剧
+  uuid: b77b6dec-d3eb-4ebd-9b6c-2109fcdd37f6
+- author: John Kell
+  character: null
+  content: Don't let go, let go.
+  created_at: 2026-08-29 22:26:31
+  source: HEAVENLY JUMPSTYLE
+  uuid: 9520cb7d-73e5-44b3-bbfc-c753b6e0d8f6
+- author: 利昂库尔公爵
+  character: null
+  content: 陛下，这不是叛乱，这是革命。
+  created_at: 2023-08-21 16:25:15
+  source: 法国大革命
+  uuid: 14bf6e9f-2f18-4a0f-bd69-480b88f39af6
+- author: Pink Floyd
+  character: null
+  content: I'll see you on the dark side of the moon.
+  created_at: 2024-09-16 15:28:48
+  source: Brain Damage
+  uuid: 1643022a-b3c3-4f4b-8edd-9c0fc5b770f6
+- author: null
+  character: null
+  content: 逝者如斯，不舍昼夜。
+  created_at: 2019-10-09 15:31:58
+  source: 其他
+  uuid: 75e46287-a49b-4a71-b60a-1524ff6296f6
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 01:11:21
+  source: METAMORPHOSIS
+  uuid: 7fc382b5-dacc-477c-b40e-3357db786bf6
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 01:11:03
+  source: METAMORPHOSIS
+  uuid: c49da65d-a14b-45d9-8e83-6b2451c3b9f6
+- author: 二水/自游诗
+  character: null
+  content: 星星在枝头，云朵替我在挽留。
+  created_at: 2026-06-25 20:26:26
+  source: 难解
+  uuid: a2a1438f-80f3-41b9-a59a-a8fd88299df6
+- author: null
+  character: null
+  content: 有生之年遇到你，竟花光我所有的运气。
+  created_at: 2019-01-04 20:50:51
+  source: 林夕
+  uuid: 36b6e175-8da2-42f6-96cf-1b9c1dc98ef6
+- author: 凡ICE
+  character: null
+  content: 勇气就是明知会受伤，却还要这样做，愚蠢也是如此。
+  created_at: 2020-04-28 16:52:14
+  source: 原创
+  uuid: cd6879b1-3338-40c0-a583-61eb9eff9ff6
+- author: null
+  character: null
+  content: 每个人都衣冠楚楚，从来没有人会关心光芒万丈的外表下那藏在角落的，发了霉的落寞。
+  created_at: 2017-07-28 10:32:15
+  source: 西风
+  uuid: 9591a902-5024-4873-9e6c-3cb4972736f6
+- author: null
+  character: null
+  content: 我特别讨厌悲观的人，做任何事情只要出了点挫折就放弃。那是你，别自以为是把我搞得和你一样！
+  created_at: 2017-05-16 23:55:03
+  source: 原创
+  uuid: f6abe7a2-503a-4838-9f6d-f5b10c51aff6
+- author: 朝仓美羽
+  character: null
+  content: 明明是拼命前进的道路，但是当你察觉到自己所在的地方和以前并没有丝毫改变，仍旧回到了原来的地方的时候，我们除了对着苍白的天空悲怆恸哭以外，还能够做什么呢？
+  created_at: 2021-05-01 19:51:56
+  source: 文学少女
+  uuid: 025853b7-bac7-4eb7-ae1a-dcbb1d0083f6
+- author: 卢思浩
+  character: null
+  content: 我们每个人都是往事的幸存者，最终学会的，都是如何和自己相处。
+  created_at: 2021-07-22 15:51:30
+  source: 《时间的答案》
+  uuid: 02dc209f-2c12-4e69-b2a6-aa3af9ec89f6
+- author: null
+  character: null
+  content: 我深怕自己本非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。
+  created_at: 2020-12-06 20:21:58
+  source: 山月记
+  uuid: 9ffa2f96-db18-4995-a4a3-dd9b28fb6af6
+- author: null
+  character: null
+  content: 有一种东西不能遵循从众原则，那就是人的良心。
+  created_at: 2018-08-26 10:25:45
+  source: 杀死一只知更鸟
+  uuid: 7cd369b1-ab89-4783-92e5-eb635b096ef6
+- author: 赤刃明霄陈
+  character: null
+  content: 拔刀之招，当破即破。
+  created_at: 2026-06-27 14:22:18
+  source: 明日方舟
+  uuid: 5a719d5d-46a0-409f-aeef-695c1fcc6af6
+- author: null
+  character: null
+  content: 万物皆虚，万物皆允。
+  created_at: 2020-03-31 10:13:06
+  source: 刺客信条
+  uuid: 83ac11ef-1cab-4ae4-a869-065647e64ef6
+- author: 瑶瑶
+  character: null
+  content: 如果有一个喜欢你的人出现，一定不要凶她哦！
+  created_at: 2020-04-22 17:12:54
+  source: 次元战争·红龙
+  uuid: f03a1c18-e1d1-43fd-b826-915c03b78cf6
+- author: 绀野木棉季
+  character: null
+  content: 有些事不靠"打"是无法传达的。
+  created_at: 2023-07-07 11:04:10
+  source: 刀剑神域
+  uuid: 261ef91b-900b-421c-a733-a0c0216593f6
+- author: 夏目
+  character: null
+  content: 我想成为一个温柔的人，因为曾被温柔的人那样对待，深深了解那种被温柔相待的感觉。
+  created_at: 2016-12-07 12:55:47
+  source: 夏目友人帐
+  uuid: a96982a1-087d-45cd-a77f-0bffc9b737f6
+- author: null
+  character: null
+  content: 刻意保持距离的人是你，虚拟世界里的区区两公尺，对你来说就真的如此遥不可及?
+  created_at: 2016-11-10 22:19:40
+  source: 加速世界
+  uuid: 6f480b8d-5d5c-4071-a78e-2dd9738776f6
+- author: null
+  character: null
+  content: 男人的爱情是另存为，女人的爱情是覆盖。
+  created_at: 2016-11-10 22:19:40
+  source: 红
+  uuid: a839eb7c-8859-4aa7-84ca-133a29c8a9f6
+updated_at: 2026-09-25 11:58:44.904926+00:00

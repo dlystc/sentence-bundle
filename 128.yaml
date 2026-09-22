@@ -1,0 +1,279 @@
+chunk_id: 128
+sentences:
+- author: 村上春树
+  character: null
+  content: 死并非生的对立面，而作为生的一部分永存。
+  created_at: 2023-05-31 17:06:25
+  source: 挪威的森林
+  uuid: 3a61a3bf-7cae-4fae-b1d7-f0de108f2180
+- author: 三九音域
+  character: null
+  content: 这一刀会很帅！小子，看好了！
+  created_at: 2025-05-10 08:18:11
+  source: 我在精神病院学斩神
+  uuid: 2e2af75d-1bf2-43d0-befa-b204e22ae580
+- author: 李信
+  character: null
+  content: 还未行至绝路，便要言弃吗？
+  created_at: 2026-05-30 03:29:39
+  source: 王者荣耀
+  uuid: 18c40270-b03c-4f81-bda8-5b140985cf80
+- author: null
+  character: null
+  content: 夏天重要的事不过一二：能够静静吹风，可以好好吃饭。
+  created_at: 2019-08-24 23:09:41
+  source: 日食记
+  uuid: a010d186-bb81-491d-a2a6-d4679c533e80
+- author: null
+  character: null
+  content: 就算是阴雨天，晾在阳台上的衣服，也会有干的时候。
+  created_at: 2022-12-23 11:33:55
+  source: 是老胡没错
+  uuid: 1cc9ea59-bcd7-4092-8c17-d77d7a830580
+- author: hasty
+  character: null
+  content: 我怎么能倒下，我身后空无一人。
+  created_at: 2020-08-29 17:09:21
+  source: 原创
+  uuid: f886c07d-e042-448b-bd95-a2a2e91f3780
+- author: 佚名
+  character: null
+  content: 有实力的人不会相信奇迹，因为他们会创造奇迹。
+  created_at: 2023-05-31 20:53:27
+  source: 网络
+  uuid: 999d80c1-e9b9-4b8f-9db2-df8ca79faf80
+- author: 瞎哔哔的py
+  character: null
+  content: Time flies, but love never fades.
+  created_at: 2024-05-18 02:06:38
+  source: 瞎哔哔的py
+  uuid: 8785b0ee-8ae4-4bf0-bd69-8bda43c43680
+- author: 秦观
+  character: null
+  content: 夜月一帘幽梦，春风十里柔情。
+  created_at: 2020-04-07 21:27:37
+  source: 八六子·倚危亭
+  uuid: 3cd5bf34-449a-48e4-bc13-572c875dd380
+- author: null
+  character: null
+  content: 没有从天而降的神明，只有挺身而出的凡人。
+  created_at: 2022-11-11 18:39:53
+  source: 战双帕弥什
+  uuid: e75ace2b-e85d-4abf-9825-c918857d2e80
+- author: null
+  character: null
+  content: 为何拼杀，为何赴死。
+  created_at: 2026-08-16 10:03:12
+  source: KARDS
+  uuid: ce4559e3-c8d3-4f90-baad-bf2e27a99380
+- author: Vincent James Minyon
+  character: null
+  content: Get you off my mind.
+  created_at: 2026-08-30 10:07:41
+  source: Amnesia
+  uuid: e53167a5-da0d-4990-b2f3-eac5c3ef0380
+- author: null
+  character: null
+  content: 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
+  created_at: 2016-07-16 02:05:32
+  source: AIR
+  uuid: c3e5fa24-1b33-4532-8ac0-2bcba75e2080
+- author: 凌小汐
+  character: null
+  content: 永远相信美好的事情即将发生
+  created_at: 2020-10-02 16:27:07
+  source: 永远相信美好的事情即将发生
+  uuid: d053a5dc-67b4-4233-9045-ff14b3da7380
+- author: null
+  character: null
+  content: 你要做一个不动声色的大人了，不准情绪化，不准偷偷想念，不准回头看，去过自己另外的生活，你要听话，不是所有的鱼都生活在同一片海里
+  created_at: 2017-07-04 23:23:49
+  source: 舞舞舞
+  uuid: 22763b72-ee49-46f9-8416-42491ef9e480
+- author: 30年前，50年后/烧灯续昼
+  character: null
+  content: 你与我，先谈养心殿，后拜瀑淋身。
+  created_at: 2026-07-29 22:15:50
+  source: 精卫 (旧梦散入尘埃版)
+  uuid: d4e7cd87-968b-4a35-820e-f7f99cc73780
+- author: John Kell
+  character: null
+  content: Every old love song sounds like us.
+  created_at: 2026-08-30 11:49:03
+  source: HEAVENLY JUMPSTYLE
+  uuid: 3110b31f-58ce-45ca-ad5e-3a79b0671e80
+- author: 张信哲
+  character: null
+  content: 每个人都有一段悲伤，想隐藏却欲盖弥彰。
+  created_at: 2022-05-07 16:45:38
+  source: 白月光
+  uuid: 0b6f4bbc-40db-49ec-847b-c6d8ead63d80
+- author: 毛泽东
+  character: null
+  content: 今日欢呼孙大圣，只缘妖雾又重来。
+  created_at: 2020-11-26 23:37:16
+  source: 七律·和郭沫若同志
+  uuid: e63b7906-ef02-41f6-9260-0863e6d6ba80
+- author: null
+  character: null
+  content: 我只是你生活里的一个影子，你却在我的生命里占有重要地位。如果我只是个单纯的过客，为何要让我闯入你的生活？我千百次想过要离开你，但仅凭一己之力我做不到。
+  created_at: 2019-09-24 16:03:21
+  source: 偷影子的人
+  uuid: bfd4b2ba-9479-4bb8-bc30-58f5b412e680
+- author: null
+  character: null
+  content: 让我成为你的双眼，把那世界万千，描绘在你面前。
+  created_at: 2018-10-21 16:19:49
+  source: 狐妖小红娘
+  uuid: 5f422196-9585-47ec-b5e9-517c36d6c880
+- author: 佚名
+  character: null
+  content: 我一个人来到一个陌生的大世界，像只被冻住的鱼，连泡泡也不敢多吐一个。
+  created_at: 2024-03-29 17:21:54
+  source: 网络
+  uuid: e484a1ce-3e6a-4c88-ad1e-aae1ce82e680
+- author: 海德格尔
+  character: null
+  content: 时间是存在者的时间。
+  created_at: 2021-05-14 19:36:30
+  source: 存在与时间
+  uuid: 550590e3-8595-452f-907b-db87f6e10780
+- author: 唐寅
+  character: null
+  content: 我也不登天子船，我也不上长安眠。
+  created_at: 2020-04-09 09:22:57
+  source: 把酒对月歌
+  uuid: 2a9a7757-aa6d-436d-a948-29901ae5a180
+- author: 刘勰
+  character: null
+  content: 昭昭若日月之明，离离如星辰之行。
+  created_at: 2020-04-08 16:11:34
+  source: 文心雕龙·宗经
+  uuid: c740188b-4b6a-4a78-b0e7-5db72b481280
+- author: null
+  character: null
+  content: 长大之后的我们啊再穿梭着时空。
+  created_at: 2026-08-30 08:25:05
+  source: 我的纸飞机
+  uuid: b04261a0-4a2f-4ee8-b0d9-78007cf1f880
+- author: null
+  character: null
+  content: 天命碧城灰土，刀弓褐锈。
+  created_at: 2026-08-29 23:43:11
+  source: 吹梦到西洲
+  uuid: c7a7696e-6ba4-4130-8acd-b69e8a385e80
+- author: 五月天
+  character: null
+  content: 生如浮萍般卑微，爱却苍穹般壮烈！
+  created_at: 2026-07-30 00:57:06
+  source: 步步
+  uuid: 52e62228-ac5e-4de4-87fc-e01799028f80
+- author: 张雨生
+  character: null
+  content: 于是悲欢起落人静默，等一等这些伤会自由。
+  created_at: 2020-06-24 15:04:07
+  source: 口是心非
+  uuid: 0d571fa5-5933-40db-a628-3113b44d9d80
+- author: 黄贯中
+  character: null
+  content: 你可以怪我甚至可以骗我，不过你绝不可以把我当初哥。
+  created_at: 2020-06-24 15:03:14
+  source: 初哥
+  uuid: 3da378b2-e0dd-465d-93a6-1c41bfc27980
+- author: 廖伟志
+  character: null
+  content: 热烈相拥过，又不再交错。
+  created_at: 2026-08-07 16:18:04
+  source: 你有没有真的爱过我
+  uuid: ac239495-6467-46d8-8faa-f578fc154580
+- author: 小宋不会装纯情
+  character: null
+  content: 哪有什么反派，只不过是一群悲惨童年的孩子罢了。
+  created_at: 2026-04-08 16:43:29
+  source: 哔哩哔哩
+  uuid: 1ab2f6a8-68dc-40a5-8927-077baca46880
+- author: lrs2187
+  character: null
+  content: 人生如戏，万事皆空；昔日不在，神话已逝。
+  created_at: 2025-07-07 23:09:05
+  source: 网络
+  uuid: 53da2d36-bc65-4fca-94ab-4f8b58042580
+- author: Zirconium
+  character: null
+  content: 给时代以图论，给人生以动规。给当下以分治，给未来以递推。
+  created_at: 2023-07-27 15:25:46
+  source: 原创
+  uuid: 9f05e52c-4eb9-4919-9f2c-62c6b2aada80
+- author: 林清凝
+  character: null
+  content: 纵深于黑夜之中化作黎明！
+  created_at: 2022-02-21 23:43:30
+  source: 林清凝
+  uuid: 18efbc86-ebae-4bb4-aedd-57007bbec780
+- author: null
+  character: null
+  content: 你很好，我也很喜欢，但我不是追着别人跑的年纪了。
+  created_at: 2018-07-04 16:09:29
+  source: 相信你愿意相信的就好了
+  uuid: 05fae027-f323-4662-9b2b-448f6bed3280
+- author: null
+  character: null
+  content: 是我不该如此，抱歉，怪我太矫情。
+  created_at: 2018-06-26 20:04:27
+  source: 原创
+  uuid: ce41944d-4d4e-4bba-a39a-575d22c2cd80
+- author: null
+  character: null
+  content: 神曲的存在并不是为了享受音乐，而是品味那段最珍贵的回忆。
+  created_at: 2016-07-20 01:29:16
+  source: D君
+  uuid: 17eb22be-0151-4141-8772-26c25e9a9c80
+- author: 迷羔羊
+  character: null
+  content: 我跳进深渊，也不曾听到他的姓名。或许他并不是我想象中的魔鬼，但我坚信他也一定不是什么天使。
+  created_at: 2020-06-27 15:31:20
+  source: 罪犯请沉默
+  uuid: a6120d3c-6357-4ae8-8429-ea436da79380
+- author: null
+  character: null
+  content: 即使被关在果壳之中，我仍自以为是无限宇宙之王。
+  created_at: 2018-12-09 00:43:24
+  source: 哈姆雷特
+  uuid: 78244a02-1165-4472-a38b-8945858a0780
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 03:11:38
+  source: Metamorphosis
+  uuid: b6080803-09a9-4c04-ac62-e3eeeb93c480
+- author: 凯尔希
+  character: null
+  content: 如果你想做正确的事，首先你要知道什么是正确的。其次，你要知道，并不是做正确的事情就不需要付出代价。
+  created_at: 2024-05-26 11:35:58
+  source: 明日方舟
+  uuid: 35642e34-e78f-41e4-9a80-7af6b21e5e80
+- author: 狂铁
+  character: null
+  content: 迄今所有人生都大写着失败，但并不妨碍我继续向前。
+  created_at: 2021-05-09 07:16:34
+  source: 王者荣耀
+  uuid: 47cfae22-b157-4724-9cf3-1427be0be280
+- author: 莲华
+  character: null
+  content: 经历这种痛苦的人，我一个就够了！但为什么你就是不明白呢？！
+  created_at: 2021-02-04 16:53:50
+  source: 美少女万华镜·理与迷宫的少女
+  uuid: 27a88dd7-e35a-40fb-8863-50f9b9256a80
+- author: 佩恩
+  character: null
+  content: 当你们试图去寻找死的意义……能找到的……只有痛苦…和不知道归向何方的憎恨……
+  created_at: 2020-06-19 09:02:41
+  source: 火影忍者
+  uuid: d4db0a71-8472-4c3d-860d-ee5ec59e9580
+- author: null
+  character: null
+  content: 即使我弱了，也并不代表你强了
+  created_at: 2019-04-30 20:41:06
+  source: 魔法禁书目录 第二季
+  uuid: 1ca1ea97-79e2-4fff-b4a0-63d269460380
+updated_at: 2026-09-25 11:58:44.640822+00:00

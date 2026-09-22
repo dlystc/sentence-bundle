@@ -1,0 +1,273 @@
+chunk_id: 101
+sentences:
+- author: 木心
+  character: null
+  content: 所谓无底深渊，下去，也是前程万里。
+  created_at: 2020-12-20 09:58:27
+  source: 素履之往
+  uuid: 499af7a7-0e04-4151-aaad-bf25f47a3865
+- author: priest
+  character: null
+  content: 我大将军一言九鼎，战无不胜。
+  created_at: 2024-04-14 17:13:19
+  source: 杀破狼
+  uuid: 576366c8-4e53-4f51-ba7f-4bf38f755965
+- author: 应晓璃
+  character: null
+  content: 还没来得及习惯独自入睡的不安。
+  created_at: 2026-08-08 16:07:01
+  source: 甲乙丙丁 (你我怎么两清)
+  uuid: db1e34a5-6d3a-419d-a886-34eca397ba65
+- author: 王小波
+  character: null
+  content: 一个人只拥有此生此世是不够的，他还应该拥有诗意的世界。
+  created_at: 2021-10-13 23:04:02
+  source: 红拂夜奔
+  uuid: 4f64b7ff-8c5f-4c34-9269-7378f816b465
+- author: 刘华强
+  character: null
+  content: 不气盛能叫年轻人吗？
+  created_at: 2022-11-03 19:24:05
+  source: 征服
+  uuid: 3cf40f7f-cbae-4cd6-ad9f-c9beaa1ede65
+- author: 以沫
+  character: null
+  content: 每次对一个人很好，最后换来的不过是自己身价的卑微。
+  created_at: 2021-01-29 13:05:51
+  source: 随想
+  uuid: 7b0fd33f-0564-40c5-b0b4-a8c070220165
+- author: null
+  character: null
+  content: 胸中有丘壑，立马镇山河。
+  created_at: 2020-02-14 15:26:37
+  source: 热血
+  uuid: febebf41-6b08-4d81-ad73-23dd9b4f6365
+- author: 廖伟志
+  character: null
+  content: 回忆上了锁，我望月独酌，还不死心承受着折磨。
+  created_at: 2026-08-07 16:31:05
+  source: 你有没有真的爱过我
+  uuid: 7eafe6ba-80fa-40b5-a5d9-10427635d465
+- author: 泰达米尔
+  character: null
+  content: 我是你最可怕的噩梦。
+  created_at: 2024-07-18 09:28:44
+  source: 英雄联盟
+  uuid: d4882b1f-3bfd-4643-8948-de090d5caf65
+- author: null
+  character: null
+  content: 天之苍苍，其正色邪？其远而无所至极邪？
+  created_at: 2016-11-18 18:37:32
+  source: 逍遥游
+  uuid: 52c45a2c-ca5b-4c27-b202-a110ad14fc65
+- author: null
+  character: null
+  content: 不过一介凡人，何必与世纷争。
+  created_at: 2019-05-14 20:49:18
+  source: 原创
+  uuid: 9aba379d-4c4b-4805-b7e6-9ce899778065
+- author: 史铁生
+  character: null
+  content: 还可以想象一对热恋中的情人，互相一次次说“我一刻也不想离开你”，又互相一次次说“时间已经不早了”，时间不早了可我一刻也不想离开你，一刻也不想离开你可时间毕竟是不早了。
+  created_at: 2020-06-14 16:57:20
+  source: 我与地坛
+  uuid: de9ae67c-2c2c-45c3-9eef-61c4f866f365
+- author: 30年前，50年后/烧灯续昼
+  character: null
+  content: 我明白，我心中的海，填满不回来。
+  created_at: 2026-07-29 22:15:31
+  source: 精卫(旧梦散入尘埃版)
+  uuid: f28187b3-0d29-4c33-8adc-3489ee207065
+- author: null
+  character: null
+  content: 创作一部动画也就是创造一个虚拟的世界，这个世界慰藉着那些暂时失去勇气的、与残忍现实搏斗的灵魂。
+  created_at: 2019-05-02 15:09:06
+  source: 宫崎骏
+  uuid: 5d4b5c19-e3c8-4558-bd3f-24e134361c65
+- author: null
+  character: null
+  content: 如果你一个人把什么都做完了，那我做什么？
+  created_at: 2016-12-18 15:49:20
+  source: 元气少女缘结神
+  uuid: 2333d345-eb38-42fa-9352-78d5857fb265
+- author: 秦志钰
+  character: null
+  content: 亲爱的人啊携手前进，我们的生活充满阳光。
+  created_at: 2026-06-24 12:34:27
+  source: 我们的生活充满阳光
+  uuid: 5aac2778-f2f1-4cf9-be8f-0ae80fbf7865
+- author: 泰戈尔
+  character: null
+  content: 飞鸟不留痕，但我已飞过。
+  created_at: 2022-04-16 17:03:25
+  source: 泰戈尔诗集
+  uuid: 03a33e84-9fad-434c-9668-39f264d8f465
+- author: null
+  character: null
+  content: 原谅他是上帝的事情。我的事情就是送他去见上帝
+  created_at: 2018-11-27 11:29:10
+  source: 爱情公寓
+  uuid: 2491e1a8-54f0-453b-af23-d97d6e09ec65
+- author: 耳根
+  character: null
+  content: 被风吹奏的，总是那飘忽的哀愁；只有那无心人的寂寞，是风，怎么也吹不散的烟火。
+  created_at: 2021-07-03 17:42:07
+  source: 求魔
+  uuid: 053e7a40-7b30-418c-ab83-0ac66036b565
+- author: null
+  character: null
+  content: 经典之所以称之为经典，因为它能经得起时间的考验。
+  created_at: 2020-05-14 19:22:20
+  source: 哔哩哔哩
+  uuid: 4f3f0bd8-822a-4d4a-ac4f-bcdb89a71b65
+- author: 艾跃进教授
+  character: null
+  content: 尊严，只在剑锋之上；真理，只在大炮射程之内！
+  created_at: 2021-05-21 17:14:50
+  source: 艾跃进教授
+  uuid: 33737262-9766-4f0d-8101-2cf28a2ce465
+- author: null
+  character: null
+  content: 只要有想见面的人，自己就不再是孤单一人。
+  created_at: 2016-07-16 02:05:09
+  source: 夏目友人帐
+  uuid: 2056fc13-c2e4-471e-afbe-63e009179f65
+- author: null
+  character: null
+  content: 我所有的自负皆来自我的自卑，所有的英雄气概都来自于我的软弱。嘴里振振有词是因为心里满是怀疑，深情是因为痛恨自己无情。这世界没有一件事情是虚空而生的，站在光里，背后就会有阴影，这深夜里一片寂静，是因为你还没有听见声音。
+  created_at: 2020-12-06 23:02:39
+  source: 网络
+  uuid: c98ba94f-324d-4819-88f7-7233ac1c5e65
+- author: null
+  character: null
+  content: 每个凉宫都会遇到属于她的John Smith。
+  created_at: 2016-07-20 01:29:21
+  source: gmouse
+  uuid: 0466f217-54b7-467f-b34c-7ef4bbd72265
+- author: 宵宫
+  character: null
+  content: 正是因为有大家的寄托，烟花才能以如此美妙的姿态一直存在下去吧。
+  created_at: 2021-12-12 08:15:05
+  source: 原神
+  uuid: 9fb2c3cc-be93-4f5b-ad40-ef5ac68b9c65
+- author: null
+  character: null
+  content: 喝他喝过的酒，受他受过的伤。
+  created_at: 2018-09-20 20:22:36
+  source: 魔道祖师
+  uuid: 9719f5ee-d00b-4b4c-99a0-4ff5923c3265
+- author: null
+  character: null
+  content: 吟唱幸福的歌谣，令少女沉醉向往。童话堕入黑夜，是谎言还是幻梦，无声终结
+  created_at: 2016-12-07 12:55:47
+  source: 穿越西元3000后
+  uuid: eaf5f102-7957-4f6b-a037-20bdd36fe365
+- author: 弗里德里希·威廉·尼采
+  character: null
+  content: 当你凝望深渊时，深渊也在凝望着你。与魔鬼战斗的人，谨防自身变成魔鬼。
+  created_at: 2021-04-11 17:19:17
+  source: 《善恶的彼岸》
+  uuid: 7eb802f7-b5fd-45fe-85bb-ea90e6cb0465
+- author: 网络
+  character: null
+  content: 霍金，3月14日逝世，享年76岁；爱因斯坦，3月14日出生，享年76岁；哈雷彗星的回归周期，76年；3月14日，圆周率日；3月14日，马克思逝世。仰望星空的人，最终归于星空。
+  created_at: 2024-08-02 15:20:57
+  source: 网易云音乐
+  uuid: e339a30f-f722-4862-bb16-b025fa287a65
+- author: Drew Green
+  character: null
+  content: Get some mud on your hands。
+  created_at: 2026-08-29 22:37:09
+  source: Get Up and Get It
+  uuid: bc108561-10bc-48c7-94da-85c78ffd6e65
+- author: 蓝乐
+  character: null
+  content: 奈何悠悠几度秋，这爱恨难入喉。
+  created_at: 2026-06-21 20:31:30
+  source: 几度秋
+  uuid: 80585294-886b-468a-ab49-56f795beb065
+- author: null
+  character: null
+  content: 你的名字无人知晓，你的功绩永世长存。
+  created_at: 2022-01-25 10:18:32
+  source: 莫斯科烈士纪念碑
+  uuid: 7a9752c6-b1c1-41a3-963d-4360c2c9b065
+- author: null
+  character: null
+  content: I'll be forced to trash 'em, may the best man win this.
+  created_at: 2026-08-30 06:30:55
+  source: METAMORPHOSIS
+  uuid: 5206d857-5b94-4fbc-8587-e886db716865
+- author: 郑明河
+  character: null
+  content: 旧情黯淡痴心愁，执念且放手。
+  created_at: 2026-06-21 20:46:45
+  source: 戏愁
+  uuid: ce332aca-8295-4221-b9f6-eba8fb655b65
+- author: paper
+  character: null
+  content: 扬帆，启航，勇往直前！
+  created_at: 2025-07-19 11:58:30
+  source: paper
+  uuid: 70718266-8583-4236-b860-611a629e1a65
+- author: 空中骑士的背影
+  character: null
+  content: 三年懵懂，三年凌辱，又三年孤独迷惘。空留纸上，寥落诗句数行。
+  created_at: 2020-08-22 20:15:42
+  source: 原创
+  uuid: 538aedba-184e-478c-943e-dcdc0b20b465
+- author: null
+  character: null
+  content: 一个悲伤的故事，第二支冰激凌半价
+  created_at: 2018-03-24 12:33:20
+  source: GGB
+  uuid: 3da55b8c-f213-4954-b216-3670a2a16065
+- author: 陈洁仪
+  character: null
+  content: 若是遇见从前的我，请带他回来。
+  created_at: 2022-12-06 07:33:39
+  source: 从前的我
+  uuid: 8d1b5180-5f5d-459b-958d-c8d949184d65
+- author: 所罗门
+  character: null
+  content: 已有之事后必再有，已行之事后必再行。
+  created_at: 2020-06-23 15:20:27
+  source: 圣经·传道书
+  uuid: 83998978-28a5-4982-91fd-8671fd1e1865
+- author: null
+  character: null
+  content: 天不生我李淳罡，剑道万古如长夜。
+  created_at: 2019-07-13 09:47:35
+  source: 雪中悍刀行
+  uuid: dde19fff-8e41-4969-94a7-bed0663d5a65
+- author: null
+  character: null
+  content: 不能哭！唱歌吧！继续唱下去吧！不是为了赞美神，是为了向神挑战而唱！
+  created_at: 2016-07-20 01:26:39
+  source: 文学少女
+  uuid: 111d811f-bc88-41a0-96db-931dcb14ee65
+- author: 紬·文德斯
+  character: null
+  content: 我正在，寻找着我自己……请问，您知道些什么吗？
+  created_at: 2021-08-10 08:57:40
+  source: Summer Pockets
+  uuid: 90de8723-534f-4554-b590-25e2302a7b65
+- author: 瓶子
+  character: null
+  content: 人和人之间就像这风筝一样，拉的太紧就飞不远，放的太松又掉下来，而当它飞的很高很高你还拽着不放，它就有可能会断掉，再也回不来了。
+  created_at: 2020-04-22 14:28:48
+  source: 灵契
+  uuid: 000f5beb-1cb9-4637-b740-86b990ec0465
+- author: null
+  character: null
+  content: 清算，终将到来。
+  created_at: 2018-06-13 13:23:50
+  source: Stellaris
+  uuid: 1f5d20aa-9725-43b0-be2f-848edbe45e65
+- author: null
+  character: null
+  content: 物转星移，花开花落，周而复始，生生不息，但今昔已非昨日，然今日花容依旧。
+  created_at: 2016-12-07 12:55:47
+  source: 虫师
+  uuid: 55b31eed-ece1-496a-966b-113cdeb6a165
+updated_at: 2026-09-25 11:58:45.835155+00:00

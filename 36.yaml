@@ -1,0 +1,363 @@
+chunk_id: 36
+sentences:
+- author: 郁可唯
+  character: null
+  content: 你说人生如梦，我说人生如秀。
+  created_at: 2026-08-07 16:38:38
+  source: 再度重相逢
+  uuid: d5518e45-5030-4275-83bb-a8c36c6dc324
+- author: null
+  character: null
+  content: 梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。
+  created_at: 2016-07-16 02:09:13
+  source: EVA
+  uuid: 9b32b99b-cfd3-46a7-8d93-777a999e9d24
+- author: null
+  character: null
+  content: 乔巴，一个男人，有时候是不能逃避战斗的，尤其是当伙伴的梦想被人嘲笑的时候。
+  created_at: 2016-07-16 02:05:10
+  source: 海贼王
+  uuid: e4fec659-6092-4395-8dcb-2885bf20a524
+- author: 晏殊
+  character: null
+  content: 天涯地角有穷时，只有相思无尽处。
+  created_at: 2020-04-07 21:27:41
+  source: 玉楼春·春恨
+  uuid: 31dec965-20b0-492b-820d-b05ec0e40524
+- author: null
+  character: null
+  content: 我敬你是条汉子！
+  created_at: 2016-07-20 01:33:21
+  source: 论如何回答女友问题“你为什么对我这么好”
+  uuid: 994ed2d8-06c6-4bf9-8f2b-b80876616824
+- author: null
+  character: null
+  content: 努力不会背叛自己，虽然有时会背叛梦想
+  created_at: 2016-11-10 22:19:40
+  source: 我的青春恋爱物语果然有问题
+  uuid: a768e618-55ea-4359-b065-c169f094ab24
+- author: 钟离
+  character: null
+  content: 朋友，假使有一日不得不同你相别，你在我的记忆中也会如黄金般闪耀。
+  created_at: 2022-11-01 18:45:51
+  source: 原神
+  uuid: 1a2b22db-deab-4a2a-8c7d-48ed60b40424
+- author: 玖兰枢
+  character: null
+  content: 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
+  created_at: 2016-12-07 12:55:47
+  source: 吸血鬼骑士
+  uuid: 4d81b6a7-1a23-449d-b2d4-0d894f67aa24
+- author: 路小可
+  character: null
+  content: 也许来时那段路总有些颠沛流离，才配得上后来和你的相遇。
+  created_at: 2026-06-21 20:14:40
+  source: 你是朝朝暮暮
+  uuid: fe231b24-4226-4a48-b4a0-c6859222b924
+- author: null
+  character: null
+  content: (」・ω・)」うー！(／・ω・)／にゃー！
+  created_at: 2016-07-16 02:05:09
+  source: 潜行吧奈亚子
+  uuid: 2c7c30dc-64ff-4f4f-a7db-96b0b7391524
+- author: Wonderful
+  character: null
+  content: 窗外的天气，就像是，你多变的表情。
+  created_at: 2026-08-08 16:09:09
+  source: 雨爱
+  uuid: 6e295550-297b-4b0d-8f9b-5eec99acb824
+- author: 塞巴斯蒂安·米卡艾利斯
+  character: null
+  content: 过分的神圣，往往比恶魔更加恶质。
+  created_at: 2016-11-10 22:19:40
+  source: 黑执事
+  uuid: 55127816-d4cf-43be-9ac5-acbb83474424
+- author: 米兰·昆德拉
+  character: null
+  content: 要逃避痛苦，最常见的，就是躲进未来。在时间的轨道上人们想象有一条线，超脱了这条线，当前的痛苦遍不复存在。
+  created_at: 2020-12-06 22:58:14
+  source: 不能承受的生命之轻
+  uuid: 44565c95-c2c4-4ac0-8642-b751b484bc24
+- author: 斯蒂芬·茨威格
+  character: null
+  content: 酋长露出一副令人惊异的鄙夷神情，观望着这一场发疯似的争吵生活在天涯海角的每一个自然之子都会对这些文明人感到诧异。一小撮黄色的金属，在这些文明人看来，竟比他们的文明所取得的一切精神上和技术上的成就还要有价值。
+  created_at: 2020-11-29 23:33:41
+  source: 人类的群星闪耀时
+  uuid: 2f61c8e0-3a35-4511-bd9c-b7a707ef5d24
+- author: 李伯杰
+  character: null
+  content: 当一个民族没有退路的时候，它的唯一的退路就是退回自己的内心。
+  created_at: 2020-11-10 20:30:26
+  source: 德国文化史
+  uuid: 1d092242-2773-4cc3-87d6-83d98da05b24
+- author: 佚名
+  character: null
+  content: 不要一遇沙漠，就怀疑生命绿洲的存在；不要一遇到困难，就怀疑人生目标的实现。
+  created_at: 2022-07-19 19:01:38
+  source: 互联网
+  uuid: 6b3e4508-cbc7-44f1-bd00-e7509ce52d24
+- author: 冯小刚
+  character: null
+  content: 告诉你一个发现，你和我都会感动，世界很小是个家庭。
+  created_at: 2025-05-25 13:36:12
+  source: 编辑部的故事
+  uuid: 12f766e2-58f3-4845-8fcd-7ee312d94324
+- author: null
+  character: null
+  content: 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
+  created_at: 2016-09-04 16:34:57
+  source: 海贼王
+  uuid: 66faec6a-59a1-4493-a7d8-b9bfddb42024
+- author: 亚尔加德
+  character: null
+  content: 她手心的温暖，我至今记忆犹新；因此，离开了这手的寒冷，我也无法忘怀。
+  created_at: 2023-08-30 11:34:45
+  source: 转生王女与天才千金的魔法革命
+  uuid: a66b4a82-86db-4332-8629-4d97465efb24
+- author: 宫园薰
+  character: null
+  content: 干燥的空气，尘埃的味道，我在其中……踏上旅途。
+  created_at: 2020-12-03 13:53:59
+  source: 四月是你的谎言
+  uuid: a2515da3-edb0-4ee2-a74a-410d4b0e5024
+- author: joker
+  character: null
+  content: You complete me !
+  created_at: 2020-08-01 07:55:13
+  source: 黑暗骑士
+  uuid: 8b009bba-40a2-4603-acbf-f6ac283f6524
+- author: null
+  character: null
+  content: 我们办的不是案子，是别人的人生。
+  created_at: 2024-02-24 22:06:53
+  source: 第二十条
+  uuid: 2b087671-b37f-4086-b39e-4de0470f9724
+- author: Minecraft
+  character: null
+  content: 探索自己独一无二的世界，挺过黑夜，并创建您能想象的一切！
+  created_at: 2021-07-22 09:54:23
+  source: Minecraft
+  uuid: 048d2165-2946-4b79-9805-0fd0ae37ae24
+- author: 辛弃疾
+  character: null
+  content: 老来情味减，对别酒、怯流年。
+  created_at: 2020-04-09 10:08:57
+  source: 木兰花慢·滁州送范倅
+  uuid: 0b679523-31ea-4f19-866d-a22a7b519424
+- author: null
+  character: null
+  content: 兰生幽谷， 不为莫服而不芳。舟在江海，不为莫乘而不浮。君子行义，不为莫知而止休。
+  created_at: 2020-04-09 10:14:48
+  source: 淮南子·说山训
+  uuid: 23c1dc26-7b64-41f9-8d01-8fad4377d224
+- author: 陈奕迅
+  character: null
+  content: 那年十八，母校聚会，站着如喽啰。
+  created_at: 2022-03-21 20:55:11
+  source: 浮夸
+  uuid: ab7bf9c1-0062-4a35-81ec-b1c3dd4df124
+- author: 肖
+  character: null
+  content: Si头上是C。
+  created_at: 2026-06-14 17:47:40
+  source: 现实
+  uuid: aa5dab35-603f-41b5-a2ee-acab0e75b524
+- author: null
+  character: null
+  content: 飞往成都里的纸飞机啊，童谣传唱在河边杨柳。
+  created_at: 2026-08-30 12:05:36
+  source: 我的纸飞机
+  uuid: b8f7cb37-c6ab-4005-8213-5762adadcf24
+- author: 杨绛
+  character: null
+  content: 熬得住无人问津的日子，方可配得起诗和远方。
+  created_at: 2023-05-31 20:58:04
+  source: 网络
+  uuid: 41cfceca-8e92-42a6-bb4e-cdb1bf0e1e24
+- author: 网友
+  character: null
+  content: 他们说钱重要，情商重要，面子重要，一大堆一大堆。我只是觉得回家路上的晚霞最重要。
+  created_at: 2025-02-24 21:59:24
+  source: 网易云音乐
+  uuid: c5bcd865-613b-4e12-b1f5-3f3f9e613a24
+- author: 张炎
+  character: null
+  content: 荒桥断浦，柳阴撑出扁舟小。
+  created_at: 2022-04-20 22:54:34
+  source: 南浦·春水
+  uuid: c7ebc320-5cb7-4e0f-a56f-8182b6a2b724
+- author: 王昌龄
+  character: null
+  content: 但使龙城飞将在，不教胡马度阴山。
+  created_at: 2020-04-09 10:14:44
+  source: 出塞二首
+  uuid: 6388d87e-81c4-4cdb-b2a0-2e21937b5724
+- author: 陆游
+  character: null
+  content: 楼船夜雪瓜洲渡，铁马秋风大散关。
+  created_at: 2020-04-09 10:08:56
+  source: 书愤五首·其一
+  uuid: 2855c7b0-dfc9-455b-838b-8401bf713e24
+- author: 李白
+  character: null
+  content: 我寄愁心与明月，随风直到夜郎西。
+  created_at: 2020-04-09 10:08:44
+  source: 闻王昌龄左迁龙标遥有此寄
+  uuid: cb877476-c10f-4538-9465-31c0cdbb9524
+- author: 杨炯
+  character: null
+  content: 宁为百夫长，胜作一书生。
+  created_at: 2020-04-09 09:24:41
+  source: 从军行
+  uuid: fb25cd75-40a4-4e9e-816a-54cd2e1cbb24
+- author: 白居易
+  character: null
+  content: 天长地久有时尽，此恨绵绵无绝期。
+  created_at: 2020-04-07 21:33:27
+  source: 长恨歌
+  uuid: c9d7ffc5-fd38-4bb7-8e34-2102ddd98a24
+- author: 范仲淹
+  character: null
+  content: 酒入愁肠，化作相思泪。
+  created_at: 2020-04-07 21:33:24
+  source: 苏幕遮·怀旧
+  uuid: ba330b0e-da3d-41f4-b8ca-24eece4ad324
+- author: Kordhell
+  character: null
+  content: And when they tryna ease up, tell the man, "So long."
+  created_at: 2026-08-30 08:50:42
+  source: Murder In My Mind
+  uuid: 57dd9df5-9452-4e4a-8fe1-c7d731427124
+- author: Isaiah Falls
+  character: null
+  content: So if you wanna say, say.
+  created_at: 2026-08-29 22:38:52
+  source: HONEYBUTTER
+  uuid: 17139cd1-0827-4b8a-816c-939b98e8d624
+- author: 大森元貴
+  character: null
+  content: 孤独を知って、愛を知る。
+  created_at: 2026-08-07 15:34:41
+  source: Brand New
+  uuid: 0657dff8-a97a-4ec8-b840-170d9dce4724
+- author: 撒贝宁
+  character: null
+  content: 如果命运是世界上最烂的编剧，你就要争取做自己人生最好的演员。
+  created_at: 2024-03-12 18:18:39
+  source: 撒贝宁语录
+  uuid: d27b4035-7295-41bb-8b3f-90acc39c9d24
+- author: 尼采
+  character: null
+  content: 谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊。
+  created_at: 2021-10-13 23:02:03
+  source: 尼采
+  uuid: 07716d0a-dc05-497f-a9f2-f286ebc59a24
+- author: アリスシャッハと魔法の楽団
+  character: null
+  content: 所以当你迷茫的时候，至少要笑着原谅自己，因为不被使用的心总有一天会枯萎。
+  created_at: 2020-08-14 17:56:52
+  source: 九番目の迷路
+  uuid: 0c627f5d-708a-4aeb-b843-e3faf0370e24
+- author: null
+  character: null
+  content: 那天她夸我很会笑,那十秒灵魂大概已卖掉.
+  created_at: 2018-03-23 21:36:22
+  source: Nice · 南先生
+  uuid: 4fcbbd6d-8034-4eaa-9062-63af8e6a3524
+- author: null
+  character: null
+  content: 得到了再失去，总是比从来就没有得到更伤人。
+  created_at: 2017-10-22 16:06:24
+  source: 追风筝的人
+  uuid: ee4ba85b-7af3-4d8f-990c-bb3f53c7b624
+- author: NIKE
+  character: null
+  content: Yesterday you said tomorrow.
+  created_at: 2022-03-11 15:19:29
+  source: NIKE广告
+  uuid: 8f9c00fa-04df-4ba2-8796-7b21e78acd24
+- author: null
+  character: null
+  content: 只有除了爱情什么都不缺的人，才有底气去等待爱情。
+  created_at: 2018-12-22 19:59:56
+  source: 网络
+  uuid: 6fbf16d7-3fe7-4fec-9457-40af7280bf24
+- author: null
+  character: null
+  content: 现在的终将成为过去的，过去的终将代替现在的。
+  created_at: 2023-01-15 16:01:28
+  source: npf
+  uuid: 496cf340-0eeb-4b44-8172-b9c9b8c0ca24
+- author: 曹博睿cbr
+  character: null
+  content: 当你看着镜子的时候，镜子里的你也在看着你自己。
+  created_at: 2021-02-03 20:21:24
+  source: 随笔
+  uuid: e352ddd1-8f1d-437d-934a-dc996ba11324
+- author: 麦克斯韦
+  character: null
+  content: 恰当的礼仪、端正的面貌与自由的意志，乃是人性的精髓。
+  created_at: 2021-02-19 09:41:03
+  source: 寂静王冠
+  uuid: 15fbd704-36ba-428d-843b-61047026d024
+- author: 太宰治
+  character: null
+  content: 生而为人，我很抱歉。
+  created_at: 2020-12-06 07:51:36
+  source: 人间失格·二十世纪旗手
+  uuid: dd4f1c96-b165-4e0f-9f83-7672b8ff7524
+- author: null
+  character: null
+  content: 若天压我，劈开那天，若地拘我，踏碎那地，我等生来自由身，谁敢高高在上。
+  created_at: 2018-04-13 08:28:04
+  source: 悟空传
+  uuid: 92603b75-9c68-4776-97b8-1221843dfb24
+- author: null
+  character: null
+  content: 晾晾灵感，也晾晾风，晒晒暖暖的太阳，也晒晒毛茸茸。
+  created_at: 2026-04-24 18:30:53
+  source: 无限暖暖
+  uuid: fdbf21f1-218b-4036-9c69-d7a14e35e324
+- author: 阿贝多
+  character: null
+  content: 用自己的双脚丈量土地，将"未知"变为知识。……这种感觉，真怀念啊。
+  created_at: 2023-09-02 01:39:30
+  source: 原神
+  uuid: fd487a33-ef0e-44aa-b5ad-2e64e68d4724
+- author: 雅努斯
+  character: null
+  content: 众人将与一人离别，惟其人将觐见奇迹。
+  created_at: 2025-03-16 15:21:39
+  source: 崩坏：星穹铁道
+  uuid: 37d49d8d-a9dd-45f7-aacb-856ffe40c524
+- author: null
+  character: null
+  content: 如果人类都是神之子的话——是否愿意给我…这个不听话的逆子一点奖赏？
+  created_at: 2019-09-04 16:10:35
+  source: 永远的七日之都
+  uuid: 2ec6096f-5d3b-45ca-be3e-5a7e30adb824
+- author: null
+  character: null
+  content: 以剑与火之力，异端之地将燃，以异端之烬，银河将得昌盛。
+  created_at: 2018-07-31 22:47:53
+  source: Stellaris
+  uuid: c36841c6-7725-40c1-bea8-5c52344be924
+- author: 茅野愛衣
+  character: null
+  content: 你最后一直在心底呼喊着『谢谢你』，我是知道的很难过呢，强忍着泪水笑着说再见，那一段最美好的回忆.....
+  created_at: 2021-10-14 22:27:58
+  source: 君がくれたもの~
+  uuid: 9593deb0-097b-4684-8efc-5d5fb52ab324
+- author: 维多利亚
+  character: null
+  content: 火焰啊，燃烧吧，燃烧吧！照亮……那孩子的未来。
+  created_at: 2020-06-24 21:18:03
+  source: GOSICK
+  uuid: baa69bf5-fdc6-4254-a6fd-4b6e710ea624
+- author: null
+  character: null
+  content: 在末日中，人们总想寻找希望，但要真有希望的话，那还叫希望吗？
+  created_at: 2019-10-09 09:20:28
+  source: 灵笼
+  uuid: 344d1d8a-9c80-4a83-b0a3-1e5ef3cd2224
+updated_at: 2026-09-25 11:58:44.940417+00:00

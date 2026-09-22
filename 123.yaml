@@ -1,0 +1,225 @@
+chunk_id: 123
+sentences:
+- author: 是椰丝唉
+  character: null
+  content: 如果你是在我阴郁时爱上我，那我无话可说。
+  created_at: 2026-04-30 13:19:05
+  source: 网易云音乐
+  uuid: 8e0a4914-c427-47ec-a80e-d2d9eb6fc57b
+- author: null
+  character: null
+  content: 无数少年蜷缩在火车里，却幻想拥抱全世界。
+  created_at: 2024-10-23 00:18:06
+  source: 汗衫哥
+  uuid: 20332714-8aa8-4c80-8d1e-ad4d73ad9c7b
+- author: null
+  character: null
+  content: 我不会让任何人看到我软弱的一面。
+  created_at: 2016-07-16 02:05:09
+  source: 桔梗
+  uuid: 5632f221-4e22-43c0-a90a-ef8581b8e27b
+- author: 黄贯中
+  character: null
+  content: 共你热恋可抵挡冰天雪地，共你拥抱能忘掉名利，没有一个人在可以媲美。
+  created_at: 2020-06-24 15:07:48
+  source: 无得比
+  uuid: 668f33a4-dabf-4a60-8ab1-41692eebcd7b
+- author: Vincent James Minyon
+  character: null
+  content: Get you off my mind.
+  created_at: 2026-08-30 09:48:05
+  source: Amnesia
+  uuid: 1795fae3-b5ac-4143-90cb-848bda66467b
+- author: John Kell
+  character: null
+  content: Cause I can't breathe, can't breathe.
+  created_at: 2026-08-30 04:28:04
+  source: HEAVENLY JUMPSTYLE
+  uuid: 7908cf1b-19ac-4210-b7c0-81f246c3f27b
+- author: 光头强
+  character: null
+  content: 小时候，有人问分数，有人问排名；长大了，有人问工作，有人问收入，却从来没有人问你累不累！
+  created_at: 2024-01-28 15:10:25
+  source: 熊出没
+  uuid: a5bed201-a219-4ce0-ac54-986ca04ef17b
+- author: null
+  character: null
+  content: 春风得意马蹄疾,一日看尽长安花.
+  created_at: 2016-11-10 22:19:40
+  source: 登科后
+  uuid: d885a844-d309-4b4f-b5e7-5b864f14c27b
+- author: 一只生菜
+  character: null
+  content: 旧日化白雪，新年踏雪来。
+  created_at: 2024-01-16 20:17:32
+  source: 我的脑子
+  uuid: c1b29014-4872-4c70-9d7c-cae72581bd7b
+- author: null
+  character: null
+  content: Write the code, Change the world.
+  created_at: 2016-11-29 14:08:17
+  source: Apple
+  uuid: 75585ddd-eae1-4b73-bb02-894aaa73667b
+- author: null
+  character: null
+  content: 学生时代的恋爱教会了孩子们怎样以貌取人，在哪里都逃不掉这种烦人的原始社会残余。
+  created_at: 2018-12-01 20:40:07
+  source: 鞠祖
+  uuid: feee7b62-ad5d-476f-8f3b-9c143d354c7b
+- author: 素色弧线
+  character: null
+  content: 如今的不务正业也许是在支援未来的自己。
+  created_at: 2026-04-18 23:09:15
+  source: 素色弧线
+  uuid: 539e4fd6-d922-4915-8db7-7d6b55bac77b
+- author: 诺瓦
+  character: null
+  content: 世界是一个装满熠熠生辉的宝石的宝石箱。
+  created_at: 2024-01-24 22:52:19
+  source: 星空列车与白的旅行
+  uuid: 7784bfe1-9f81-4f24-bdf6-bd6526fe087b
+- author: 枫原万叶
+  character: null
+  content: 前方等待着他的将是一场史无前例的雷暴；这一次，他不会绕行；雨与雷与他，终将相会于命运聚散之处。
+  created_at: 2021-12-12 08:14:56
+  source: 原神
+  uuid: 018f5c11-01fc-4bc8-a509-08a52bcc717b
+- author: null
+  character: null
+  content: 程序员最讨厌的事情是维护没有注释的代码，第二讨厌的的事情是自己写注释。
+  created_at: 2018-07-27 10:09:10
+  source: biguokang
+  uuid: f4831655-fb2e-4531-ae4f-1739e8df767b
+- author: 佚名
+  character: null
+  content: 三百個日夜之外的大海變成了火。
+  created_at: 2023-05-01 00:54:37
+  source: 文学作品
+  uuid: 72ce65c7-34c1-4db6-bdc2-81b141a1df7b
+- author: 雲姑
+  character: null
+  content: 又能逃到哪里去，你我都各有困局。
+  created_at: 2020-03-27 14:44:07
+  source: 寄世书
+  uuid: f1b5bea6-5466-4d73-90f9-2d6491a9197b
+- author: 古叶
+  character: null
+  content: 人不是因错误而毁灭，就是从错误中成长。
+  created_at: 2026-06-28 01:33:41
+  source: 侠客风云传
+  uuid: df3bf26d-0465-42f4-8ac3-3fd7797e6d7b
+- author: 初启源
+  character: null
+  content: 任尘世繁华，唯有守护你的一切，才是我此生唯一的使命。
+  created_at: 2020-04-06 01:56:51
+  source: 次元战争·红龙
+  uuid: c27b5554-6d5d-4146-80c8-5d2fa8538e7b
+- author: 纳西妲
+  character: null
+  content: 果然要亲眼去看，才能感受到世界的美。
+  created_at: 2024-11-03 10:38:59
+  source: 原神
+  uuid: af3a468b-df80-41b8-9a1f-c8903b86d47b
+- author: チチヅキ
+  character: null
+  content: 有了喜欢的人就不可以和别人交往吗？即使那个人从不会回头看看我？
+  created_at: 2025-07-24 11:11:26
+  source: 咲き乱れるは百合の花
+  uuid: 89cb66a2-e1bc-4eda-a9ce-bd677fbed77b
+- author: 未知
+  character: null
+  content: 别同情尾气的耳朵了，因为同情心是把刀。
+  created_at: 2026-07-17 12:34:19
+  source: Sympathy is a knife
+  uuid: 790f2302-7ea6-4afc-8a91-a75b77c2ed7b
+- author: 辛弃疾
+  character: null
+  content: 千古兴亡多少事？悠悠。不尽长江滚滚流。
+  created_at: 2020-04-09 10:09:01
+  source: 南乡子·登京口北固亭有怀
+  uuid: 11d22166-4765-4c0a-8353-9d7627d5167b
+- author: 苏轼
+  character: null
+  content: 粗缯大布裹生涯，腹有诗书气自华。
+  created_at: 2020-04-08 16:11:27
+  source: 和董传留别
+  uuid: 71396790-6d06-49dd-bc72-2568311cdd7b
+- author: 大森元貴
+  character: null
+  content: Up beatで。
+  created_at: 2026-08-30 10:21:16
+  source: Brand New
+  uuid: b8687973-d5c6-42f6-b99b-90b8d8810e7b
+- author: Drew Green
+  character: null
+  content: Call it country economics 'cause we keep a little profit.
+  created_at: 2026-08-29 22:37:01
+  source: Get Up and Get It
+  uuid: 19c1309f-7866-4306-aff3-f54dbc79ca7b
+- author: 周梦忆
+  character: null
+  content: Turn up.
+  created_at: 2026-08-08 14:54:54
+  source: TURN UP
+  uuid: 8ab82767-2a2c-4acf-9902-e3f7bf17657b
+- author: null
+  character: null
+  content: 自古美人如名将，不许人间见白头
+  created_at: 2018-10-31 15:47:15
+  source: 随园诗话
+  uuid: 95863f0b-83a1-46e8-9c41-bbdbc4f4bb7b
+- author: null
+  character: null
+  content: 将恩怨情仇全看透。
+  created_at: 2026-08-29 23:05:50
+  source: 山风山风等等我
+  uuid: 9dd3ec99-21e8-4cdd-8413-937664ca127b
+- author: null
+  character: null
+  content: 雨滴落下的速度是每秒十厘米，我该用怎样的速度，才能将你挽留。
+  created_at: 2024-02-20 20:15:58
+  source: 言叶之庭
+  uuid: ec030c21-1a3b-429f-b5fb-6ce83577fd7b
+- author: 十六椰子
+  character: null
+  content: 团结，勇气和绝不动摇的忠诚是人类最大的优点！
+  created_at: 2023-08-07 08:54:00
+  source: 动物园规则怪谈
+  uuid: f95af38f-2def-4109-8696-14596c19727b
+- author: amor耳朵
+  character: null
+  content: 天亮之后又是崭新的一天，把种种神伤丢弃在昨天，从未真正将它们消灭，于是一个又一个的昨天，把我们杀死在今夜……
+  created_at: 2019-09-26 17:59:55
+  source: 原创
+  uuid: 06ec29e4-b7d4-4fe6-806f-7cacade2ac7b
+- author: 司马光
+  character: null
+  content: 为所欲为，但勿伤害。
+  created_at: 2023-06-12 18:03:56
+  source: 资治通鉴
+  uuid: 0580378f-91bc-45a3-93e9-6f1941f7857b
+- author: 汪曾祺
+  character: null
+  content: 也许像西安的虾蟆陵，南京的乌衣巷，还会保留一两个名目，使人怅惘低徊。
+  created_at: 2022-12-29 16:51:36
+  source: 胡同文化
+  uuid: bb80c358-1c44-482d-af7b-f7b36952ac7b
+- author: 刘慈欣
+  character: null
+  content: 这个世界收到了你们的消息。
+  created_at: 2021-05-09 15:43:51
+  source: '三体I: 地球往事'
+  uuid: afbc6ba0-f69b-4a85-9537-0019d609667b
+- author: null
+  character: null
+  content: 为遇一人而入红尘，人去我亦去，此生不留尘。
+  created_at: 2018-09-20 20:24:11
+  source: 魔道祖师
+  uuid: 76302235-51d3-45c9-83c8-1c5dfa10c97b
+- author: 马可波罗
+  character: null
+  content: 某些时候，耐心和持久更胜于激烈与狂热。
+  created_at: 2026-05-30 03:03:23
+  source: 王者荣耀
+  uuid: 8c9366a9-59fb-47fb-844b-a82a0c9d2a7b
+updated_at: 2026-09-25 11:50:38.505924+00:00

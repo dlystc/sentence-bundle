@@ -1,0 +1,249 @@
+chunk_id: 191
+sentences:
+- author: 李商隐
+  character: null
+  content: 秋阴不散霜飞晚，留得枯荷听雨声。
+  created_at: 2020-04-07 22:58:41
+  source: 宿骆氏亭寄怀崔雍崔衮
+  uuid: 2bac9f6a-475e-4867-881d-3490565afcbf
+- author: 凛御银灰
+  character: null
+  content: 令人惊讶的成果，我本以为对于你带来的胜利我早已习以为常。
+  created_at: 2026-06-27 14:17:19
+  source: 明日方舟
+  uuid: 02109b3e-373f-4db9-b708-17c656d5d4bf
+- author: 贰佰
+  character: null
+  content: 生活越来越压抑 你变得越来越不像自己 玫瑰你在哪里 你总是喜欢抓不住的东西
+  created_at: 2016-11-10 22:19:40
+  source: 玫瑰
+  uuid: aa142a0d-323f-4f75-a3f5-f9ebf44397bf
+- author: null
+  character: null
+  content: 你住的城市下雨了，很想问你有没有带伞，可是我忍住了，因为我怕你说你没带而我又无能为力，就像我爱你却给不到你想要的陪伴。
+  created_at: 2024-07-12 14:52:35
+  source: 网易云音乐
+  uuid: 5527de48-3cbb-4d28-8c14-ffb300e11cbf
+- author: 田程
+  character: null
+  content: 摇着春光开春阳，玉衡正凝光。上察璇玑吟中野，元气盈贪狼。
+  created_at: 2023-02-10 22:30:47
+  source: 斗转星移
+  uuid: 9b82ef10-01a1-4686-9e59-28e682a7e3bf
+- author: null
+  character: null
+  content: 无论在多不幸的状况下，只要相信自己是幸福的，就能得到幸福。
+  created_at: 2018-12-21 17:02:49
+  source: 网络
+  uuid: 0cc670b0-2442-4c6b-8bf5-a612681463bf
+- author: 陆游
+  character: null
+  content: 此身合是诗人未？细雨骑驴入剑门。
+  created_at: 2022-10-30 01:01:29
+  source: 剑门道中遇微雨
+  uuid: 8656c12e-de14-4028-8cca-af2c09a48dbf
+- author: null
+  character: null
+  content: 旅行的意义在于找到自己，而非浏览他人。
+  created_at: 2016-03-14 17:31:36
+  source: 网络
+  uuid: cfa45284-acb0-4c36-98b2-42d4ebbce0bf
+- author: null
+  character: null
+  content: 小胖子溜边走~
+  created_at: 2016-11-10 22:19:40
+  source: 囧的呼唤
+  uuid: 913ae29f-2381-46e8-9301-06b9cbf192bf
+- author: 道雀Bzz
+  character: null
+  content: 我是沉默的我是旁观的。
+  created_at: 2026-08-29 22:53:12
+  source: 倾斜的婚礼
+  uuid: fcc74489-ecc6-40b5-a603-6d706f2591bf
+- author: null
+  character: null
+  content: 如果没有天赋，那就不断重复。
+  created_at: 2026-04-08 03:21:26
+  source: 网络
+  uuid: 3d437f73-dee5-4f2d-af47-ceb91c9cdebf
+- author: null
+  character: null
+  content: 我回的太快，忘记了这些话是一笔一画写的。
+  created_at: 2025-02-17 17:24:09
+  source: 微信父母聊天记录
+  uuid: 6b07b5c6-3a9a-42fc-8650-20021c1483bf
+- author: 杜牧
+  character: null
+  content: 停车坐爱枫林晚，霜叶红于二月花。
+  created_at: 2020-04-09 10:08:45
+  source: 山行
+  uuid: 7544a370-042a-4bfc-9a76-98df8fdae0bf
+- author: MJEnvieBelle
+  character: null
+  content: 你所有的大张旗鼓地表达，只是想换来一个能注意你的人。
+  created_at: 2021-04-26 19:30:55
+  source: 自卑胆小且无用的慕瑾
+  uuid: 041987dd-e347-4d50-b948-60010b741cbf
+- author: null
+  character: null
+  content: 阳光灼热，数不尽夏日繁华；蝉鸣幽幽，道不完苦辣酸甜。
+  created_at: 2016-07-20 01:26:34
+  source: 危险同居人
+  uuid: 2ccf0532-9f1f-418f-a778-d097b4a1fcbf
+- author: 陈忠和
+  character: null
+  content: 球可以输，人不能输。
+  created_at: 2023-02-15 21:53:53
+  source: 夺冠
+  uuid: 4317df8f-612b-4e2f-a39a-17d189dde8bf
+- author: null
+  character: null
+  content: 如果你都不知道自己想去哪里，那去哪里都是一样的。
+  created_at: 2016-07-16 02:05:13
+  source: 柴郡猫
+  uuid: d3970e47-5d2a-4a9c-9885-06ce5c7dfdbf
+- author: null
+  character: null
+  content: 重要的不是经验，是选择。
+  created_at: 2026-07-04 21:35:48
+  source: 蔚蓝档案
+  uuid: 40d71935-64aa-4cb2-88d6-e910c6032abf
+- author: null
+  character: null
+  content: 生活的洪流欲让人们窒息，我们却在缺氧的环境中肆意成长。
+  created_at: 2018-04-15 12:28:35
+  source: 网络
+  uuid: 9d15ee7c-b08b-4bb0-bdea-50642a0fb5bf
+- author: null
+  character: null
+  content: 我不是天生的王者 但我骨子里流动着不让我低头的血液
+  created_at: 2016-10-30 19:08:22
+  source: 海贼王
+  uuid: 91516e55-77d3-4d71-9989-fdef1abaeabf
+- author: 李白
+  character: null
+  content: 日色欲尽花含烟，月明欲素愁不眠。
+  created_at: 2020-04-09 09:22:58
+  source: 长相思·其二
+  uuid: 5cdb5464-6a77-49b4-9d07-39fca7eb54bf
+- author: 普拉滕
+  character: null
+  content: 谁一旦凝视过美本身 / 就已经把自己委身给了死亡。
+  created_at: 2020-06-27 20:31:43
+  source: Tristan
+  uuid: b425a826-51d4-4d99-9b7a-daf958cbc1bf
+- author: 韦应物
+  character: null
+  content: 春潮带雨晚来急，野渡无人舟自横。
+  created_at: 2020-04-08 16:11:33
+  source: 滁州西涧
+  uuid: 93abee05-d843-47cd-893a-47f4b22740bf
+- author: 丁仲礼
+  character: null
+  content: 地球不需要被拯救，需要被拯救的是人类自己。
+  created_at: 2025-07-24 10:46:33
+  source: 柴静专访
+  uuid: 0c46f885-9e67-4918-ae8f-9fc5db39e7bf
+- author: Kordhell
+  character: null
+  content: Pack my nine millimeter 'cause I ain't finna go out.
+  created_at: 2026-08-30 09:50:23
+  source: Murder In My Mind
+  uuid: 90f3d73e-dc9f-4913-9aaa-467046909cbf
+- author: null
+  character: null
+  content: 飞往回忆里的纸飞机啊也捎带哀愁。
+  created_at: 2026-08-30 01:44:38
+  source: 我的纸飞机
+  uuid: 1959c5c1-79f1-4d15-8b62-fecbacea3dbf
+- author: 何其玲、阿鲲
+  character: null
+  content: 高粱熟来红满天。
+  created_at: 2026-08-27 21:10:21
+  source: 九儿
+  uuid: 849c2ba0-b538-46b3-9120-0ea40f76b0bf
+- author: 廖羽
+  character: null
+  content: 只念一人，共你白首。
+  created_at: 2026-08-29 20:49:49
+  source: 千年
+  uuid: e1bb03fe-0f45-426e-8aa3-2958fb4a18bf
+- author: null
+  character: null
+  content: 智者把放下当前进，愚者把放下当绝望。
+  created_at: 2023-04-27 11:11:01
+  source: 网络
+  uuid: 7c7a2d42-b96d-4c9f-999c-a8b5dfc751bf
+- author: CuSO4
+  character: null
+  content: 在灰色的世界中追寻纯粹的白色或黑色，也只是坐井观天吧。
+  created_at: 2023-07-18 17:06:07
+  source: 漂泊手札
+  uuid: d359eb86-4dcd-4353-87ed-1d88f0bb15bf
+- author: pokon548
+  character: null
+  content: 不为梦想本身奋斗。为那个提出梦想的自己。
+  created_at: 2021-07-12 09:06:52
+  source: pokon548
+  uuid: 44f98b9b-d209-42d4-9abc-f444677228bf
+- author: 流光印记
+  character: null
+  content: 明明就是喜欢，失去了才痛心，你在胆怯什么啊喂？
+  created_at: 2020-03-24 20:07:34
+  source: 原创
+  uuid: 611ac7af-07ce-4442-ab86-31888f8848bf
+- author: シャノン
+  character: null
+  content: 我们的结局将是生离死别，在日渐厌恶的阳光之下。
+  created_at: 2026-07-05 11:54:05
+  source: 死别
+  uuid: 014a2b9c-0034-4b55-8901-1db84af710bf
+- author: null
+  character: null
+  content: 一场雨过后，天空和地面互换了身价。抬头万里暗淡，足下星河生辉。
+  created_at: 2023-12-10 23:27:02
+  source: 弱智吧
+  uuid: f6c7ec05-bc43-434e-a6f4-ab483474e4bf
+- author: 蝴蝶蓝
+  character: null
+  content: 夜雨声烦以极其强硬的姿态，骑士般地护卫在了索克萨身前。
+  created_at: 2022-04-24 15:45:25
+  source: 全职高手
+  uuid: 521569a0-244f-486b-bf88-3471917ab3bf
+- author: 盲观
+  character: null
+  content: 当混浊成为一种常态，清白便成为一种罪过。
+  created_at: 2021-06-07 19:21:34
+  source: 盲观
+  uuid: 46df9493-f6de-42fc-a630-b3f2350119bf
+- author: 明
+  character: null
+  content: 今日即便赴死，我也毫无遗憾！
+  created_at: 2026-08-16 16:59:57
+  source: 卡拉彼丘
+  uuid: 4124ef5d-5118-4ee7-90c8-2bb6399fafbf
+- author: 阿祈
+  character: null
+  content: 人属于他出生的地方，畜生属于它吃饱的地方。
+  created_at: 2022-07-18 17:24:09
+  source: 原神
+  uuid: 8d0a7512-90a2-46f7-aae3-324f8c0eedbf
+- author: 卡嘉丽·尤拉·阿斯哈
+  character: null
+  content: 不可以逃避！活下去！活下去也是一种战斗！
+  created_at: 2021-02-26 22:31:14
+  source: 机动战士高达独角兽
+  uuid: f49de0d7-451b-411f-af17-7efc4d0569bf
+- author: null
+  character: null
+  content: 青春是谎言，是邪恶。
+  created_at: 2018-11-19 01:15:31
+  source: 春物
+  uuid: 52710dfd-1e1f-48e4-8a70-8028ba20eebf
+- author: null
+  character: null
+  content: 你指尖跳动的电光，是我此生不变的信仰
+  created_at: 2017-01-27 22:14:47
+  source: 某科学的超电磁炮
+  uuid: 003e4ebe-59a4-49f1-a35e-69b9051ceabf
+updated_at: 2026-09-25 12:15:46.994257+00:00

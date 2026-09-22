@@ -1,0 +1,346 @@
+chunk_id: 155
+sentences:
+- author: 宋方壶
+  character: null
+  content: 青山相待，白云相爱，梦不到紫罗袍共黄金带。
+  created_at: 2020-04-09 10:14:44
+  source: 山坡羊·道情
+  uuid: 34923454-fdba-4aab-a0e7-a831511c2e9b
+- author: 王国维
+  character: null
+  content: 最是人间留不住，朱颜辞镜花辞树。
+  created_at: 2020-04-07 21:33:19
+  source: 蝶恋花·阅尽天涯离别苦
+  uuid: dfda37fe-478f-4d36-99c4-634650641f9b
+- author: 玄色
+  character: null
+  content: 一个能辨真话假话的扇子，可以锦上添花，却不能雪中送炭。
+  created_at: 2020-11-07 20:51:05
+  source: 哑舍
+  uuid: 938d6b7a-f4fe-42e9-9f32-55719670749b
+- author: 朴素
+  character: null
+  content: 天子奉上，八敬百人。
+  created_at: 2021-05-04 13:47:56
+  source: 敬世
+  uuid: 7b5f4d39-9c1c-41ca-bc91-118998427e9b
+- author: 李白
+  character: null
+  content: 落叶别树，飘零随风。客无所托，悲与此同。
+  created_at: 2022-04-07 09:10:13
+  source: 独漉篇
+  uuid: 46aa0b83-3fcd-4a4c-9572-4fa701493d9b
+- author: 孟子
+  character: null
+  content: 是亦不可以已乎？此之谓失其本心。
+  created_at: 2023-11-19 17:22:18
+  source: 鱼我所欲也
+  uuid: 715ce127-9232-46eb-b63c-2cea1e7dde9b
+- author: null
+  character: null
+  content: Decisions as I go, to anywhere I flow.
+  created_at: 2019-11-24 12:16:44
+  source: 原创
+  uuid: 06265526-a7c8-489f-9930-764fd180059b
+- author: 李白
+  character: null
+  content: 故人西辞黄鹤楼，烟花三月下扬州。
+  created_at: 2020-04-08 16:11:24
+  source: 黄鹤楼送孟浩然之广陵
+  uuid: ea6a73ce-4a83-4ff8-b749-9657b48d5d9b
+- author: TPSET
+  character: null
+  content: 对于事情的预期越低，失败的时候越不伤心，成功的时候就越快乐。
+  created_at: 2020-04-11 19:53:04
+  source: 原创
+  uuid: bbb84534-33a3-4e1a-b1bf-86142e0e649b
+- author: null
+  character: null
+  content: 不要，我现在暂时留在他身边，直到那转瞬即逝的日子到来。
+  created_at: 2016-07-16 02:05:11
+  source: 夏目友人帐
+  uuid: 002a54c7-424b-4630-9e4c-12ba8304ea9b
+- author: 白展堂
+  character: null
+  content: 人生就是这样，苦和累，你总得选一样吧，哪有什么好事，都让你佟湘玉一个人占了呢？
+  created_at: 2024-11-10 08:14:38
+  source: 武林外传
+  uuid: de1414da-19c4-40eb-ab84-7a7b1c500c9b
+- author: 李清照
+  character: null
+  content: 雁过也，正伤心，却是旧时相识。
+  created_at: 2022-01-22 20:52:00
+  source: 声声慢
+  uuid: 2fbba0e2-963e-42f1-87a6-2521af2c2b9b
+- author: null
+  character: null
+  content: 我只是不想再失去他——哪怕是仅存在一瞬的幻影！
+  created_at: 2018-10-20 21:10:44
+  source: 加油大魔王
+  uuid: 8dba1467-7124-4a1e-95be-b5c2b212029b
+- author: 戴荃
+  character: null
+  content: 我已经放下了，是否能渡你啊。
+  created_at: 2026-06-21 21:01:41
+  source: 皮囊
+  uuid: e071821f-5c70-411c-bdb2-b6b2450f579b
+- author: jhn
+  character: null
+  content: 梦里还是醒不来的梦，窗外有道看不清的虹。
+  created_at: 2022-04-08 08:30:04
+  source: jhn
+  uuid: cf89fc46-8d53-475d-87ca-27bb4d35c69b
+- author: 周喆直
+  character: null
+  content: 为难当前，唯有责任。
+  created_at: 2023-01-31 21:18:06
+  source: 流浪地球2
+  uuid: 350070cb-762e-43e3-9871-45cc4dcdb79b
+- author: 阿布思•邓布利多
+  character: null
+  content: 沉湎于虚幻的梦想，而忘记现实的生活，这是毫无意义的，千万记住。
+  created_at: 2022-10-28 21:05:18
+  source: 哈利•波特与魔法石
+  uuid: 96762377-c0c5-4840-b429-4c7e7f5a589b
+- author: null
+  character: null
+  content: 越是试着忘记，越是记得深刻。
+  created_at: 2016-07-16 02:05:09
+  source: 天空之城
+  uuid: fffc59c6-f5d4-482d-9c2f-7dc5a330209b
+- author: null
+  character: null
+  content: 可怜之人必有可恨之处，可恨之人必有可悲之苦。
+  created_at: 2025-07-24 19:39:05
+  source: 民间俗语
+  uuid: 068260b2-3c3a-4cc5-bf1a-c6bb028d6d9b
+- author: 鲁迅
+  character: null
+  content: 苟活者在淡红的血色中，会依稀看见微茫的希望；真的猛士，将更奋然而前行。
+  created_at: 2026-07-02 08:19:52
+  source: 记念刘和珍君
+  uuid: b559584f-3a52-4f20-89f1-542276ed279b
+- author: 萧冬连
+  character: null
+  content: 中国改革的真正起点，恰恰发生在思想政治领域。
+  created_at: 2025-07-24 12:36:01
+  source: 探路之役
+  uuid: 93ac43ea-bfc1-4e32-a989-f8877439d69b
+- author: John Kell
+  character: null
+  content: Every old love song sounds like us.
+  created_at: 2026-08-30 06:51:34
+  source: HEAVENLY JUMPSTYLE
+  uuid: a2cfcf6a-79a8-4bb3-b7bf-eb12c8a9699b
+- author: 人生K线
+  character: null
+  content: You with me.
+  created_at: 2026-08-29 23:28:54
+  source: 精卫(英文版)
+  uuid: d13dfa57-9d1d-4492-8a40-736c0238f89b
+- author: null
+  character: null
+  content: 这世界是个好地方，值得为它奋斗。后半句我同意。
+  created_at: 2016-11-10 22:19:40
+  source: 海明威
+  uuid: 3cfa2bde-1fe2-42f7-a3b3-fa0cbabfbc9b
+- author: Dfkuaid
+  character: null
+  content: 眼里要有光！
+  created_at: 2021-05-28 18:56:52
+  source: 走，向前
+  uuid: c117e966-8517-4fa3-b432-4bae802d889b
+- author: 黄泉
+  character: null
+  content: 愿死亡结束你漫长的梦，引领你归还……清醒的世界。
+  created_at: 2024-02-10 03:21:09
+  source: 崩坏：星穹铁道
+  uuid: c927daed-8dbc-4324-91aa-c5d86735f69b
+- author: null
+  character: null
+  content: 我们找到了一个晶莹绚丽，却又稍纵即逝的东西。我们称它为永恒。
+  created_at: 2021-02-21 20:57:29
+  source: Kyanite
+  uuid: f422c24f-9151-4e13-8d47-0409bc9ad19b
+- author: 沫夏孤水
+  character: null
+  content: 大千世界风景瑰丽，却无人有心欣赏。
+  created_at: 2021-11-24 23:57:16
+  source: 原创
+  uuid: e98bde7d-91d4-4514-9c2f-b0c9731ab99b
+- author: John Kell
+  character: null
+  content: Packed in a box that no one sees.
+  created_at: 2026-08-30 01:09:16
+  source: HEAVENLY JUMPSTYLE
+  uuid: 715c0ca8-eaa9-4558-b72e-38da0f17b69b
+- author: null
+  character: null
+  content: Sow an act, and you reap a habit. Sow a habit, and you reap a character.
+    Sow a character, and you reap a destiny.
+  created_at: 2019-11-27 15:40:13
+  source: Charles Reade
+  uuid: 9c5da99a-4600-4e7c-b9ae-6561ffc64a9b
+- author: 网易云用户
+  character: null
+  content: 后来啊，风停了，夏天结束了，我不再喜欢你了。
+  created_at: 2025-06-29 04:12:39
+  source: 网易云
+  uuid: 20eae7a7-a9fb-4b3c-99f4-2abc3f83209b
+- author: 徐清
+  character: null
+  content: 对岸流莺闲不住，长歌戴月到江东。
+  created_at: 2026-05-01 14:56:23
+  source: 浪淘沙·飞云湖月夜
+  uuid: 60f62f04-8d96-4358-98be-4ab168239b9b
+- author: 崔涂
+  character: null
+  content: 乱山残雪夜，孤烛异乡人。
+  created_at: 2020-04-09 10:08:46
+  source: 除夜 / 巴山道中除夜书怀 / 除夜有怀
+  uuid: 936ec3ab-da2e-4f92-8727-47256b21769b
+- author: 秦观
+  character: null
+  content: 自在飞花轻似梦，无边丝雨细如愁。
+  created_at: 2020-04-07 02:49:18
+  source: 浣溪沙·漠漠轻寒上小楼
+  uuid: 05013dc7-279e-430b-94db-018b1457d49b
+- author: null
+  character: null
+  content: 宁要好梨一个，不要烂梨一筐。积极肯干和忠心耿耿的人即使只有两三个，也比十个朝气沉沉的人强。
+  created_at: 2022-10-17 22:34:29
+  source: 弗拉基米尔.伊里奇.列宁
+  uuid: 445dca87-b985-41aa-a5fc-c1bc0c8fa99b
+- author: null
+  character: null
+  content: 奇变偶不变，符号看象限
+  created_at: 2018-10-16 19:23:32
+  source: 各校数学老师
+  uuid: 6e4f4d76-3405-476c-8f39-9f4cfc8cb39b
+- author: JackuXL
+  character: null
+  content: 道路再远，也有终点。
+  created_at: 2026-04-26 22:01:17
+  source: WearBBS停服公告
+  uuid: 58d6b195-91a1-4fe8-9e35-868fafd1e39b
+- author: 佚名
+  character: null
+  content: 总会有始料不及的运气和忽如其来的惊喜！
+  created_at: 2022-04-10 13:45:00
+  source: 互联网
+  uuid: 3eebd91f-85ea-4c34-a9c7-8d3f9431889b
+- author: 耳根
+  character: null
+  content: 一切真实与虚假，一切辉煌与破灭，只存后人之言，只存岁月之中。
+  created_at: 2021-07-03 17:53:49
+  source: 求魔
+  uuid: f42a1c7d-f934-4415-a62a-0dff4e87049b
+- author: null
+  character: null
+  content: 请叫我女王大人~
+  created_at: 2016-07-20 01:33:36
+  source: 十万个冷笑话
+  uuid: 671c34ed-2878-4137-b285-5c48d03b9b9b
+- author: 朴素
+  character: null
+  content: 无求之所，自有天赐。
+  created_at: 2023-07-13 23:20:21
+  source: 大略
+  uuid: 9d3ced91-fc6c-49ee-8020-0410d36d2d9b
+- author: Varuxn
+  character: null
+  content: 正因为一无所有，才可以拥有一切。
+  created_at: 2022-04-12 21:10:58
+  source: 初语
+  uuid: d1372c32-e8b4-4d1f-9e29-dd228b2c539b
+- author: 双十
+  character: null
+  content: 我的心是生命的禁区，总有人无意闯进来，然后自杀。
+  created_at: 2022-03-22 16:28:38
+  source: 黄昏下的乌鸦
+  uuid: 44543c88-5c87-4be4-9139-34a2ddd0199b
+- author: Phoenix凰
+  character: null
+  content: 兰花，是随风而动，却弯曲下垂，虽是晶莹剔透，但也是撑霆裂月，终有一天会污浊色腥，很像那个折了翼的天使。
+  created_at: 2020-11-11 23:03:24
+  source: 原创
+  uuid: bee9aa17-df16-4865-937f-d7446935f09b
+- author: 不是风动
+  character: null
+  content: 傅落银穿的是正装，笔直挺括，声音压低了，又透过窗帘和玻璃，变得很淡很模糊。
+  created_at: 2023-05-14 09:23:43
+  source: 全世界都在等我们分手
+  uuid: dd588ed2-f181-4722-9d5f-ebaae091799b
+- author: 王斌
+  character: null
+  content: 远处的渔火，渔火点点偎着星光；星光在一线海天，茫茫燎原着北方。
+  created_at: 2023-02-09 23:04:55
+  source: 我的一九三〇
+  uuid: c3cfdfcc-5e2a-43c5-a63b-908bb909d89b
+- author: 纪伯伦
+  character: null
+  content: 一个人的意义不在于他的成就，而在于他所企求成就的东西。
+  created_at: 2020-11-08 09:59:23
+  source: 沙与沫
+  uuid: 5b6911fb-a10f-4d8b-815f-51ca8e8a429b
+- author: Walter
+  character: null
+  content: 我们执着于寻找对方缺少的品质，真是太傻了。
+  created_at: 2020-09-06 16:59:18
+  source: 面纱
+  uuid: 8cf63f8b-c23f-4c5a-ad7f-a958fdb35b9b
+- author: 刘以鬯
+  character: null
+  content: 幸亏时光不会倒流，否则万物一定会朝旧岁月里疾步奔跑。
+  created_at: 2020-06-19 22:55:07
+  source: 迷楼
+  uuid: 43b747db-5a2b-4727-b633-68019eabc29b
+- author: 良
+  character: null
+  content: 羊啊……羊，明明你们聚在一起，便能变成狼。变成狼的你们，能冲入那豚妖府中，将豚妖撕得粉碎。为什么，你们要甘愿做羊呢？
+  created_at: 2026-08-21 19:15:21
+  source: 饿殍：明末千里行
+  uuid: a51b992e-9426-4e58-b083-bb471d39bf9b
+- author: 萨吉拉的机壳
+  character: null
+  content: 忠诚不是盲目服从，正义没有服务对象。
+  created_at: 2026-07-06 17:23:33
+  source: 命运2
+  uuid: dfeaf177-383c-4015-b4a3-9c67951ca99b
+- author: 遥
+  character: null
+  content: 我、我会努力把眼睛睁大一点！
+  created_at: 2026-06-27 14:26:18
+  source: 明日方舟
+  uuid: 8ef826af-5820-4ab4-8d95-f81f6faee19b
+- author: 蓬莱泉瑠奈
+  character: null
+  content: 哈……为什么每天都要上学呀。
+  created_at: 2025-07-24 11:28:54
+  source: 花吻在上9
+  uuid: e4269e30-1891-40e3-a675-4166edbce39b
+- author: 高坂穗乃果
+  character: null
+  content: 总有一天，我要让这里座无虚席！
+  created_at: 2024-03-10 15:43:32
+  source: LoveLive!!
+  uuid: 40a087c4-9530-415a-b9cb-47ce4e551e9b
+- author: Kazusa
+  character: null
+  content: 梦里不觉秋已深，余情岂是为他人。
+  created_at: 2021-11-22 11:25:01
+  source: WHITE ALBUM2
+  uuid: e1a89e6d-15f7-4051-85a2-f7de19492e9b
+- author: null
+  character: null
+  content: さあ、始めようか。(那么，游戏开始吧。)
+  created_at: 2020-01-13 00:07:30
+  source: No Game No Life
+  uuid: 29e787ac-6c91-4e00-985b-3736ceb0459b
+- author: null
+  character: null
+  content: 死对任何人都是残酷的，年轻年老、好人坏人都一样。死是平等的，没哪种死亡是特别残酷的，所以死才可怕。品行、年龄、个性、金钱、美貌，这些东西只在生前才有意义。就因能将一切化为乌有，所以怎样的死都是残酷的。
+  created_at: 2016-11-10 22:19:40
+  source: 尸鬼
+  uuid: 74576c42-9c75-46d7-8b4d-a6015eceed9b
+updated_at: 2026-09-25 11:58:45.624515+00:00

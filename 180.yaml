@@ -1,0 +1,285 @@
+chunk_id: 180
+sentences:
+- author: 张九龄
+  character: null
+  content: 海上生明月，天涯共此时。
+  created_at: 2020-04-07 21:27:46
+  source: 望月怀远
+  uuid: 43c536af-74e1-43e7-8b10-4db844fae3b4
+- author: 宫崎骏
+  character: null
+  content: 起风了,唯有努力生存。
+  created_at: 2016-12-07 12:55:47
+  source: 起风了
+  uuid: fdfe1a00-2ad6-4013-85c9-515064bac4b4
+- author: 黄碧云
+  character: null
+  content: 如果有天我们湮没在人潮之中，庸碌一生，那是因为我们没有努力要活得更丰盛。
+  created_at: 2021-10-13 23:01:29
+  source: 黄碧云
+  uuid: 23faa9c4-d074-49ba-8cef-cb8b22c604b4
+- author: Nigel Tay
+  character: null
+  content: Every word you said.
+  created_at: 2026-08-29 22:42:41
+  source: If You Don’t Mean It (ถ้าไม่คิด อย่าทำให้คิด)
+  uuid: 658847be-543e-46c8-9d88-dc6196bb19b4
+- author: 吕子乔
+  character: null
+  content: 人们往往为了逃避一个错误而去犯另一个错误，既然很多错误无法回避，何必让悔恨埋葬你的人生呢。与其逃来逃去，还不如面对一个。
+  created_at: 2021-11-04 14:14:03
+  source: 爱情公寓
+  uuid: 81ad536a-5600-4f27-ad4c-5a5ca39454b4
+- author: 格赫罗斯
+  character: null
+  content: 新世界不能没有钢铁秩序！
+  created_at: 2026-05-25 21:10:37
+  source: 三角洲行动
+  uuid: 8830c050-7ad9-4a38-bdd1-b68081d146b4
+- author: Infantry Journal
+  character: null
+  content: Five second fuses only last three seconds .
+  created_at: 2022-12-20 18:24:47
+  source: 使命召唤
+  uuid: 3592cfae-73e1-4b8b-b23b-550d7df481b4
+- author: 王健美
+  character: null
+  content: 借岁月一瓢酒，潇洒饮春秋。
+  created_at: 2026-08-30 05:43:12
+  source: 山风山风等等我
+  uuid: a3b2a081-f8fa-44e9-b061-7d9604d2e0b4
+- author: 星星
+  character: null
+  content: 我們互相矜持，認為或許可能存在着的一點曖昧，初识想見你。帶來的是希望但也可以是欺騙。
+  created_at: 2020-11-18 17:45:27
+  source: 原创
+  uuid: 1164fce0-c850-472e-a6f5-bf8449da4bb4
+- author: null
+  character: null
+  content: 如果再也见不到你，祝你早安、午安、晚安。
+  created_at: 2019-08-13 14:20:28
+  source: 楚门的世界
+  uuid: 23c31d69-a094-41be-8687-76dd6b958db4
+- author: 万能青年旅店
+  character: null
+  content: 四体不勤，五谷不分；文不能测字，武不能防身。
+  created_at: 2023-11-12 17:12:19
+  source: 十万嬉皮
+  uuid: af7bd8a4-f582-4b9b-82a5-b952611dabb4
+- author: John Kell
+  character: null
+  content: Checked my phone, nothing from you.
+  created_at: 2026-08-30 08:08:40
+  source: HEAVENLY JUMPSTYLE
+  uuid: 1a729ef2-8a78-4a90-9a1b-f79cdfbf73b4
+- author: 路遥
+  character: null
+  content: 人们，你们怎么能因为贫穷，就以物遮目，而变化得如此愚蠢呢？
+  created_at: 2020-02-12 10:07:46
+  source: 平凡的世界
+  uuid: abd559d1-8502-4e5d-826a-05144e864fb4
+- author: 大老师
+  character: null
+  content: 人不会对讨厌人要求理由。莫名的生气、莫名的讨厌、莫名的恶心、什么都能成为讨厌人的理由。
+  created_at: 2016-11-10 22:19:40
+  source: 果然我的青春恋爱喜剧搞错了
+  uuid: 58ba57bf-52ae-4480-8c9b-03dfbef432b4
+- author: null
+  character: null
+  content: 一个人有表里两面，你能看到的，仅仅是其中一面而已。
+  created_at: 2018-11-20 19:10:58
+  source: 零的执行人
+  uuid: 18c404fc-1610-4b12-a774-8c66d258f4b4
+- author: 刘慈欣
+  character: null
+  content: 银河系猎户座旋臂有两颗文明的流星划过，宇宙记住了他们的光芒。
+  created_at: 2021-05-09 15:47:07
+  source: '三体III: 死神永生'
+  uuid: ac8fe171-d53c-438e-b107-91811ad900b4
+- author: 做魚玉子燒
+  character: null
+  content: 人若伤感潜回忆，花如红雨泛流年。
+  created_at: 2025-06-29 03:51:32
+  source: 做魚玉子燒
+  uuid: 733daf5c-7abd-4680-8cca-fe112b35dfb4
+- author: 流光印记
+  character: null
+  content: 来源于噩梦，却是迷人的。
+  created_at: 2020-04-08 17:57:35
+  source: 网络
+  uuid: 5a42c7a9-cc3f-4c41-a7e2-187a2c3936b4
+- author: null
+  character: null
+  content: 勇气是在黑夜中重新点燃火焰。
+  created_at: 2026-07-04 21:36:17
+  source: 蔚蓝档案
+  uuid: 9dd422bb-f35d-40ff-9cdc-21b8c50e7bb4
+- author: null
+  character: null
+  content: 空无一物本身，是一些无惧无畏的旅人的起点，却是我的终点。
+  created_at: 2018-10-16 19:13:14
+  source: 老巴塔哥尼亚快车
+  uuid: 02d89ef9-3ddd-4584-aff2-1eafcd8c95b4
+- author: 坂本先生
+  character: null
+  content: 居然就因为箱子上写着坂本就叫我坂本，真是太随随便便了！
+  created_at: 2025-01-22 09:57:14
+  source: 日常
+  uuid: 5172f7e8-38ef-42a2-8d8a-1170db614ab4
+- author: 派蒙
+  character: null
+  content: 有什么情绪就要发泄出来嘛，不要憋着。
+  created_at: 2021-11-02 12:06:02
+  source: 原神
+  uuid: a505286a-0fcb-4b80-92c5-dc5f8fce35b4
+- author: 陆游
+  character: null
+  content: 夜阑卧听风吹雨，铁马冰河入梦来。
+  created_at: 2020-04-07 21:34:44
+  source: 十一月四日风雨大作
+  uuid: 54c2def3-89a2-4c23-9bd9-79349af563b4
+- author: null
+  character: null
+  content: 小时候，奶奶说亲人去世以后会变成蝴蝶。奶奶去世之后，每当有蝴蝶飞到屋子里，我都会关上窗。
+  created_at: 2020-04-03 02:14:53
+  source: 网络
+  uuid: 9287fcc8-2c76-4ab1-bd18-55c6d0bbc7b4
+- author: null
+  character: null
+  content: 因为刚好遇见你，原来你也在这里……
+  created_at: 2018-05-19 16:26:30
+  source: Nice·南先生
+  uuid: c3a0632c-b5f3-4a10-9b5c-37e436297eb4
+- author: 炸天帮奥特堂堂主
+  character: null
+  content: 但正是因为他曾经享受过光明，所以他才如此惧怕黑暗啊！
+  created_at: 2023-08-25 10:43:50
+  source: 番茄小说评论区
+  uuid: af563f36-eea0-44f1-b001-59e96c58f4b4
+- author: null
+  character: null
+  content: 编程是一种技艺，一种需要用心学习的技艺。
+  created_at: 2021-05-21 23:55:31
+  source: 程序员修炼之道-从小工到专家
+  uuid: aa73d754-c376-4e23-b4e8-0c00351315b4
+- author: 叔本华
+  character: null
+  content: 很多事只是最初看起来有意义，但经过多次重复就慢慢失去了意义。
+  created_at: 2021-08-08 19:04:56
+  source: 人生的智慧
+  uuid: 33d7b883-15cb-4739-90c9-3be0d1a42db4
+- author: 元稹
+  character: null
+  content: 曾经沧海难为水，除却巫山不是云。取次花丛懒回顾，半缘修道半缘君。
+  created_at: 2021-02-01 21:29:45
+  source: 离思五首·其四
+  uuid: b9f6814d-f464-4737-92b6-c2f6d24002b4
+- author: 文天祥
+  character: null
+  content: 臣心一片磁针石，不指南方不肯休。
+  created_at: 2020-04-09 10:14:43
+  source: 扬子江
+  uuid: 55e90610-f2dc-4305-b2bf-aed69e4b92b4
+- author: 罗斯柴尔德家族
+  character: null
+  content: 金钱一旦作响，坏话随之戛然而止。
+  created_at: 2022-04-27 18:58:44
+  source: 家训
+  uuid: bb521d03-0548-45c6-94fb-15bee702cfb4
+- author: 徐良
+  character: null
+  content: 若是我笑得皮开又肉绽，就莫问，离合悲欢。
+  created_at: 2020-05-04 19:16:00
+  source: 至尊宝
+  uuid: 58a0a4c7-c721-4127-b1f3-3a48a1f772b4
+- author: null
+  character: null
+  content: 戸惑い憂い怒り狂い たどり着いた祈り 君の心死なずいるなら 応答せよ早急に
+  created_at: 2018-08-31 18:57:41
+  source: miku
+  uuid: 9dd1d9f5-15f7-4a71-a3f0-b99dbed623b4
+- author: null
+  character: null
+  content: Hello World!
+  created_at: 2016-07-20 01:54:22
+  source: 其他
+  uuid: 9d161d20-9dd7-4ff3-b918-3d02f4f43db4
+- author: Vincent James Minyon
+  character: null
+  content: I need you.
+  created_at: 2026-08-30 04:27:19
+  source: Amnesia
+  uuid: 55294694-b0c6-445b-82f8-c7d19d7184b4
+- author: 人生K线
+  character: null
+  content: How should it be loved?
+  created_at: 2026-08-29 23:27:38
+  source: 精卫（英文版）
+  uuid: b164d945-83be-452a-9e7c-1e70a3b6d4b4
+- author: 道雀Bzz
+  character: null
+  content: 这是童年的一场历练。
+  created_at: 2026-08-08 15:21:10
+  source: 倾斜的婚礼
+  uuid: ba40ab59-78e4-40b2-b43d-cc85ce4376b4
+- author: 道雀Bzz
+  character: null
+  content: 那个夏天是个潮湿蒸笼。
+  created_at: 2026-08-08 15:19:37
+  source: 倾斜的婚礼
+  uuid: e129e0d9-b1bc-4184-91ba-e845d1a2f0b4
+- author: null
+  character: null
+  content: 月影积陈春秋，垣壁剥落冬夏。
+  created_at: 2023-02-08 18:40:48
+  source: 小红书
+  uuid: cbdc2dd6-07c2-4e27-a698-283d712640b4
+- author: null
+  character: null
+  content: 承诺常常很像蝴蝶，美丽的盘旋后就不见了。
+  created_at: 2018-02-27 09:44:03
+  source: 网络
+  uuid: cd032bc0-fd45-45f3-b0c7-4eca68e2b5b4
+- author: 朴素
+  character: null
+  content: 念极生死定其无天，破尽黑白临天行道。
+  created_at: 2023-07-13 23:21:21
+  source: 天伦
+  uuid: c8f17732-8d1b-4c0c-9061-1fbb7ae344b4
+- author: Shawn
+  character: null
+  content: 每个人都是有梦想的！当然，你要先做个梦，不然就是瞎想。
+  created_at: 2023-06-24 19:27:04
+  source: 原创
+  uuid: 361e230e-a233-459e-8d73-7dc3316e48b4
+- author: Que
+  character: null
+  content: 我最想的，就是好好活着。
+  created_at: 2021-03-06 12:50:31
+  source: Que
+  uuid: d5540ba6-2e69-43bc-8d73-d19bd3e255b4
+- author: 当年明月
+  character: null
+  content: 简单的占有是小聪明，暂时的放弃才是大智慧。
+  created_at: 2022-04-11 16:38:16
+  source: 明朝那些事儿
+  uuid: 43cad30e-ca2d-4e5f-a145-1352a858f0b4
+- author: 胡适
+  character: null
+  content: 生命本没有意义，你要能给它什么意义，它就有什么意义。
+  created_at: 2021-02-21 20:24:58
+  source: 人生有何意义
+  uuid: 573e7b58-d71f-42a6-811e-1bb9ff00cfb4
+- author: null
+  character: null
+  content: 要把所有的夜归还给星河，把所有的春光归还给疏疏篱落，把所有的慵慵沉迷与不前，归还给过去的我。
+  created_at: 2019-05-28 21:53:44
+  source: 德卡先生的信箱
+  uuid: 7f2afd0b-97df-4101-b112-50d63552b5b4
+- author: null
+  character: null
+  content: 重新再说一次，至今为止，真的谢谢你。 然后，今后也请多指教了。
+  created_at: 2016-09-28 22:29:11
+  source: 楠田亞衣奈致东条希
+  uuid: 9f01a441-bd5f-4112-b8b6-3eb35a1574b4
+updated_at: 2026-09-25 11:58:45.939116+00:00

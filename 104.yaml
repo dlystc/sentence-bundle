@@ -1,0 +1,243 @@
+chunk_id: 104
+sentences:
+- author: MYR
+  character: null
+  content: 我做着我想要做到的事情，有人欣赏我的自信，也有人说我普信。
+  created_at: 2021-12-16 13:30:50
+  source: MYR
+  uuid: 31adbd08-cbf3-4cdd-9af6-4e9df39d2968
+- author: 笛卡尔
+  character: null
+  content: 我思故我在。
+  created_at: 2024-05-01 14:38:44
+  source: 谈谈方法
+  uuid: d4b32b5f-40c9-423c-a366-60bed1a63a68
+- author: angsaide
+  character: null
+  content: 表象不会说谎，可表象也不是真相。
+  created_at: 2026-08-19 20:20:57
+  source: 洛谷
+  uuid: df149217-c6df-40b4-80a7-481739bada68
+- author: null
+  character: null
+  content: 人必须先说很多话，然后保持静默。
+  created_at: 2019-07-28 10:36:36
+  source: 中国哲学简史
+  uuid: 02dc9ed7-884b-43f7-bab9-72dab41b3768
+- author: null
+  character: null
+  content: 高天之上，他与无数沉浮挣扎的灵魂，朝着令人目眩的光明飞去。
+  created_at: 2026-04-15 21:31:34
+  source: CyOI
+  uuid: cdc2384f-b0d3-43a1-a550-be3262313068
+- author: null
+  character: null
+  content: 藏好自己，做好清理。
+  created_at: 2020-02-22 01:19:23
+  source: 三体
+  uuid: 2f35b9c6-4e2d-45ba-a231-d409cc02a168
+- author: null
+  character: null
+  content: 我从不相信这世界上有什么天赋异禀。那些看起来超乎寻常的人，总有你没看到的一面。
+  created_at: 2019-12-07 20:26:21
+  source: 随笔
+  uuid: 0b8a951d-b616-483f-b57c-ca0c719e6068
+- author: 流萤
+  character: null
+  content: 飞萤扑火，向死而生！
+  created_at: 2024-10-02 02:46:59
+  source: 崩坏：星穹铁道
+  uuid: 77a7cda3-8189-4e48-ac34-77c6ec07d868
+- author: null
+  character: null
+  content: 我动身踏上旅程，是为了与你道别。
+  created_at: 2016-12-07 12:55:47
+  source: 追逐繁星的孩子
+  uuid: 9f93297a-b7b1-4a83-b26c-90c17f53f868
+- author: null
+  character: null
+  content: 再向前一点点，我就会点头。
+  created_at: 2026-08-07 16:22:47
+  source: 恋人未满
+  uuid: e858622b-22ab-4729-8ea4-ce6769676168
+- author: 天使
+  character: null
+  content: 我必会净化世上的邪恶，以正义烈火拔出黑暗。
+  created_at: 2024-07-12 20:08:27
+  source: 英雄联盟
+  uuid: 2d78a181-604a-4093-8890-8defcc224668
+- author: 毛泽东
+  character: null
+  content: 星星之火，可以燎原。
+  created_at: 2021-07-20 17:07:14
+  source: 毛主席语录
+  uuid: 72acf351-0a13-4601-a90f-04dbbfdc5468
+- author: null
+  character: null
+  content: 百般乐器，唢呐为王；不是升天，就是拜堂。
+  created_at: 2019-12-02 13:11:24
+  source: 一个转身的距离
+  uuid: f47407d6-fa96-4a81-9669-d5c619dd4d68
+- author: null
+  character: null
+  content: 不管你说再多的慌，只有自己的内心，是无法欺骗的啊。
+  created_at: 2016-11-10 22:19:40
+  source: 七大罪
+  uuid: 603f4db8-e69f-4b2a-9dc7-72c9948ee768
+- author: null
+  character: null
+  content: 猫是可爱的，狼是很帅的。就是说，孤独又可爱又帅。
+  created_at: 2017-12-10 15:05:21
+  source: 我的青春恋爱物语果然有问题
+  uuid: 8aa6ca84-d375-4171-a330-189fd3d7cd68
+- author: 岑参
+  character: null
+  content: 今夜不知何处宿，平沙万里绝人烟。
+  created_at: 2020-03-28 16:41:29
+  source: 碛中作
+  uuid: d721f9bb-2232-4a0b-8398-40619bd20b68
+- author: null
+  character: null
+  content: 常将有日思无日，莫把无时当有时。
+  created_at: 2023-11-11 12:40:16
+  source: 增广贤文
+  uuid: fb6e9d3e-24d1-4373-a5cc-5db3a40f2068
+- author: null
+  character: null
+  content: 女：我的心开始跟着你走。
+  created_at: 2026-08-29 23:41:40
+  source: 一生离不开的是你
+  uuid: e9840adc-2093-43e1-9589-d62e94fd9f68
+- author: null
+  character: null
+  content: 我的心开始跟着你走。
+  created_at: 2026-08-29 23:40:57
+  source: 一生离不开的是你
+  uuid: cee4ef66-efe1-4588-bfbb-73952734ca68
+- author: 王健美
+  character: null
+  content: 山风山风等等我。
+  created_at: 2026-08-29 21:21:28
+  source: 山风山风等等我
+  uuid: a137c945-5f03-436e-8685-18d13ab2da68
+- author: 玉镯儿
+  character: null
+  content: 天空是蜡染的蓝。
+  created_at: 2026-08-08 16:05:58
+  source: 每个人 (舒楠监制 官方正式版)
+  uuid: 9770b091-0234-4159-a431-76466c185c68
+- author: 刘大壮
+  character: null
+  content: 经历过天堂般的美好，又怎舍得在地狱煎熬。
+  created_at: 2026-08-07 16:18:52
+  source: 我很好
+  uuid: 8bb3975e-53d3-4846-9655-20732fc2b568
+- author: 蒋雪儿Snow.J
+  character: null
+  content: 每次想你我都会心痛，我的思念转过寂静的天空。
+  created_at: 2026-08-07 13:02:15
+  source: 梦的翅膀受了伤
+  uuid: 0fb3215f-3ac9-4715-a64a-3f513a550168
+- author: null
+  character: null
+  content: 学习，学习，再学习！学，然后知不足。
+  created_at: 2022-10-17 22:33:50
+  source: 弗拉基米尔.伊里奇.列宁
+  uuid: 583f68a1-13a4-4be2-b827-52214a4d8768
+- author: 楼玉明只是路过
+  character: null
+  content: 殷勤命笔排字阵。
+  created_at: 2026-08-08 15:16:19
+  source: 宿草经年
+  uuid: 43e6b37d-e0da-4c95-99e9-b07597fec768
+- author: 三七
+  character: null
+  content: 曾经的那些发生过的开心和难过，就像开败的花。
+  created_at: 2026-07-24 20:41:17
+  source: 海屿你
+  uuid: 1e851442-a042-4751-a80a-60ac3256e968
+- author: 佚名
+  character: null
+  content: 改变不了事实，那就改变自己的认知。改变认知并不是让自己对这件事放开不管，而是让自己接纳这件事情。
+  created_at: 2026-05-07 23:47:37
+  source: 网络
+  uuid: c809ccca-57dc-4220-93de-685e3e659b68
+- author: null
+  character: null
+  content: 如果太年轻的爱注定要分开，我是不是要晚一点再说我爱你。
+  created_at: 2026-04-08 03:21:15
+  source: 网络
+  uuid: 968909df-2936-4b9a-ae18-0a9adf3c0a68
+- author: null
+  character: null
+  content: 思念悬枝，月影迟迟。
+  created_at: 2023-02-08 18:38:31
+  source: 小红书
+  uuid: 62dc356d-befa-4daa-9496-b1446d74cc68
+- author: 朱伟
+  character: null
+  content: 我们总喜欢拿顺其自然来敷衍人生路上的荆棘坎坷，却很少承认，真正的顺其自然是竭尽所能之后的不强求，而非两手一摊的不作为。
+  created_at: 2021-08-23 07:40:51
+  source: 恋练有词
+  uuid: 37ef0e57-2dab-4f3f-be86-910d0d772668
+- author: 维特根斯坦
+  character: null
+  content: 我（或者在读这篇文字的你）不属于这个世界。这是世界的界限。世界的意义必定存在于世界之外，世界中的一切事物如其所存在般而存在，如期所发生般而发生。世界之中不存在价值。
+  created_at: 2023-07-11 15:39:07
+  source: 逻辑哲学论
+  uuid: 38c1f51f-6ce5-4dde-a580-366f570aca68
+- author: 莎士比亚
+  character: null
+  content: 凡是过往，皆为序章。
+  created_at: 2023-05-31 21:08:23
+  source: 暴风雨
+  uuid: b7375e7d-a98e-47d4-97d4-24c66b1d6968
+- author: 艾米莉·狄金森
+  character: null
+  content: 我本可以忍受黑暗，如果我不曾见过光明。
+  created_at: 2021-02-03 01:16:46
+  source: 如果我不曾见过太阳
+  uuid: 9133e1b0-ddf3-429d-af44-9414dd6d0e68
+- author: null
+  character: null
+  content: “自己”这个东西是看不见的，撞上一些别的什么，反弹回来，才会了解“自己”。 所以，跟很强的东西、可怕的东西、水准很高的东西相碰撞，然后才知道“自己”是什么，这才是自我。
+  created_at: 2020-12-06 10:00:07
+  source: 山本耀司
+  uuid: 017b8d73-8094-45d9-9512-0be7f0f9cc68
+- author: null
+  character: null
+  content: 只有坦然接受命运的不公，才能安然享受生命的平等。
+  created_at: 2017-11-02 14:36:22
+  source: 站在两个世界的边缘
+  uuid: d0204ced-b80b-4c2f-a1ec-cb9865455c68
+- author: 维什戴尔（超新星）
+  character: null
+  content: 吼出声来，博士，你的朋友们都等着呢~。
+  created_at: 2026-06-27 14:40:22
+  source: 明日方舟
+  uuid: 5666f4f3-56e2-4e76-a010-c8843e8e3668
+- author: 崔三娘
+  character: null
+  content: 龙宫里都是宝藏,而我恰恰是龙王。
+  created_at: 2023-08-20 19:48:18
+  source: 永劫无间
+  uuid: a909faa1-256a-4eca-beb7-ab68890d4168
+- author: 米哈游
+  character: null
+  content: 女王万岁，不绝于耳！
+  created_at: 2023-10-06 21:50:27
+  source: 崩坏3
+  uuid: cfc51a1c-13d5-4000-a43a-d77970d4ad68
+- author: 机甲战士欧格玛
+  character: null
+  content: 输赢是次要的，我们并肩作战才是最重要的！
+  created_at: 2022-08-24 12:59:41
+  source: 坎公骑冠剑
+  uuid: ba5293c7-67c2-4b03-8621-0519fa3a2468
+- author: 大乔
+  character: null
+  content: 逆流而上吧。
+  created_at: 2021-05-13 12:02:37
+  source: 《王者荣耀》
+  uuid: 3f53df3c-770f-4048-89f3-ca7eff8cf368
+updated_at: 2026-09-25 11:58:44.570671+00:00
